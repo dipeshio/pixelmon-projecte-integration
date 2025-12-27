@@ -1,335 +1,887 @@
 {
-    "comment": "PixelE Bridge v1.0.2 - Comprehensive EMC values for Pixelmon items",
-    "set_emc": {
-        "pixelmon:poke_ball": 2048,
-        "pixelmon:great_ball": 4096,
-        "pixelmon:ultra_ball": 8192,
-        "pixelmon:master_ball": 524288,
-        "pixelmon:dive_ball": 4096,
-        "pixelmon:dusk_ball": 4096,
-        "pixelmon:fast_ball": 4096,
-        "pixelmon:friend_ball": 4096,
-        "pixelmon:heal_ball": 4096,
-        "pixelmon:heavy_ball": 4096,
-        "pixelmon:level_ball": 4096,
-        "pixelmon:love_ball": 4096,
-        "pixelmon:lure_ball": 4096,
-        "pixelmon:luxury_ball": 8192,
-        "pixelmon:moon_ball": 4096,
-        "pixelmon:nest_ball": 4096,
-        "pixelmon:net_ball": 4096,
-        "pixelmon:premier_ball": 4096,
-        "pixelmon:quick_ball": 4096,
-        "pixelmon:repeat_ball": 4096,
-        "pixelmon:timer_ball": 4096,
-        "pixelmon:beast_ball": 262144,
-        "pixelmon:cherish_ball": 524288,
-        "pixelmon:dream_ball": 262144,
-        "pixelmon:gs_ball": 1048576,
-        "pixelmon:origin_ball": 524288,
-        "pixelmon:park_ball": 131072,
-        "pixelmon:safari_ball": 131072,
-        "pixelmon:sport_ball": 131072,
-        "pixelmon:strange_ball": 65536,
-        "pixelmon:ancient_poke_ball": 2048,
-        "pixelmon:ancient_great_ball": 4096,
-        "pixelmon:ancient_heavy_ball": 4096,
-        "pixelmon:ancient_ultra_ball": 8192,
-        "pixelmon:feather_ball": 4096,
-        "pixelmon:wing_ball": 8192,
-        "pixelmon:jet_ball": 16384,
-        "pixelmon:leaden_ball": 4096,
-        "pixelmon:gigaton_ball": 16384,
-        "pixelmon:red_apricorn": 64,
-        "pixelmon:yellow_apricorn": 64,
-        "pixelmon:blue_apricorn": 64,
-        "pixelmon:green_apricorn": 64,
-        "pixelmon:pink_apricorn": 64,
-        "pixelmon:black_apricorn": 64,
-        "pixelmon:white_apricorn": 64,
-        "pixelmon:cooked_red_apricorn": 256,
-        "pixelmon:cooked_yellow_apricorn": 256,
-        "pixelmon:cooked_blue_apricorn": 256,
-        "pixelmon:cooked_green_apricorn": 256,
-        "pixelmon:cooked_pink_apricorn": 256,
-        "pixelmon:cooked_black_apricorn": 256,
-        "pixelmon:cooked_white_apricorn": 256,
-        "pixelmon:fire_stone": 16384,
-        "pixelmon:water_stone": 16384,
-        "pixelmon:thunder_stone": 16384,
-        "pixelmon:leaf_stone": 16384,
-        "pixelmon:moon_stone": 16384,
-        "pixelmon:sun_stone": 16384,
-        "pixelmon:shiny_stone": 32768,
-        "pixelmon:dusk_stone": 32768,
-        "pixelmon:dawn_stone": 32768,
-        "pixelmon:ice_stone": 32768,
-        "pixelmon:rare_candy": 32768,
-        "pixelmon:ability_capsule": 131072,
-        "pixelmon:ability_patch": 524288,
-        "pixelmon:ever_stone": 8192,
-        "pixelmon:hp_up": 32768,
-        "pixelmon:protein": 32768,
-        "pixelmon:iron": 32768,
-        "pixelmon:calcium": 32768,
-        "pixelmon:zinc": 32768,
-        "pixelmon:carbos": 32768,
-        "pixelmon:pp_up": 32768,
-        "pixelmon:pp_max": 65536,
-        "pixelmon:xs_exp_candy": 1024,
-        "pixelmon:s_exp_candy": 2048,
-        "pixelmon:m_exp_candy": 4096,
-        "pixelmon:l_exp_candy": 8192,
-        "pixelmon:xl_exp_candy": 16384,
-        "pixelmon:silver_bottle_cap": 65536,
-        "pixelmon:gold_bottle_cap": 262144,
-        "pixelmon:lucky_egg": 65536,
-        "pixelmon:exp_share": 32768,
-        "pixelmon:kings_rock": 65536,
-        "pixelmon:metal_coat": 65536,
-        "pixelmon:dragon_scale": 65536,
-        "pixelmon:up_grade": 65536,
-        "pixelmon:dubious_disc": 65536,
-        "pixelmon:protector": 65536,
-        "pixelmon:electirizer": 65536,
-        "pixelmon:magmarizer": 65536,
-        "pixelmon:razor_claw": 65536,
-        "pixelmon:razor_fang": 65536,
-        "pixelmon:reaper_cloth": 65536,
-        "pixelmon:prism_scale": 65536,
-        "pixelmon:deep_sea_scale": 65536,
-        "pixelmon:deep_sea_tooth": 65536,
-        "pixelmon:linking_cord": 65536,
-        "pixelmon:black_augurite": 65536,
-        "pixelmon:peat_block": 65536,
-        "pixelmon:sweet_apple": 65536,
-        "pixelmon:tart_apple": 65536,
-        "pixelmon:cracked_pot": 65536,
-        "pixelmon:chipped_pot": 65536,
-        "pixelmon:galarica_cuff": 65536,
-        "pixelmon:galarica_wreath": 65536,
-        "pixelmon:sachet": 65536,
-        "pixelmon:whipped_dream": 65536,
-        "pixelmon:helix_fossil": 65536,
-        "pixelmon:dome_fossil": 65536,
-        "pixelmon:old_amber": 65536,
-        "pixelmon:root_fossil": 65536,
-        "pixelmon:claw_fossil": 65536,
-        "pixelmon:skull_fossil": 65536,
-        "pixelmon:armor_fossil": 65536,
-        "pixelmon:cover_fossil": 65536,
-        "pixelmon:plume_fossil": 65536,
-        "pixelmon:jaw_fossil": 65536,
-        "pixelmon:sail_fossil": 65536,
-        "pixelmon:bird_fossil": 65536,
-        "pixelmon:fish_fossil": 65536,
-        "pixelmon:drake_fossil": 65536,
-        "pixelmon:dino_fossil": 65536,
-        "pixelmon:potion": 256,
-        "pixelmon:super_potion": 512,
-        "pixelmon:hyper_potion": 1024,
-        "pixelmon:max_potion": 4096,
-        "pixelmon:full_restore": 8192,
-        "pixelmon:revive": 2048,
-        "pixelmon:max_revive": 16384,
-        "pixelmon:sacredash": 131072,
-        "pixelmon:ether": 1024,
-        "pixelmon:max_ether": 4096,
-        "pixelmon:elixir": 8192,
-        "pixelmon:max_elixir": 16384,
-        "pixelmon:choice_band": 32768,
-        "pixelmon:choice_specs": 32768,
-        "pixelmon:choice_scarf": 32768,
-        "pixelmon:life_orb": 32768,
-        "pixelmon:leftovers": 32768,
-        "pixelmon:focus_sash": 32768,
-        "pixelmon:rocky_helmet": 32768,
-        "pixelmon:assault_vest": 32768,
-        "pixelmon:eviolite": 32768,
-        "pixelmon:heavy_duty_boots": 32768,
-        "pixelmon:safety_goggles": 32768,
-        "pixelmon:weakness_policy": 32768,
-        "pixelmon:destiny_knot": 16384,
-        "pixelmon:macho_brace": 16384,
-        "pixelmon:power_anklet": 16384,
-        "pixelmon:power_band": 16384,
-        "pixelmon:power_belt": 16384,
-        "pixelmon:power_bracer": 16384,
-        "pixelmon:power_lens": 16384,
-        "pixelmon:power_weight": 16384,
-        "pixelmon:soothe_bell": 16384,
-        "pixelmon:adamant_orb": 131072,
-        "pixelmon:lustrous_orb": 131072,
-        "pixelmon:griseous_orb": 131072,
-        "pixelmon:soul_dew": 131072,
-        "pixelmon:abomasite": 131072,
-        "pixelmon:absolite": 131072,
-        "pixelmon:aerodactylite": 131072,
-        "pixelmon:aggronite": 131072,
-        "pixelmon:alakazite": 131072,
-        "pixelmon:altarianite": 131072,
-        "pixelmon:ampharosite": 131072,
-        "pixelmon:audinite": 131072,
-        "pixelmon:banettite": 131072,
-        "pixelmon:beedrillite": 131072,
-        "pixelmon:blastoisinite": 131072,
-        "pixelmon:blazikenite": 131072,
-        "pixelmon:cameruptite": 131072,
-        "pixelmon:charizardite_x": 131072,
-        "pixelmon:charizardite_y": 131072,
-        "pixelmon:diancite": 131072,
-        "pixelmon:galladite": 131072,
-        "pixelmon:garchompite": 131072,
-        "pixelmon:gardevoirite": 131072,
-        "pixelmon:gengarite": 131072,
-        "pixelmon:glalitite": 131072,
-        "pixelmon:gyaradosite": 131072,
-        "pixelmon:heracronite": 131072,
-        "pixelmon:houndoominite": 131072,
-        "pixelmon:kangaskhanite": 131072,
-        "pixelmon:latiasite": 131072,
-        "pixelmon:latiosite": 131072,
-        "pixelmon:lopunnite": 131072,
-        "pixelmon:lucarionite": 131072,
-        "pixelmon:manectite": 131072,
-        "pixelmon:mawilite": 131072,
-        "pixelmon:medichamite": 131072,
-        "pixelmon:metagrossite": 131072,
-        "pixelmon:mewtwonite_x": 131072,
-        "pixelmon:mewtwonite_y": 131072,
-        "pixelmon:pidgeotite": 131072,
-        "pixelmon:pinsirite": 131072,
-        "pixelmon:sablenite": 131072,
-        "pixelmon:salamencite": 131072,
-        "pixelmon:sceptilite": 131072,
-        "pixelmon:scizorite": 131072,
-        "pixelmon:sharpedonite": 131072,
-        "pixelmon:slowbronite": 131072,
-        "pixelmon:steelixite": 131072,
-        "pixelmon:swampertite": 131072,
-        "pixelmon:tyranitarite": 131072,
-        "pixelmon:venusaurite": 131072,
-        "pixelmon:buginium_z": 65536,
-        "pixelmon:darkinium_z": 65536,
-        "pixelmon:dragonium_z": 65536,
-        "pixelmon:electrium_z": 65536,
-        "pixelmon:fairium_z": 65536,
-        "pixelmon:fightinium_z": 65536,
-        "pixelmon:firium_z": 65536,
-        "pixelmon:flyinium_z": 65536,
-        "pixelmon:ghostium_z": 65536,
-        "pixelmon:grassium_z": 65536,
-        "pixelmon:groundium_z": 65536,
-        "pixelmon:icium_z": 65536,
-        "pixelmon:normalium_z": 65536,
-        "pixelmon:poisonium_z": 65536,
-        "pixelmon:psychium_z": 65536,
-        "pixelmon:rockium_z": 65536,
-        "pixelmon:steelium_z": 65536,
-        "pixelmon:waterium_z": 65536,
-        "pixelmon:aloraichium_z": 131072,
-        "pixelmon:decidium_z": 131072,
-        "pixelmon:eevium_z": 131072,
-        "pixelmon:incinium_z": 131072,
-        "pixelmon:kommonium_z": 131072,
-        "pixelmon:lunalium_z": 131072,
-        "pixelmon:lycanium_z": 131072,
-        "pixelmon:marshadium_z": 131072,
-        "pixelmon:mewnium_z": 131072,
-        "pixelmon:mimikium_z": 131072,
-        "pixelmon:pikanium_z": 131072,
-        "pixelmon:pikashunium_z": 131072,
-        "pixelmon:primarium_z": 131072,
-        "pixelmon:snorlium_z": 131072,
-        "pixelmon:solganium_z": 131072,
-        "pixelmon:tapunium_z": 131072,
-        "pixelmon:ultranecrozium_z": 262144,
-        "pixelmon:draco_plate": 65536,
-        "pixelmon:dread_plate": 65536,
-        "pixelmon:earth_plate": 65536,
-        "pixelmon:fist_plate": 65536,
-        "pixelmon:flame_plate": 65536,
-        "pixelmon:icicle_plate": 65536,
-        "pixelmon:insect_plate": 65536,
-        "pixelmon:iron_plate": 65536,
-        "pixelmon:meadow_plate": 65536,
-        "pixelmon:mind_plate": 65536,
-        "pixelmon:pixie_plate": 65536,
-        "pixelmon:sky_plate": 65536,
-        "pixelmon:splash_plate": 65536,
-        "pixelmon:spooky_plate": 65536,
-        "pixelmon:stone_plate": 65536,
-        "pixelmon:toxic_plate": 65536,
-        "pixelmon:zap_plate": 65536,
-        "pixelmon:legend_plate": 1048576,
-        "pixelmon:burn_drive": 65536,
-        "pixelmon:chill_drive": 65536,
-        "pixelmon:douse_drive": 65536,
-        "pixelmon:shock_drive": 65536,
-        "pixelmon:mint_adamant": 16384,
-        "pixelmon:mint_bold": 16384,
-        "pixelmon:mint_brave": 16384,
-        "pixelmon:mint_calm": 16384,
-        "pixelmon:mint_careful": 16384,
-        "pixelmon:mint_gentle": 16384,
-        "pixelmon:mint_hasty": 16384,
-        "pixelmon:mint_impish": 16384,
-        "pixelmon:mint_jolly": 16384,
-        "pixelmon:mint_lax": 16384,
-        "pixelmon:mint_lonely": 16384,
-        "pixelmon:mint_mild": 16384,
-        "pixelmon:mint_modest": 16384,
-        "pixelmon:mint_naive": 16384,
-        "pixelmon:mint_naughty": 16384,
-        "pixelmon:mint_quiet": 16384,
-        "pixelmon:mint_rash": 16384,
-        "pixelmon:mint_relaxed": 16384,
-        "pixelmon:mint_sassy": 16384,
-        "pixelmon:mint_serious": 16384,
-        "pixelmon:mint_timid": 16384,
-        "pixelmon:azure_flute": 524288,
-        "pixelmon:dna_splicers": 262144,
-        "pixelmon:gracidea": 131072,
-        "pixelmon:prison_bottle": 262144,
-        "pixelmon:reveal_glass": 262144,
-        "pixelmon:red_orb": 262144,
-        "pixelmon:blue_orb": 262144,
-        "pixelmon:red_chain": 524288,
-        "pixelmon:n_lunarizer": 262144,
-        "pixelmon:n_solarizer": 262144,
-        "pixelmon:reins_of_unity": 262144,
-        "pixelmon:rusted_sword": 262144,
-        "pixelmon:rusted_shield": 262144,
-        "pixelmon:ruby": 8192,
-        "pixelmon:sapphire": 8192,
-        "pixelmon:amethyst": 2048,
-        "pixelmon:crystal": 2048,
-        "pixelmon:silicon": 512,
-        "pixelmon:aluminum_ingot": 1024,
-        "pixelmon:platinum_ingot": 8192,
-        "pixelmon:silver_ingot": 4096,
-        "pixelmon:pc": 32768,
-        "pixelmon:healer": 16384,
-        "pixelmon:fossil_machine": 65536,
-        "pixelmon:cloning_machine": 262144,
-        "pixelmon:trade_machine": 32768,
-        "pixelmon:mechanical_anvil": 65536,
-        "pixelmon:anvil": 16384,
-        "pixelmon:repel": 512,
-        "pixelmon:super_repel": 1024,
-        "pixelmon:max_repel": 2048,
-        "pixelmon:old_rod": 1024,
-        "pixelmon:good_rod": 4096,
-        "pixelmon:super_rod": 16384,
-        "pixelmon:item_finder": 16384,
-        "pixelmon:nugget": 16384,
-        "pixelmon:big_nugget": 65536,
-        "pixelmon:pearl": 2048,
-        "pixelmon:big_pearl": 16384,
-        "pixelmon:pearl_string": 65536,
-        "pixelmon:stardust": 2048,
-        "pixelmon:star_piece": 32768,
-        "pixelmon:comet_shard": 131072,
-        "pixelmon:relic_crown": 262144
+    "comment": "PixelE Bridge v1.0.4 - Comprehensive EMC values for Pixelmon items",
+    "values": {
+        "before": [
+            {
+                "type": "projecte:item",
+                "emc_value": 2048,
+                "id": "pixelmon:poke_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:great_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 8192,
+                "id": "pixelmon:ultra_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 524288,
+                "id": "pixelmon:master_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:dive_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:dusk_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:fast_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:friend_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:heal_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:heavy_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:level_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:love_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:lure_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 8192,
+                "id": "pixelmon:luxury_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:moon_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:nest_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:net_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:premier_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:quick_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:repeat_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:timer_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 262144,
+                "id": "pixelmon:beast_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 524288,
+                "id": "pixelmon:cherish_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 262144,
+                "id": "pixelmon:dream_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 1048576,
+                "id": "pixelmon:gs_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 524288,
+                "id": "pixelmon:origin_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:park_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:safari_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:sport_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:strange_ball"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 32768,
+                "id": "pixelmon:rare_candy"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:ability_capsule"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 524288,
+                "id": "pixelmon:ability_patch"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 64,
+                "id": "pixelmon:red_apricorn"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 64,
+                "id": "pixelmon:yellow_apricorn"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 64,
+                "id": "pixelmon:blue_apricorn"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 64,
+                "id": "pixelmon:green_apricorn"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 64,
+                "id": "pixelmon:pink_apricorn"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 64,
+                "id": "pixelmon:black_apricorn"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 64,
+                "id": "pixelmon:white_apricorn"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 256,
+                "id": "pixelmon:cooked_red_apricorn"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 256,
+                "id": "pixelmon:cooked_yellow_apricorn"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 256,
+                "id": "pixelmon:cooked_blue_apricorn"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 256,
+                "id": "pixelmon:cooked_green_apricorn"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 256,
+                "id": "pixelmon:cooked_pink_apricorn"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 256,
+                "id": "pixelmon:cooked_black_apricorn"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 256,
+                "id": "pixelmon:cooked_white_apricorn"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:fire_stone"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:water_stone"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:thunder_stone"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:leaf_stone"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:moon_stone"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:sun_stone"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 32768,
+                "id": "pixelmon:shiny_stone"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 32768,
+                "id": "pixelmon:dusk_stone"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 32768,
+                "id": "pixelmon:dawn_stone"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 32768,
+                "id": "pixelmon:ice_stone"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 8192,
+                "id": "pixelmon:ever_stone"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 32768,
+                "id": "pixelmon:hp_up"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 32768,
+                "id": "pixelmon:protein"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 32768,
+                "id": "pixelmon:iron"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 32768,
+                "id": "pixelmon:calcium"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 32768,
+                "id": "pixelmon:zinc"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 32768,
+                "id": "pixelmon:carbos"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 32768,
+                "id": "pixelmon:pp_up"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:pp_max"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:silver_bottle_cap"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 262144,
+                "id": "pixelmon:gold_bottle_cap"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:lucky_egg"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 32768,
+                "id": "pixelmon:exp_share"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:kings_rock"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:metal_coat"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:dragon_scale"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:up_grade"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:dubious_disc"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:protector"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:electirizer"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:magmarizer"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:razor_claw"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:razor_fang"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:reaper_cloth"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:prism_scale"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:linking_cord"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:helix_fossil"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:dome_fossil"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:old_amber"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:root_fossil"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:claw_fossil"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:skull_fossil"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:armor_fossil"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 256,
+                "id": "pixelmon:potion"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 512,
+                "id": "pixelmon:super_potion"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 1024,
+                "id": "pixelmon:hyper_potion"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:max_potion"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 8192,
+                "id": "pixelmon:full_restore"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 2048,
+                "id": "pixelmon:revive"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:max_revive"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:sacredash"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:abomasite"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:absolite"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:alakazite"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:blazikenite"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:charizardite_x"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:charizardite_y"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:gengarite"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:gyaradosite"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:lucarionite"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:metagrossite"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:buginium_z"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:darkinium_z"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:dragonium_z"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:electrium_z"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:fairium_z"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:firium_z"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:grassium_z"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:groundium_z"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:icium_z"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:normalium_z"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:psychium_z"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:rockium_z"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:steelium_z"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:waterium_z"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:draco_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:dread_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:earth_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:fist_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:flame_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:icicle_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:insect_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:iron_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:meadow_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:mind_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:pixie_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:sky_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:splash_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:spooky_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:stone_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:toxic_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:zap_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 1048576,
+                "id": "pixelmon:legend_plate"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:mint_adamant"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:mint_bold"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:mint_brave"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:mint_calm"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:mint_careful"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:mint_jolly"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:mint_modest"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:mint_timid"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 524288,
+                "id": "pixelmon:azure_flute"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 262144,
+                "id": "pixelmon:dna_splicers"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:gracidea"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 262144,
+                "id": "pixelmon:prison_bottle"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 262144,
+                "id": "pixelmon:reveal_glass"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 262144,
+                "id": "pixelmon:red_orb"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 262144,
+                "id": "pixelmon:blue_orb"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 524288,
+                "id": "pixelmon:red_chain"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 8192,
+                "id": "pixelmon:ruby"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 8192,
+                "id": "pixelmon:sapphire"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 2048,
+                "id": "pixelmon:amethyst"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 2048,
+                "id": "pixelmon:crystal"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 512,
+                "id": "pixelmon:silicon"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 1024,
+                "id": "pixelmon:aluminum_ingot"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 8192,
+                "id": "pixelmon:platinum_ingot"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:silver_ingot"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 512,
+                "id": "pixelmon:repel"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 1024,
+                "id": "pixelmon:super_repel"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 2048,
+                "id": "pixelmon:max_repel"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 1024,
+                "id": "pixelmon:old_rod"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 4096,
+                "id": "pixelmon:good_rod"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:super_rod"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:item_finder"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 16384,
+                "id": "pixelmon:nugget"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 65536,
+                "id": "pixelmon:big_nugget"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 2048,
+                "id": "pixelmon:stardust"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 32768,
+                "id": "pixelmon:star_piece"
+            },
+            {
+                "type": "projecte:item",
+                "emc_value": 131072,
+                "id": "pixelmon:comet_shard"
+            }
+        ]
     }
 }
