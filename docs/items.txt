@@ -1,0 +1,1408 @@
+Poké Balls
+Grid Ancient Great Ball.pngAncient Great Ball
+Grid Ancient Heavy Ball.pngAncient Heavy Ball
+Grid Ancient Poké Ball.pngAncient Poké Ball
+Grid Ancient Ultra Ball.pngAncient Ultra Ball
+Grid Beast Ball.pngBeast Ball
+Grid Cherish Ball.pngCherish Ball
+Grid Christmas Ball.pngChristmas Ball
+Grid Dive Ball.pngDive Ball
+Grid Dream Ball.pngDream Ball
+Grid Dusk Ball.pngDusk Ball
+Grid Fast Ball.pngFast Ball
+Grid Feather Ball.pngFeather Ball
+Grid Friend Ball.pngFriend Ball
+Grid Gigaton Ball.pngGigaton Ball
+Grid Great Ball.pngGreat Ball
+Grid GS Ball.pngGS Ball
+Grid Heal Ball.pngHeal Ball
+Grid Heavy Ball.pngHeavy Ball
+Grid Jet Ball.pngJet Ball
+Grid Leaden Ball.pngLeaden Ball
+Grid Level Ball.pngLevel Ball
+Grid Love Ball.pngLove Ball
+Grid Lure Ball.pngLure Ball
+Grid Luxury Ball.pngLuxury Ball
+Grid Master Ball.pngMaster Ball
+Grid Moon Ball.pngMoon Ball
+Grid Nest Ball.pngNest Ball
+Grid Net Ball.pngNet Ball
+Grid Origin Ball.pngOrigin Ball
+Grid Park Ball.pngPark Ball
+Grid Poké Ball.pngPoké Ball
+Grid Premier Ball.pngPremier Ball
+Grid Quick Ball.pngQuick Ball
+Grid Repeat Ball.pngRepeat Ball
+Grid Safari Ball.pngSafari Ball
+Grid Sport Ball.pngSport Ball
+Grid Strange Ball.pngStrange Ball
+Grid Timer Ball.pngTimer Ball
+Grid Ultra Ball.pngUltra Ball
+Grid Wing Ball.pngWing Ball
+Poké Ball parts
+Grid Ancient Great Ball Lid.pngAncient Great Ball Lid
+Grid Ancient Heavy Ball Lid.pngAncient Heavy Ball Lid
+Grid Ancient Poké Ball Lid.pngAncient Poké Ball Lid
+Grid Ancient Ultra Ball Lid.pngAncient Ultra Ball Lid
+Grid Aluminum Base.pngAluminum Base
+Grid Dive Ball Lid.pngDive Ball Lid
+Grid Dusk Ball Lid.pngDusk Ball Lid
+Grid Fast Ball Lid.pngFast Ball Lid
+Grid Feather Ball Lid.pngFeather Ball Lid
+Grid Friend Ball Lid.pngFriend Ball Lid
+Grid Gigaton Ball Lid.pngGigaton Ball Lid
+Grid Great Ball Lid.pngGreat Ball Lid
+Grid Heal Ball Lid.pngHeal Ball Lid
+Grid Heavy Ball Lid.pngHeavy Ball Lid
+Grid Iron Base.pngIron Base
+Grid Jet Ball Lid.pngJet Ball Lid
+Grid Leaden Ball Lid.pngLeaden Ball Lid
+Grid Level Ball Lid.pngLevel Ball Lid
+Grid Love Ball Lid.pngLove Ball Lid
+Grid Lure Ball Lid.pngLure Ball Lid
+Grid Luxury Ball Lid.pngLuxury Ball Lid
+Grid Moon Ball Lid.pngMoon Ball Lid
+Grid Nest Ball Lid.pngNest Ball Lid
+Grid Net Ball Lid.pngNet Ball Lid
+Grid Poké Ball Lid.pngPoké Ball Lid
+Grid Platinum Base.pngPlatinum Base
+Grid Premier Ball Lid.pngPremier Ball Lid
+Grid Quick Ball Lid.pngQuick Ball Lid
+Grid Repeat Ball Lid.pngRepeat Ball Lid
+Grid Safari Ball Lid.pngSafari Ball Lid
+Grid Silver Base.pngSilver Base
+Grid Sport Ball Lid.pngSport Ball Lid
+Grid Timer Ball Lid.pngTimer Ball Lid
+Grid Ultra Ball Lid.pngUltra Ball Lid
+Grid Wing Ball Lid.pngWing Ball Lid
+Grid Wooden Base.pngWooden Base
+Resources
+Grid Aluminum Block.pngAluminum Block
+Grid Aluminum Ingot.pngAluminum Ingot
+Grid Aluminum Plate.pngAluminum Plate
+Grid Amethyst.pngAmethyst
+Grid Amethyst Block.pngAmethyst Block
+Grid Amethyst Ore.pngAmethyst Ore
+Grid Bauxite Ore.pngBauxite Ore
+Grid Black Apricorn.pngBlack Apricorn
+Grid Blue Apricorn.pngBlue Apricorn
+Grid Cooked Black Apricorn.pngCooked Black Apricorn
+Grid Cooked Blue Apricorn.pngCooked Blue Apricorn
+Grid Cooked Green Apricorn.pngCooked Green Apricorn
+Grid Cooked Pink Apricorn.pngCooked Pink Apricorn
+Grid Cooked Red Apricorn.pngCooked Red Apricorn
+Grid Cooked White Apricorn.pngCooked White Apricorn
+Grid Cooked Yellow Apricorn.pngCooked Yellow Apricorn
+Grid Crystal.pngCrystal
+Grid Crystal Block.pngCrystal Block
+Grid Crystal Ore.pngCrystal Ore
+Grid Dawn Stone Ore.pngDawn Stone Ore
+Grid Dawn Stone Shard.pngDawn Stone Shard
+Grid Dusk Stone Ore.pngDusk Stone Ore
+Grid Dusk Stone Shard.pngDusk Stone Shard
+Grid Fire Stone Ore.pngFire Stone Ore
+Grid Fire Stone Shard.pngFire Stone Shard
+Grid Green Apricorn.pngGreen Apricorn
+Grid Ice Stone Ore.pngIce Stone Ore
+Grid Ice Stone Shard.pngIce Stone Shard
+Grid Leaf Stone Ore.pngLeaf Stone Ore
+Grid Leaf Stone Shard.pngLeaf Stone Shard
+Grid Moon Stone Shard.pngMoon Stone Shard
+Grid Pink Apricorn.pngPink Apricorn
+Grid Platinum Block.pngPlatinum Block
+Grid Platinum Ingot.pngPlatinum Ingot
+Grid Platinum Ore.pngPlatinum Ore
+Grid Red Apricorn.pngRed Apricorn
+Grid Ruby.pngRuby
+Grid Ruby Block.pngRuby Block
+Grid Ruby Ore.pngRuby Ore
+Grid Sapphire.pngSapphire
+Grid Sapphire Block.pngSapphire Block
+Grid Sapphire Ore.pngSapphire Ore
+Grid Shiny Stone Ore.pngShiny Stone Ore
+Grid Shiny Stone Shard.pngShiny Stone Shard
+Grid Silicon.pngSilicon
+Grid Silicon Block.pngSilicon Block
+Grid Silicon Ore.pngSilicon Ore
+Grid Silver Block.pngSilver Block
+Grid Silver Ingot.pngSilver Ingot
+Grid Silver Ore.pngSilver Ore
+Grid Sun Stone Ore.pngSun Stone Ore
+Grid Sun Stone Shard New.pngSun Stone Shard
+Grid Thunder Stone Shard.pngThunder Stone Shard
+Grid Thunder Stone Ore.pngThunder Stone Ore
+Grid Water Stone Ore.pngWater Stone Ore
+Grid Water Stone Shard.pngWater Stone Shard
+Grid White Apricorn.pngWhite Apricorn
+Grid Yellow Apricorn.pngYellow Apricorn
+Tools/Armor
+Grid Aluminum Axe.pngAluminum Axe
+Grid Aluminum Boots.pngAluminum Boots
+Grid Aluminum Chestplate.pngAluminum Chestplate
+Grid Aluminum Hammer.pngAluminum Hammer
+Grid Aluminum Helmet.pngAluminum Helmet
+Grid Aluminum Hoe.pngAluminum Hoe
+Grid Aluminum Leggings.pngAluminum Leggings
+Grid Aluminum Pickaxe.pngAluminum Pickaxe
+Grid Aluminum Shovel.pngAluminum Shovel
+Grid Aluminum Sword.pngAluminum Sword
+Grid Amethyst Axe.pngAmethyst Axe
+Grid Amethyst Hammer.pngAmethyst Hammer
+Grid Amethyst Hoe.pngAmethyst Hoe
+Grid Amethyst Pickaxe.pngAmethyst Pickaxe
+Grid Amethyst Shovel.pngAmethyst Shovel
+Grid Amethyst Sword.pngAmethyst Sword
+Grid Aqua Boots.pngAqua Boots
+Grid Aqua Chestplate.pngAqua Chestplate
+Grid Aqua Helmet.pngAqua Helmet
+Grid Aqua Leggings.pngAqua Leggings
+Grid Camera.pngCamera
+Grid Crystal Axe.pngCrystal Axe
+Grid Crystal Hammer.pngCrystal Hammer
+Grid Crystal Hoe.pngCrystal Hoe
+Grid Crystal Pickaxe.pngCrystal Pickaxe
+Grid Crystal Shovel.pngCrystal Shovel
+Grid Crystal Sword.pngCrystal Sword
+Grid Dawn Stone Axe.pngDawn Stone Axe
+Grid Dawn Stone Boots.pngDawn Stone Boots
+Grid Dawn Stone Chestplate.pngDawn Stone Chestplate
+Grid Dawn Stone Hammer.pngDawn Stone Hammer
+Grid Dawn Stone Helmet.pngDawn Stone Helmet
+Grid Dawn Stone Hoe.pngDawn Stone Hoe
+Grid Dawn Stone Leggings.pngDawn Stone Leggings
+Grid Dawn Stone Pickaxe.pngDawn Stone Pickaxe
+Grid Dawn Stone Shovel.pngDawn Stone Shovel
+Grid Dawn Stone Sword.pngDawn Stone Sword
+Grid Diamond Hammer.pngDiamond Hammer
+Grid Dusk Stone Axe.pngDusk Stone Axe
+Grid Dusk Stone Boots.pngDusk Stone Boots
+Grid Dusk Stone Chestplate.pngDusk Stone Chestplate
+Grid Dusk Stone Hammer.pngDusk Stone Hammer
+Grid Dusk Stone Helmet.pngDusk Stone Helmet
+Grid Dusk Stone Hoe.pngDusk Stone Hoe
+Grid Dusk Stone Leggings.pngDusk Stone Leggings
+Grid Dusk Stone Pickaxe.pngDusk Stone Pickaxe
+Grid Dusk Stone Shovel.pngDusk Stone Shovel
+Grid Dusk Stone Sword.pngDusk Stone Sword
+Grid Film.pngFilm
+Grid Fire Stone Axe.pngFire Stone Axe
+Grid Fire Stone Boots.pngFire Stone Boots
+Grid Fire Stone Chestplate.pngFire Stone Chestplate
+Grid Fire Stone Hammer.pngFire Stone Hammer
+Grid Fire Stone Helmet.pngFire Stone Helmet
+Grid Fire Stone Hoe.pngFire Stone Hoe
+Grid Fire Stone Leggings.pngFire Stone Leggings
+Grid Fire Stone Pickaxe.pngFire Stone Pickaxe
+Grid Fire Stone Shovel.pngFire Stone Shovel
+Grid Fire Stone Sword.pngFire Stone Sword
+Grid Galactic Boots.pngGalactic Boots
+Grid Galactic Chestplate.pngGalactic Chestplate
+Grid Galactic Leggings.pngGalactic Leggings
+Grid Galactic Swag.pngGalactic Swag
+Grid Gold Hammer.pngGold Hammer
+Grid Good Rod.pngGood Rod
+Grid Iron Hammer.pngIron Hammer
+Grid Itemfinder.pngItemfinder
+Grid Leaf Stone Axe.pngLeaf Stone Axe
+Grid Leaf Stone Boots.pngLeaf Stone Boots
+Grid Leaf Stone Chestplate.pngLeaf Stone Chestplate
+Grid Leaf Stone Hammer.pngLeaf Stone Hammer
+Grid Leaf Stone Helmet.pngLeaf Stone Helmet
+Grid Leaf Stone Hoe.pngLeaf Stone Hoe
+Grid Leaf Stone Leggings.pngLeaf Stone Leggings
+Grid Leaf Stone Pickaxe.pngLeaf Stone Pickaxe
+Grid Leaf Stone Shovel.pngLeaf Stone Shovel
+Grid Leaf Stone Sword.pngLeaf Stone Sword
+Grid Magma Boots.pngMagma Boots
+Grid Magma Chestplate.pngMagma Chestplate
+Grid Magma Helmet.pngMagma Helmet
+Grid Magma Leggings.pngMagma Leggings
+Grid Moon Stone Axe.pngMoon Stone Axe
+Grid Moon Stone Boots.pngMoon Stone Boots
+Grid Moon Stone Chestplate.pngMoon Stone Chestplate
+Grid Moon Stone Hammer.pngMoon Stone Hammer
+Grid Moon Stone Helmet.pngMoon Stone Helmet
+Grid Moon Stone Hoe.pngMoon Stone Hoe
+Grid Moon Stone Leggings.pngMoon Stone Leggings
+Grid Moon Stone Pickaxe.pngMoon Stone Pickaxe
+Grid Moon Stone Shovel.pngMoon Stone Shovel
+Grid Moon Stone Sword.pngMoon Stone Sword
+Grid Neo Plasma Boots.pngNeo Plasma Boots
+Grid Neo Plasma Chestplate.pngNeo Plasma Chestplate
+Grid Neo Plasma Helmet.pngNeo Plasma Helmet
+Grid Neo Plasma Leggings.pngNeo Plasma Leggings
+Grid New Running Boots.pngNew Running Boots
+Grid Old Rod.pngOld Rod
+Grid Old Running Boots.pngOld Running Boots
+Grid Plasma Boots.pngPlasma Boots
+Grid Plasma Chestplate.pngPlasma Chestplate
+Grid Plasma Helmet.pngPlasma Helmet
+Grid Plasma Leggings.pngPlasma Leggings
+Grid Rocket Boots.pngRocket Boots
+Grid Rocket Chestplate.pngRocket Chestplate
+Grid Rocket Helmet.pngRocket Helmet
+Grid Rocket Leggings.pngRocket Leggings
+Grid Ruby Axe.pngRuby Axe
+Grid Ruby Hammer.pngRuby Hammer
+Grid Ruby Hoe.pngRuby Hoe
+Grid Ruby Pickaxe.pngRuby Pickaxe
+Grid Ruby Shovel.pngRuby Shovel
+Grid Ruby Sword.pngRuby Sword
+Grid Sapphire Axe.pngSapphire Axe
+Grid Sapphire Hammer.pngSapphire Hammer
+Grid Sapphire Hoe.pngSapphire Hoe
+Grid Sapphire Pickaxe.pngSapphire Pickaxe
+Grid Sapphire Shovel.pngSapphire Shovel
+Grid Sapphire Sword.pngSapphire Sword
+Grid Stone Hammer.pngStone Hammer
+Grid Sun Stone Axe.pngSun Stone Axe
+Grid Sun Stone Boots.pngSun Stone Boots
+Grid Sun Stone Chestplate.pngSun Stone Chestplate
+Grid Sun Stone Hammer.pngSun Stone Hammer
+Grid Sun Stone Helmet.pngSun Stone Helmet
+Grid Sun Stone Hoe.pngSun Stone Hoe
+Grid Sun Stone Leggings.pngSun Stone Leggings
+Grid Sun Stone Pickaxe.pngSun Stone Pickaxe
+Grid Sun Stone Shovel.pngSun Stone Shovel
+Grid Sun Stone Sword.pngSun Stone Sword
+Grid Super Rod New.pngSuper Rod
+Grid Thunder Stone Axe.pngThunder Stone Axe
+Grid Thunder Stone Boots.pngThunder Stone Boots
+Grid Thunder Stone Chestplate.pngThunder Stone Chestplate
+Grid Thunder Stone Hammer.pngThunder Stone Hammer
+Grid Thunder Stone Helmet.pngThunder Stone Helmet
+Grid Thunder Stone Hoe.pngThunder Stone Hoe
+Grid Thunder Stone Leggings.pngThunder Stone Leggings
+Grid Thunder Stone Pickaxe.pngThunder Stone Pickaxe
+Grid Thunder Stone Shovel.pngThunder Stone Shovel
+Grid Thunder Stone Sword.pngThunder Stone Sword
+Grid Wailmer Pail.pngWailmer Pail
+Grid Water Stone Axe.pngWater Stone Axe
+Grid Water Stone Boots.pngWater Stone Boots
+Grid Water Stone Chestplate.pngWater Stone Chestplate
+Grid Water Stone Hammer.pngWater Stone Hammer
+Grid Water Stone Helmet.pngWater Stone Helmet
+Grid Water Stone Hoe.pngWater Stone Hoe
+Grid Water Stone Leggings.pngWater Stone Leggings
+Grid Water Stone Pickaxe.pngWater Stone Pickaxe
+Grid Water Stone Shovel.pngWater Stone Shovel
+Grid Water Stone Sword.pngWater Stone Sword
+Grid Wood Hammer.pngWood Hammer
+Machines
+Grid Anvil.pngAnvil
+Grid Blue Vending Machine.pngBlue Vending Machine
+Grid Cloning Machine.pngCloning Machine
+Grid Elevator.pngElevator
+Grid Fossil Cleaner.pngFossil Cleaner
+Grid Fossil Machine.pngFossil Machine
+Grid Green Vending Machine.pngGreen Vending Machine
+Grid Healer.pngHealer
+Grid Mechanical Anvil.pngMechanical Anvil
+Grid Movement Plate.pngMovement Plate
+Grid Orange Vending Machine.pngOrange Vending Machine
+Grid PC.pngPC
+Grid Pink Vending Machine.pngPink Vending Machine
+Grid Ranch Block.pngRanch Block
+Grid Red Vending Machine.pngRed Vending Machine
+Grid Stick Plate.pngStick Plate
+Grid Timed Fall New.pngTimed Fall
+Grid Trade Machine.pngTrade Machine
+Grid Yellow Vending Machine.pngYellow Vending Machine
+Grid Infuser.pngInfuser
+Machine parts
+Grid Cloner Cord.pngCloner Cord
+Grid Fossil Machine Base.pngFossil Machine Base
+Grid Fossil Machine Display.pngFossil Machine Display
+Grid Fossil Machine Tank.pngFossil Machine Tank
+Grid Fossil Machine Top.pngFossil Machine Top
+Grid Green Tank.pngGreen Tank
+Grid Orange Tank.pngOrange Tank
+Grid Ranch Upgrade.pngRanch Upgrade
+Grid Trade Panel.pngTrade Panel
+Grid Trade Monitor.pngTrade Monitor
+Grid Trade Holder Left.pngTrade Holder Left
+Grid Trade Holder Right.pngTrade Holder Right
+Fossils
+Grid Armor Fossil.pngArmor Fossil
+Grid Bird Fossil.pngBird Fossil
+Grid Claw Fossil.pngClaw Fossil
+Grid Cover Fossil.pngCover Fossil
+Grid Covered Fossil.pngCovered Fossil
+Grid Dino Fossil.pngDino Fossil
+Grid Dome Fossil.pngDome Fossil
+Grid Drake Fossil.pngDrake Fossil
+Grid Fish Fossil.pngFish Fossil
+Grid Fossil.pngFossil
+Grid Helix Fossil.pngHelix Fossil
+Grid Jaw Fossil.pngJaw Fossil
+Grid Old Amber.pngOld Amber
+Grid Plume Fossil.pngPlume Fossil
+Grid Root Fossil.pngRoot Fossil
+Grid Sail Fossil.pngSail Fossil
+Grid Skull Fossil.pngSkull Fossil
+Medicine
+Grid Ability Capsule.pngAbility Capsule
+Grid Ability Patch.pngAbility Patch
+Grid Antidote.pngAntidote
+Grid Awakening.pngAwakening
+Grid Big Malasada.pngBig Malasada
+Grid Blue Flute.pngBlue Flute
+Grid Burn Heal.pngBurn Heal
+Grid Calcium.pngCalcium
+Grid Carbos.pngCarbos
+Grid Casteliacone.pngCasteliacone
+Grid Clever Feather.pngClever Feather
+Grid Dire Hit.pngDire Hit
+Grid Elixir.pngElixir
+Grid Energy Powder.pngEnergy Powder
+Grid Energy Root.pngEnergy Root
+Grid Ether.pngEther
+Grid Fresh Water.pngFresh Water
+Grid Full Heal.pngFull Heal
+Grid Full Restore.pngFull Restore
+Grid Genius Feather.pngGenius Feather
+Grid Green Flute.pngGreen Flute
+Grid Guard Spec.pngGuard Spec
+Grid Heal Powder.pngHeal Powder
+Grid Health Feather.pngHealth Feather
+Grid HP Up.pngHP Up
+Grid Hyper Potion.pngHyper Potion
+Grid Ice Heal.pngIce Heal
+Grid Iron.pngIron
+Grid L Exp. Candy.pngL Exp. Candy
+Grid Lava Cookie.pngLava Cookie
+Grid Lemonade.pngLemonade
+Grid Lumiose Galette.pngLumiose Galette
+Grid M Exp. Candy.pngM Exp. Candy
+Grid Max Elixir.pngMax Elixir
+Grid Max Ether.pngMax Ether
+Grid Max Mushrooms.pngMax Mushrooms
+Grid Max Potion New.pngMax Potion
+Grid Max Revive.pngMax Revive
+Grid Moomoo Milk.pngMoomoo Milk
+Grid Muscle Feather.pngMuscle Feather
+Grid Old Gateau.pngOld Gateau
+Grid Paralyze Heal.pngParalyze Heal
+Grid Potion.pngPotion
+Grid PP Max.pngPP Max
+Grid PP Up.pngPP Up
+Silver bottlecap.pngSilver Bottle Cap
+Golden bottlecap.pngGold Bottle Cap
+Grid Protein.pngProtein
+Grid Rage Candy Bar.pngRage Candy Bar
+Grid Rare Candy.pngRare Candy
+Grid Red Flute.pngRed Flute
+Grid Resist Feather.pngResist Feather
+Grid Revival Herb.pngRevival Herb
+Grid Revive.pngRevive
+Grid S Exp. Candy.pngS Exp. Candy
+Grid Sacred Ash.pngSacred Ash
+Grid Shalour Sable.pngShalour Sable
+Grid Soda Pop.pngSoda Pop
+Grid Super Potion.pngSuper Potion
+Grid Sweet Heart.pngSweet Heart
+Grid Swift Feather.pngSwift Feather
+Grid X Accuracy.pngX Accuracy
+Grid X Attack.pngX Attack
+Grid X Defense.pngX Defense
+Grid X Sp. Atk.pngX Sp. Atk
+Grid X Sp. Def.pngX Sp. Def
+Grid X Speed.pngX Speed
+Grid XL Exp. Candy.pngXL Exp. Candy
+Grid XS Exp. Candy.pngXS Exp. Candy
+Grid Yellow Flute.pngYellow Flute
+Grid Zinc.pngZinc
+Berries
+Grid Aguav Berry.pngAguav Berry
+Grid Apicot Berry.pngApicot Berry
+Grid Aspear Berry.pngAspear Berry
+Grid Babiri Berry.pngBabiri Berry
+Grid Charti Berry.pngCharti Berry
+Grid Cheri Berry.pngCheri Berry
+Grid Chesto Berry.pngChesto Berry
+Grid Chilan Berry.pngChilan Berry
+Grid Chople Berry.pngChople Berry
+Grid Coba Berry.pngCoba Berry
+Grid Colbur Berry.pngColbur Berry
+Grid Custap Berry.pngCustap Berry
+Grid Drash Berry.pngDrash Berry
+Grid Eggant Berry.pngEggant Berry
+Grid Enigma Berry.pngEnigma Berry
+Grid Figy Berry.pngFigy Berry
+Grid Ganlon Berry.pngGanlon Berry
+Grid Ginema Berry.pngGinema Berry
+Grid Grepa Berry.pngGrepa Berry
+Grid Haban Berry.pngHaban Berry
+Grid Hondew Berry.pngHondew Berry
+Grid Iapapa Berry.pngIapapa Berry
+Grid Jaboca Berry.pngJaboca Berry
+Grid Kasib Berry.pngKasib Berry
+Grid Kebia Berry.pngKebia Berry
+Grid Kee Berry.pngKee Berry
+Grid Kelpsy Berry.pngKelpsy Berry
+Grid Lansat Berry.pngLansat Berry
+Grid Leppa Berry.pngLeppa Berry
+Grid Liechi Berry.pngLiechi Berry
+Grid Lum Berry.pngLum Berry
+Grid Mago Berry.pngMago Berry
+Grid Maranga Berry.pngMaranga Berry
+Grid Micle Berry.pngMicle Berry
+Grid Occa Berry.pngOcca Berry
+Grid Oran Berry.pngOran Berry
+Grid Passho Berry.pngPassho Berry
+Grid Payapa Berry.pngPayapa Berry
+Grid Pecha Berry.pngPecha Berry
+Grid Persim Berry.pngPersim Berry
+Grid Petaya Berry.pngPetaya Berry
+Grid Pomeg Berry.pngPomeg Berry
+Grid Pumkin Berry.pngPumkin Berry
+Grid Qualot Berry.pngQualot Berry
+Grid Rawst Berry.pngRawst Berry
+Grid Rindo Berry.pngRindo Berry
+Grid Roseli Berry.pngRoseli Berry
+Grid Rowap Berry.pngRowap Berry
+Grid Salac Berry.pngSalac Berry
+Grid Shuca Berry.pngShuca Berry
+Grid Sitrus Berry.pngSitrus Berry
+Grid Starf Berry.pngStarf Berry
+Grid Tamato Berry.pngTamato Berry
+Grid Tanga Berry.pngTanga Berry
+Grid Touga Berry.pngTouga Berry
+Grid Wacan Berry.pngWacan Berry
+Grid Wiki Berry.pngWiki Berry
+Grid Yache Berry.pngYache Berry
+Grid Yago Berry.pngYago Berry
+Grid Durin Berry.pngDurin Berry
+Grid Cornn Berry.pngCornn Berry
+Grid Pamtre Berry.pngPamtre Berry
+Grid Belue Berry.pngBelue Berry
+Grid Nomel Berry.pngNomel Berry
+Grid Spelon Berry.pngSpelon Berry
+Grid Rabuta Berry.pngRabuta Berry
+Grid Watmel Berry.pngWatmel Berry
+Grid Magost Berry.pngMagost Berry
+Mints
+Grid Mint Cutting.pngMint Cutting
+Grid Lonely mint.pngLonely mint
+Grid Adamant mint.pngAdamant mint
+Grid Naughty mint.pngNaughty mint
+Grid Brave mint.pngBrave mint
+Grid Bold mint.pngBold mint
+Grid Impish mint.pngImpish mint
+Grid Lax mint.pngLax mint
+Grid Relaxed mint.pngRelaxed mint
+Grid Modest mint.pngModest mint
+Grid Mild mint.pngMild mint
+Grid Rash mint.pngRash mint
+Grid Quiet mint.pngQuiet mint
+Grid Calm mint.pngCalm mint
+Grid Gentle mint.pngGentle mint
+Grid Careful mint.pngCareful mint
+Grid Sassy mint.pngSassy mint
+Grid Timid mint.pngTimid mint
+Grid Hasty mint.pngHasty mint
+Grid Jolly mint.pngJolly mint
+Grid Naive mint.pngNaive mint
+Grid Quirky mint.pngQuirky mint
+Grid Bashful mint.pngBashful mint
+Grid Serious mint.pngSerious mint
+Grid Docile mint.pngDocile mint
+Grid Hardy mint.pngHardy mint
+Incenses
+Grid Full Incense.pngFull Incense
+Grid Lax Incense.pngLax Incense
+Grid Luck Incense.pngLuck Incense
+Grid Odd Incense.pngOdd Incense
+Grid Pure Incense.pngPure Incense
+Grid Rock Incense.pngRock Incense
+Grid Rose Incense.pngRose Incense
+Grid Sea Incense.pngSea Incense
+Grid Wave Incense.pngWave Incense
+Grid Incense burner.pngIncense burner
+Gems
+Grid Bug Gem.pngBug Gem
+Grid Dark Gem.pngDark Gem
+Grid Dragon Gem.pngDragon Gem
+Grid Electric Gem.pngElectric Gem
+Grid Fairy Gem.pngFairy Gem
+Grid Fighting Gem.pngFighting Gem
+Grid Fire Gem.pngFire Gem
+Grid Flying Gem.pngFlying Gem
+Grid Ghost Gem.pngGhost Gem
+Grid Grass Gem.pngGrass Gem
+Grid Ground Gem.pngGround Gem
+Grid Ice Gem.pngIce Gem
+Grid Normal Gem.pngNormal Gem
+Grid Poison Gem.pngPoison Gem
+Grid Psychic Gem.pngPsychic Gem
+Grid Rock Gem.pngRock Gem
+Grid Steel Gem.pngSteel Gem
+Grid Water Gem.pngWater Gem
+Plates
+Grid Blank Plate.pngBlank Plate
+Grid Draco Plate.pngDraco Plate
+Grid Dread Plate.pngDread Plate
+Grid Earth Plate.pngEarth Plate
+Grid Fist Plate.pngFist Plate
+Grid Flame Plate.pngFlame Plate
+Grid Icicle Plate.pngIcicle Plate
+Grid Insect Plate.pngInsect Plate
+Grid Iron Plate.pngIron Plate
+Grid Legend Plate.pngLegend Plate
+Grid Meadow Plate.pngMeadow Plate
+Grid Mind Plate.pngMind Plate
+Grid Pixie Plate.pngPixie Plate
+Grid Sky Plate.pngSky Plate
+Grid Splash Plate.pngSplash Plate
+Grid Spooky Plate.pngSpooky Plate
+Grid Stone Plate.pngStone Plate
+Grid Toxic Plate.pngToxic Plate
+Grid Zap Plate.pngZap Plate
+Drives
+Grid Burn Drive.pngBurn Drive
+Grid Chill Drive.pngChill Drive
+Grid Douse Drive.pngDouse Drive
+Grid Shock Drive.pngShock Drive
+Held items
+Grid Absorb Bulb.pngAbsorb Bulb
+Grid Adamant Orb.pngAdamant Orb
+Grid Adrenaline Orb.pngAdrenaline Orb
+Grid Air Balloon.pngAir Balloon
+Grid Amulet Coin.pngAmulet Coin
+Grid Assault Vest.pngAssault Vest
+Grid Berry Juice.pngBerry Juice
+Grid Big Root.pngBig Root
+Grid Binding Band.pngBinding Band
+Grid Black Belt.pngBlack Belt
+Grid Black Glasses.pngBlack Glasses
+Grid Black Sludge.pngBlack Sludge
+Grid Blunder Policy.pngBlunder Policy
+Grid Bright Powder.pngBright Powder
+Grid Cell Battery.pngCell Battery
+Grid Charcoal.pngCharcoal
+Grid Choice Band.pngChoice Band
+Grid Choice Scarf.pngChoice Scarf
+Grid Choice Specs.pngChoice Specs
+Grid Cleanse Tag.pngCleanse Tag
+Grid Damp Rock.pngDamp Rock
+Grid Destiny Knot.pngDestiny Knot
+Grid Dragon Fang.pngDragon Fang
+Grid Eject Button.pngEject Button
+Grid Electric Seed.pngElectric Seed
+Grid Eviolite.pngEviolite
+Grid Exp. Share New.pngExp. Share
+Grid Expert Belt.pngExpert Belt
+Grid Flame Orb.pngFlame Orb
+Grid Float Stone.pngFloat Stone
+Grid Focus Band.pngFocus Band
+Grid Focus Sash.pngFocus Sash
+Grid Grassy Seed.pngGrassy Seed
+Grid Grip Claw.pngGrip Claw
+Grid Griseous Orb.pngGriseous Orb
+Grid Hard Stone.pngHard Stone
+Grid Heat Rock.pngHeat Rock
+Grid Heavy-Duty Boots.pngHeavy-Duty Boots
+Grid Icy Rock.pngIcy Rock
+Grid Iron Ball.pngIron Ball
+Grid King's Rock New.pngKing's Rock
+Grid Lagging Tail.pngLagging Tail
+Grid Leek.pngLeek
+Grid Leftovers.pngLeftovers
+Grid Life Orb.pngLife Orb
+Grid Light Ball.pngLight Ball
+Grid Light Clay.pngLight Clay
+Grid Lucky Egg.pngLucky Egg
+Grid Lucky Punch.pngLucky Punch
+Grid Luminous Moss.pngLuminous Moss
+Grid Lustrous Orb.pngLustrous Orb
+Grid Macho Brace New.pngMacho Brace
+Grid Magnet.pngMagnet
+Grid Mental Herb.pngMental Herb
+Grid Metal Coat.pngMetal Coat
+Grid Metal Powder.pngMetal Powder
+Grid Metronome.pngMetronome
+Grid Miracle Seed.pngMiracle Seed
+Grid Misty Seed.pngMisty Seed
+Grid Muscle Band.pngMuscle Band
+Grid Mystic Water.pngMystic Water
+Grid Never-Melt Ice.pngNever-Melt Ice
+Grid Poison Barb.pngPoison Barb
+Grid Power Anklet.pngPower Anklet
+Grid Power Band.pngPower Band
+Grid Power Belt.pngPower Belt
+Grid Power Bracer.pngPower Bracer
+Grid Power Herb.pngPower Herb
+Grid Power Lens.pngPower Lens
+Grid Power Weight.pngPower Weight
+Grid Psychic Seed.pngPsychic Seed
+Grid Quick Claw.pngQuick Claw
+Grid Quick Powder.pngQuick Powder
+Grid Razor Claw.pngRazor Claw
+Grid Razor Fang New.pngRazor Fang
+Grid Red Card.pngRed Card
+Grid Ring Target.pngRing Target
+Grid Rocky Helmet.pngRocky Helmet
+Grid Room Service.pngRoom Service
+Grid Safety Goggles.pngSafety Goggles
+Grid Scope Lens.pngScope Lens
+Grid Sharp Beak.pngSharp Beak
+Grid Shed Shell.pngShed Shell
+Grid Shell Bell.pngShell Bell
+Grid Silk Scarf.pngSilk Scarf
+Grid Silver Powder.pngSilver Powder
+Grid Smoke Ball.pngSmoke Ball
+Grid Smooth Rock.pngSmooth Rock
+Grid Snowball2.pngSnowball
+Grid Soft Sand.pngSoft Sand
+Grid Soothe Bell.pngSoothe Bell
+Grid Soul Dew.pngSoul Dew
+Grid Spell Tag.pngSpell Tag
+Grid Sticky Barb.pngSticky Barb
+Grid Terrain Extender.pngTerrain Extender
+Grid Thick Club.pngThick Club
+Grid Throat Spray.pngThroat Spray
+Grid Toxic Orb.pngToxic Orb
+Grid Twisted Spoon.pngTwisted Spoon
+Grid Weakness Policy.pngWeakness Policy
+Grid White Herb.pngWhite Herb
+Grid Wide Lens.pngWide Lens
+Grid Wise Glasses.pngWise Glasses
+Grid Zoom Lens.pngZoom Lens
+Evolutionary items
+Grid Black Augurite.pngBlack Augurite
+Grid Chipped Pot.pngChipped Pot
+Grid Cracked Pot.pngCracked Pot
+Grid Dawn Stone.pngDawn Stone
+Grid Deep Sea Scale.pngDeep Sea Scale
+Grid Deep Sea Tooth.pngDeep Sea Tooth
+Grid Dragon Scale.pngDragon Scale
+Grid Dubious Disc New.pngDubious Disc
+Grid Dusk Stone.pngDusk Stone
+Grid Electirizer New.pngElectirizer
+Grid Everstone.pngEverstone
+Grid Fire Stone.pngFire Stone
+Grid Gimmighoul Coin.pngGimmighoul Coin
+Grid Linking Cord.pngLinking Cord
+Grid Leaf Stone.pngLeaf Stone
+Grid Magmarizer New.pngMagmarizer
+Grid Moon Stone.pngMoon Stone
+Grid Oval Stone.pngOval Stone
+Grid Peat Block.pngPeat Block
+Grid Prism Scale.pngPrism Scale
+Grid Protector New.pngProtector
+Grid Reaper Cloth.pngReaper Cloth
+Grid Sachet.pngSachet
+Grid Shiny Stone.pngShiny Stone
+Grid Sun Stone.pngSun Stone
+Grid Sweet Apple.pngSweet Apple
+Grid Tart Apple.pngTart Apple
+Grid Thunder Stone.pngThunder Stone
+Grid Up-Grade New.pngUp-Grade
+Grid Water Stone.pngWater Stone
+Grid Whipped Dream.pngWhipped Dream
+Valuable Items
+Grid Balm Mushroom.pngBalm Mushroom
+Grid Big Mushroom.pngBig Mushroom
+Grid Big Nugget.pngBig Nugget
+Grid Big Pearl.pngBig Pearl
+Grid Comet Shard.pngComet Shard
+Grid Nugget.pngNugget
+Grid Pearl.pngPearl
+Grid Pearl String.pngPearl String
+Grid Rare Bone.pngRare Bone
+Grid Relic Band.pngRelic Band
+Grid Relic Copper.pngRelic Copper
+Grid Relic Crown.pngRelic Crown
+Grid Relic Gold.pngRelic Gold
+Grid Relic Silver.pngRelic Silver
+Grid Relic Statue.pngRelic Statue
+Grid Relic Vase.pngRelic Vase
+Grid Shoal Salt.pngShoal Salt
+Grid Shoal Shell.pngShoal Shell
+Grid Slowpoke Tail.pngSlowpoke Tail
+Grid Star Piece.pngStar Piece
+Grid Stardust.pngStardust
+Grid Strange Souvenir.pngStrange Souvenir
+Grid Tiny Mushroom.pngTiny Mushroom
+Mega Stones
+Grid Abomasite.pngAbomasite
+Grid Absolite.pngAbsolite
+Grid Aerodactylite.pngAerodactylite
+Grid Aggronite.pngAggronite
+Grid Alakazite.pngAlakazite
+Grid Altarianite.pngAltarianite
+Grid Ampharosite.pngAmpharosite
+Grid Audinite.pngAudinite
+Grid Banettite.pngBanettite
+Grid Beedrillite.pngBeedrillite
+Grid Blastoisinite.pngBlastoisinite
+Grid Blazikenite.pngBlazikenite
+Grid Cameruptite.pngCameruptite
+Grid Charizardite X.pngCharizardite X
+Grid Charizardite Y.pngCharizardite Y
+Grid Diancite.pngDiancite
+Grid Galladite.pngGalladite
+Grid Garchompite.pngGarchompite
+Grid Gardevoirite.pngGardevoirite
+Grid Gengarite.pngGengarite
+Grid Glalitite.pngGlalitite
+Grid Gyaradosite.pngGyaradosite
+Grid Heracronite.pngHeracronite
+Grid Houndoominite.pngHoundoominite
+Grid Kangaskhanite.pngKangaskhanite
+Grid Latiasite.pngLatiasite
+Grid Latiosite.pngLatiosite
+Grid Lopunnite.pngLopunnite
+Grid Lucarionite.pngLucarionite
+Grid Manectite.pngManectite
+Grid Mawilite.pngMawilite
+Grid Medichamite.pngMedichamite
+Grid Metagrossite.pngMetagrossite
+Grid Mewtwonite X.pngMewtwonite X
+Grid Mewtwonite Y.pngMewtwonite Y
+Grid Pidgeotite.pngPidgeotite
+Grid Pinsirite.pngPinsirite
+Grid Sablenite.pngSablenite
+Grid Salamencite.pngSalamencite
+Grid Sceptilite.pngSceptilite
+Grid Scizorite.pngScizorite
+Grid Sharpedonite.pngSharpedonite
+Grid Slowbronite.pngSlowbronite
+Grid Steelixite.pngSteelixite
+Grid Swampertite.pngSwampertite
+Grid Tyranitarite.pngTyranitarite
+Grid Venusaurite.pngVenusaurite
+TMs/HMs
+Bag TM Dark Sprite.pngTM01: Hone Claws
+Bag TM Dragon Sprite.pngTM02: Dragon Claw
+Bag TM Psychic Sprite.pngTM03: Psyshock
+Bag TM Psychic Sprite.pngTM04: Calm Mind
+Bag TM Normal Sprite.pngTM05: Roar
+Bag TM Poison Sprite.pngTM06: Toxic
+Bag TM Ice Sprite.pngTM07: Hail
+Bag TM Fighting Sprite.pngTM08: Bulk Up
+Bag TM Poison Sprite.pngTM09: Venoshock
+Bag TM Normal Sprite.pngTM10: Hidden Power
+Bag TM Fire Sprite.pngTM11: Sunny Day
+Bag TM Dark Sprite.pngTM12: Taunt
+Bag TM Ice Sprite.pngTM13: Ice Beam
+Bag TM Ice Sprite.pngTM14: Blizzard
+Bag TM Normal Sprite.pngTM15: Hyper Beam
+Bag TM Psychic Sprite.pngTM16: Light Screen
+Bag TM Normal Sprite.pngTM17: Protect
+Bag TM Water Sprite.pngTM18: Rain Dance
+Bag TM Psychic Sprite.pngTM19: Telekinesis
+Bag TM Normal Sprite.pngTM20: Safeguard
+Bag TM Normal Sprite.pngTM21: Frustration
+Bag TM Grass Sprite.pngTM22: Solar Beam
+Bag TM Rock Sprite.pngTM23: Smack Down
+Bag TM Electric Sprite.pngTM24: Thunderbolt
+Bag TM Electric Sprite.pngTM25: Thunder
+Bag TM Ground Sprite.pngTM26: Earthquake
+Bag TM Normal Sprite.pngTM27: Return
+Bag TM Ground Sprite.pngTM28: Dig
+Bag TM Psychic Sprite.pngTM29: Psychic
+Bag TM Ghost Sprite.pngTM30: Shadow Ball
+Bag TM Fighting Sprite.pngTM31: Brick Break
+Bag TM Normal Sprite.pngTM32: Double Team
+Bag TM Psychic Sprite.pngTM33: Reflect
+Bag TM Poison Sprite.pngTM34: Sludge Wave
+Bag TM Fire Sprite.pngTM35: Flamethrower
+Bag TM Poison Sprite.pngTM36: Sludge Bomb
+Bag TM Rock Sprite.pngTM37: Sandstorm
+Bag TM Fire Sprite.pngTM38: Fire Blast
+Bag TM Rock Sprite.pngTM39: Rock Tomb
+Bag TM Flying Sprite.pngTM40: Aerial Ace
+Bag TM Dark Sprite.pngTM41: Torment
+Bag TM Normal Sprite.pngTM42: Facade
+Bag TM Fire Sprite.pngTM43: Flame Charge
+Bag TM Psychic Sprite.pngTM44: Rest
+Bag TM Normal Sprite.pngTM45: Attract
+Bag TM Dark Sprite.pngTM46: Thief
+Bag TM Fighting Sprite.pngTM47: Low Sweep
+Bag TM Normal Sprite.pngTM48: Round
+Bag TM Normal Sprite.pngTM49: Echoed Voice
+Bag TM Fire Sprite.pngTM50: Overheat
+Bag TM Psychic Sprite.pngTM51: Ally Switch
+Bag TM Fighting Sprite.pngTM52: Focus Blast
+Bag TM Grass Sprite.pngTM53: Energy Ball
+Bag TM Normal Sprite.pngTM54: False Swipe
+Bag TM Water Sprite.pngTM55: Scald
+Bag TM Dark Sprite.pngTM56: Fling
+Bag TM Electric Sprite.pngTM57: Charge Beam
+Bag TM Flying Sprite.pngTM58: Sky Drop
+Bag TM Fire Sprite.pngTM59: Incinerate
+Bag TM Dark Sprite.pngTM60: Quash
+Bag TM Fire Sprite.pngTM61: Will-O-Wisp
+Bag TM Flying Sprite.pngTM62: Acrobatics
+Bag TM Dark Sprite.pngTM63: Embargo
+Bag TM Normal Sprite.pngTM64: Explosion
+Bag TM Ghost Sprite.pngTM65: Shadow Claw
+Bag TM Dark Sprite.pngTM66: Payback
+Bag TM Normal Sprite.pngTM67: Retaliate
+Bag TM Normal Sprite.pngTM68: Giga Impact
+Bag TM Rock Sprite.pngTM69: Rock Polish
+Bag TM Normal Sprite.pngTM70: Flash
+Bag TM Rock Sprite.pngTM71: Stone Edge
+Bag TM Electric Sprite.pngTM72: Volt Switch
+Bag TM Electric Sprite.pngTM73: Thunder Wave
+Bag TM Steel Sprite.pngTM74: Gyro Ball
+Bag TM Normal Sprite.pngTM75: Swords Dance
+Bag TM Bug Sprite.pngTM76: Struggle Bug
+Bag TM Normal Sprite.pngTM77: Psych Up
+Bag TM Ground Sprite.pngTM78: Bulldoze
+Bag TM Ice Sprite.pngTM79: Frost Breath
+Bag TM Rock Sprite.pngTM80: Rock Slide
+Bag TM Bug Sprite.pngTM81: X-Scissor
+Bag TM Dragon Sprite.pngTM82: Dragon Tail
+Bag TM Normal Sprite.pngTM83: Work Up
+Bag TM Poison Sprite.pngTM84: Poison Jab
+Bag TM Psychic Sprite.pngTM85: Dream Eater
+Bag TM Grass Sprite.pngTM86: Grass Knot
+Bag TM Normal Sprite.pngTM87: Swagger
+Bag TM Flying Sprite.pngTM88: Pluck
+Bag TM Bug Sprite.pngTM89: U-Turn
+Bag TM Normal Sprite.pngTM90: Substitute
+Bag TM Steel Sprite.pngTM91: Flash Cannon
+Bag TM Psychic Sprite.pngTM92: Trick Room
+Bag TM Electric Sprite.pngTM93: Wild Charge
+Bag TM Fighting Sprite.pngTM94: Rock Smash
+Bag TM Dark Sprite.pngTM95: Snarl
+Bag TM Normal Sprite.pngTM96: Mega Punch
+Bag TM Normal Sprite.pngTM97: Razor Wind
+Bag TM Normal Sprite.pngTM98: Whirlwind
+Bag TM Normal Sprite.pngTM99: Mega Kick
+Bag TM Normal Sprite.pngTM100: Horn Drill
+Bag TM Normal Sprite.pngTM101: Body Slam
+Bag TM Normal Sprite.pngTM102: Take Down
+Bag TM Normal Sprite.pngTM103: Double-Edge
+Bag TM Water Sprite.pngTM104: Bubble Beam
+Bag TM Water Sprite.pngTM105: Water Gun
+Bag TM Normal Sprite.pngTM106: Pay Day
+Bag TM Fighting Sprite.pngTM107: Submission
+Bag TM Fighting Sprite.pngTM108: Counter
+Bag TM Fighting Sprite.pngTM109: Seismic Toss
+Bag TM Normal Sprite.pngTM110: Rage
+Bag TM Grass Sprite.pngTM111: Mega Drain
+Bag TM Dragon Sprite.pngTM112: Dragon Rage
+Bag TM Ground Sprite.pngTM113: Fissure
+Bag TM Psychic Sprite.pngTM114: Teleport
+Bag TM Normal Sprite.pngTM115: Mimic
+Bag TM Normal Sprite.pngTM116: Bide
+Bag TM Normal Sprite.pngTM117: Metronome
+Bag TM Normal Sprite.pngTM118: Self-Destruct
+Bag TM Normal Sprite.pngTM119: Egg Bomb
+Bag TM Normal Sprite.pngTM120: Swift
+Bag TM Normal Sprite.pngTM121: Skull Bash
+Bag TM Normal Sprite.pngTM122: Soft-Boiled
+Bag TM Flying Sprite.pngTM123: Sky Attack
+Bag TM Psychic Sprite.pngTM124: Psywave
+Bag TM Normal Sprite.pngTM125: Tri Attack
+Bag TM Fighting Sprite.pngTM126: Dynamic Punch
+Bag TM Normal Sprite.pngTM127: Headbutt
+Bag TM Ghost Sprite.pngTM128: Curse
+Bag TM Rock Sprite.pngTM129: Rollout
+Bag TM Electric Sprite.pngTM130: Zap Cannon
+Bag TM Normal Sprite.pngTM131: Sweet Scent
+Bag TM Normal Sprite.pngTM132: Snore
+Bag TM Ice Sprite.pngTM133: Icy Wind
+Bag TM Grass Sprite.pngTM134: Giga Drain
+Bag TM Normal Sprite.pngTM135: Endure
+Bag TM Steel Sprite.pngTM136: Iron Tail
+Bag TM Dragon Sprite.pngTM137: Dragon Breath
+Bag TM Ground Sprite.pngTM138: Mud-Slap
+Bag TM Ice Sprite.pngTM139: Ice Punch
+Bag TM Normal Sprite.pngTM140: Sleep Talk
+Bag TM Normal Sprite.pngTM141: Defense Curl
+Bag TM Electric Sprite.pngTM142: Thunder Punch
+Bag TM Fighting Sprite.pngTM143: Detect
+Bag TM Steel Sprite.pngTM144: Steel Wing
+Bag TM Fire Sprite.pngTM145: Fire Punch
+Bag TM Bug Sprite.pngTM146: Fury Cutter
+Bag TM Ghost Sprite.pngTM147: Nightmare
+Bag TM Fighting Sprite.pngTM148: Focus Punch
+Bag TM Water Sprite.pngTM149: Water Pulse
+Bag TM Grass Sprite.pngTM150: Bullet Seed
+Bag TM Electric Sprite.pngTM151: Shock Wave
+Bag TM Normal Sprite.pngTM152: Secret Power
+Bag TM Psychic Sprite.pngTM153: Skill Swap
+Bag TM Dark Sprite.pngTM154: Snatch
+Bag TM Flying Sprite.pngTM155: Roost
+Bag TM Water Sprite.pngTM156: Brine
+Bag TM Dragon Sprite.pngTM157: Dragon Pulse
+Bag TM Fighting Sprite.pngTM158: Drain Punch
+Bag TM Bug Sprite.pngTM159: Silver Wind
+Bag TM Normal Sprite.pngTM160: Recycle
+Bag TM Ice Sprite.pngTM161: Avalanche
+Bag TM Rock Sprite.pngTM162: Stealth Rock
+Bag TM Normal Sprite.pngTM163: Captivate
+Bag TM Dark Sprite.pngTM164: Dark Pulse
+Bag TM Normal Sprite.pngTM165: Natural Gift
+Bag TM Bug Sprite.pngTM166: Infestation
+Bag TM Normal Sprite.pngTM167: Nature Power
+Bag TM Fighting Sprite.pngTM168: Power-Up Punch
+Bag TM Fairy Sprite New.pngTM169: Dazzling Gleam
+Bag TM Normal Sprite.pngTM170: Confide
+Bag TM Ice Sprite.pngTM171: Aurora Veil
+Bag TM Dark Sprite.pngTM172: Brutal Swing
+Bag TM Steel Sprite.pngTM173: Smart Strike
+Bag TM Bug Sprite.pngTM174: Leech Life
+Bag TM Normal Sprite.pngHM01: Cut
+Bag TM Flying Sprite.pngHM02: Fly
+Bag TM Water Sprite.pngHM03: Surf
+Bag TM Normal Sprite.pngHM04: Strength
+Bag TM Flying Sprite.pngHM05: Defog
+Bag TM Fighting Sprite.pngHM06: Rock Smash
+Bag TM Water Sprite.pngHM07: Waterfall
+Bag TM Normal Sprite.pngHM08: Rock Climb
+Bag TM Water Sprite.pngHM09: Whirlpool
+Bag TM Water Sprite.pngHM10: Dive
+Mail
+Grid Air Mail.pngAir Mail
+Grid Bloom Mail.pngBloom Mail
+Grid Brick Mail.pngBrick Mail
+Grid BridgeMail D.pngBridgeMail D
+Grid BridgeMail M.pngBridgeMail M
+Grid BridgeMail S.pngBridgeMail S
+Grid BridgeMail V.pngBridgeMail V
+Grid Bubble Mail.pngBubble Mail
+Grid Dream Mail.pngDream Mail
+Grid Fab Mail.pngFab Mail
+Grid Favored Mail.pngFavored Mail
+Grid Flame Mail.pngFlame Mail
+Grid Glitter Mail.pngGlitter Mail
+Grid Grass Mail.pngGrass Mail
+Grid Greet Mail.pngGreet Mail
+Grid Heart Mail.pngHeart Mail
+Grid Inquiry Mail.pngInquiry Mail
+Grid Like Mail.pngLike Mail
+Grid Mech Mail.pngMech Mail
+Grid Mosaic Mail.pngMosaic Mail
+Grid Orange Mail.pngOrange Mail
+Grid Reply Mail.pngReply Mail
+Grid Retro Mail.pngRetro Mail
+Grid RSVP Mail.pngRSVP Mail
+Grid Snow Mail.pngSnow Mail
+Grid Space Mail.pngSpace Mail
+Grid Steel Mail.pngSteel Mail
+Grid Thanks Mail.pngThanks Mail
+Grid Wave Mail.pngWave Mail
+Grid Wood Mail.pngWood Mail
+Badges
+Grid Beacon Badge.pngBeacon Badge
+Grid Bolt Badge.pngBolt Badge
+Grid Boulder Badge.pngBoulder Badge
+Grid Bug Badge.pngBug Badge
+Grid Cascade Badge.pngCascade Badge
+Grid Cliff Badge.pngCliff Badge
+Grid Coal Badge.pngCoal Badge
+Grid Dynamo Badge.pngDynamo Badge
+Grid Earth Badge.pngEarth Badge
+Grid Feather Badge.pngFeather Badge
+Grid Fen Badge.pngFen Badge
+Grid Forest Badge.pngForest Badge
+Grid Freeze Badge.pngFreeze Badge
+Grid Glacier Badge.pngGlacier Badge
+Grid Heat Badge.pngHeat Badge
+Grid Hive Badge.pngHive Badge
+Grid Iceberg Badge.pngIceberg Badge
+Grid Icicle Badge.pngIcicle Badge
+Grid Insect Badge.pngInsect Badge
+Grid Jet Badge.pngJet Badge
+Grid Marsh Badge.pngMarsh Badge
+Grid Mind Badge.pngMind Badge
+Grid Mine Badge.pngMine Badge
+Grid Mineral Badge.pngMineral Badge
+Grid Plant Badge.pngPlant Badge
+Grid Psychic Badge.pngPsychic Badge
+Grid Quake Badge.pngQuake Badge
+Grid Rain Badge.pngRain Badge
+Grid Rainbow Badge.pngRainbow Badge
+Grid Stone Badge.pngStone Badge
+Grid Thunder Badge.pngThunder Badge
+Grid Volcano Badge.pngVolcano Badge
+Grid Voltage Badge.pngVoltage Badge
+Grid Wave Badge.pngWave Badge
+Grid Zephyr Badge.pngZephyr Badge
+Decorative
+Grid Acacia Bench.pngAcacia Bench
+Grid Big TV.pngBig TV
+Grid Birch Bench.pngBirch Bench
+Grid Black Armchair.pngBlack Armchair
+Grid Black Badgecase.pngBlack Badgecase
+Grid Black Chair.pngBlack Chair
+Grid Black Clock.pngBlack Clock
+Grid Black Couch.pngBlack Couch
+Grid Black Cushion Chair.pngBlack Cushion Chair
+Grid Black Folding Chair.pngBlack Folding Chair
+Grid Black Letterbox.pngBlack Letterbox
+Grid Black Mailbox.pngBlack Mailbox
+Grid Black Pokéball Rug.pngBlack Pokéball Rug
+Grid Black Umbrella.pngBlack Umbrella
+Grid Black Vending Machine.pngBlack Vending Machine
+Grid Black Water Float.pngBlack Water Float
+Grid Blank Unown Block.pngBlank Unown Block
+Grid Blue Armchair.pngBlue Armchair
+Grid Blue Badgecase.pngBlue Badgecase
+Grid Blue Chair.pngBlue Chair
+Grid Blue Clock.pngBlue Clock
+Grid Blue Couch.pngBlue Couch
+Grid Blue Cushion Chair.pngBlue Cushion Chair
+Grid Blue Folding Chair.pngBlue Folding Chair
+Grid Blue Letterbox.pngBlue Letterbox
+Grid Blue Mailbox.pngBlue Mailbox
+Grid Blue Pokéball Rug.pngBlue Pokéball Rug
+Grid Blue Umbrella.pngBlue Umbrella
+Grid Blue Vending Machine.pngBlue Vending Machine
+Grid Blue Water Float.pngBlue Water Float
+Grid Boulder.pngBoulder
+Grid Box.pngBox
+Grid Braille Block .pngBraille Block _
+Grid Braille Block ,.pngBraille Block ,
+Grid Braille Block ..pngBraille Block .
+Grid Braille Block A.pngBraille Block A
+Grid Braille Block B.pngBraille Block B
+Grid Braille Block C.pngBraille Block C
+Grid Braille Block D.pngBraille Block D
+Grid Braille Block E.pngBraille Block E
+Grid Braille Block F.pngBraille Block F
+Grid Braille Block G.pngBraille Block G
+Grid Braille Block H.pngBraille Block H
+Grid Braille Block I.pngBraille Block I
+Grid Braille Block J.pngBraille Block J
+Grid Braille Block K.pngBraille Block K
+Grid Braille Block L.pngBraille Block L
+Grid Braille Block M.pngBraille Block M
+Grid Braille Block N.pngBraille Block N
+Grid Braille Block O.pngBraille Block O
+Grid Braille Block P.pngBraille Block P
+Grid Braille Block Q.pngBraille Block Q
+Grid Braille Block R.pngBraille Block R
+Grid Braille Block S.pngBraille Block S
+Grid Braille Block T.pngBraille Block T
+Grid Braille Block U.pngBraille Block U
+Grid Braille Block V.pngBraille Block V
+Grid Braille Block W.pngBraille Block W
+Grid Braille Block X.pngBraille Block X
+Grid Braille Block Y.pngBraille Block Y
+Grid Braille Block Z.pngBraille Block Z
+Grid Bridge Block.pngBridge Block
+Grid Broken Pillar.pngBroken Pillar
+Grid Brown Armchair.pngBrown Armchair
+Grid Brown Chair.pngBrown Chair
+Grid Brown Clock.pngBrown Clock
+Grid Brown Couch.pngBrown Couch
+Grid Brown Cushion Chair.pngBrown Cushion Chair
+Grid Brown Folding Chair.pngBrown Folding Chair
+Grid Brown Letterbox.pngBrown Letterbox
+Grid Brown Mailbox.pngBrown Mailbox
+Grid Brown Pokéball Rug.pngBrown Pokéball Rug
+Grid Brown Umbrella.pngBrown Umbrella
+Grid Brown Vending Machine.pngBrown Vending Machine
+Grid Brown Water Float.pngBrown Water Float
+Grid Cash Register.pngCash Register
+Grid Cave Rock.pngCave Rock
+Grid Clothed Table.pngClothed Table
+Grid Cyan Armchair.pngCyan Armchair
+Grid Cyan Chair.pngCyan Chair
+Grid Cyan Clock.pngCyan Clock
+Grid Cyan Couch.pngCyan Couch
+Grid Cyan Cushion Chair.pngCyan Cushion Chair
+Grid Cyan Folding Chair.pngCyan Folding Chair
+Grid Cyan Letterbox.pngCyan Letterbox
+Grid Cyan Mailbox.pngCyan Mailbox
+Grid Cyan Pokéball Rug.pngCyan Pokéball Rug
+Grid Cyan Umbrella.pngCyan Umbrella
+Grid Cyan Vending Machine.pngCyan Vending Machine
+Grid Cyan Water Float.pngCyan Water Float
+Grid Dark Oak Bench.pngDark Oak Bench
+Grid Dark Workplace.pngDark Workplace
+Grid Dusty Ruins Wall.pngDusty Ruins Wall
+Grid End Table.pngEnd Table
+Grid Fan.pngFan
+Grid Fossil Display.pngFossil Display
+Grid Fridge.pngFridge
+Grid Gray Armchair.pngGray Armchair
+Grid Gray Chair.pngGray Chair
+Grid Gray Clock.pngGray Clock
+Grid Gray Couch.pngGray Couch
+Grid Gray Cushion Chair.pngGray Cushion Chair
+Grid Gray Folding Chair.pngGray Folding Chair
+Grid Gray Letterbox.pngGray Letterbox
+Grid Gray Mailbox.pngGray Mailbox
+Grid Gray Pokéball Rug.pngGray Pokéball Rug
+Grid Gray Umbrella.pngGray Umbrella
+Grid Gray Vending Machine.pngGray Vending Machine
+Grid Gray Water Float.pngGray Water Float
+Grid Green Armchair.pngGreen Armchair
+Grid Green Badgecase.pngGreen Badgecase
+Grid Green Chair.pngGreen Chair
+Grid Green Clock.pngGreen Clock
+Grid Green Couch.pngGreen Couch
+Grid Green Cushion Chair.pngGreen Cushion Chair
+Grid Green Folding Chair.pngGreen Folding Chair
+Grid Green Letterbox.pngGreen Letterbox
+Grid Green Mailbox.pngGreen Mailbox
+Grid Green Pokéball Rug.pngGreen Pokéball Rug
+Grid Green Umbrella.pngGreen Umbrella
+Grid Green Vending Machine.pngGreen Vending Machine
+Grid Green Water Float.pngGreen Water Float
+Grid Gym Sign.pngGym Sign
+Grid Hidden Pressure Plate.pngHidden Pressure Plate
+Grid Inside Wall Moulding.pngInside Wall Moulding
+Grid Inside Wall.pngInside Wall
+Grid Jungle Bench.pngJungle Bench
+Grid Light Blue Armchair.pngLight Blue Armchair
+Grid Light Gray Armchair.pngLight Gray Armchair
+Grid Light Blue Couch.pngLight Blue Couch
+Grid Light Gray Couch.pngLight Gray Couch
+Grid Light Blue Letterbox.pngLight Blue Letterbox
+Grid Silver Letterbox.pngSilver Letterbox
+Grid Light Blue Mailbox.pngLight Blue Mailbox
+Grid Silver Mailbox.pngSilver Mailbox
+Grid Light Workplace.pngLight Workplace
+Grid Lime Armchair.pngLime Armchair
+Grid Lime Couch.pngLime Couch
+Grid Lime Letterbox.pngLime Letterbox
+Grid Lime Mailbox.pngLime Mailbox
+Grid Magenta Couch.pngMagenta Couch
+Grid Magenta Letterbox.pngMagenta Letterbox
+Grid Magenta Mailbox.pngMagenta Mailbox
+Grid Mower.pngMower
+Grid Mug.pngMug
+Grid Oak Bench.pngOak Bench
+Grid Orange Armchair.pngOrange Armchair
+Grid Orange Chair.pngOrange Chair
+Grid Orange Clock.pngOrange Clock
+Grid Orange Couch.pngOrange Couch
+Grid Orange Cushion Chair.pngOrange Cushion Chair
+Grid Orange Folding Chair.pngOrange Folding Chair
+Grid Orange Letterbox.pngOrange Letterbox
+Grid Orange Mailbox.pngOrange Mailbox
+Grid Orange Pokéball Rug.pngOrange Pokéball Rug
+Grid Orange Umbrella.pngOrange Umbrella
+Grid Orange Vending Machine.pngOrange Vending Machine
+Grid Orange Water Float.pngOrange Water Float
+Grid Outside Wall.pngOutside Wall
+Grid Photo.pngPhoto
+Grid Pikachu Mug.pngPikachu Mug
+Grid Pink Armchair.pngPink Armchair
+Grid Pink Badgecase.pngPink Badgecase
+Grid Pink Chair.pngPink Chair
+Grid Pink Clock.pngPink Clock
+Grid Pink Couch.pngPink Couch
+Grid Pink Cushion Chair.pngPink Cushion Chair
+Grid Pink Folding Chair.pngPink Folding Chair
+Grid Pink Letterbox.pngPink Letterbox
+Grid Pink Mailbox.pngPink Mailbox
+Grid Pink Pokéball Rug.pngPink Pokéball Rug
+Grid Pink Umbrella.pngPink Umbrella
+Grid Pink Vending Machine.pngPink Vending Machine
+Grid Pink Water Float.pngPink Water Float
+Grid Poké Mart Sign.pngPoké Mart Sign
+Grid Pokéball Mug.pngPokéball Mug
+Grid PokéCenter Sign.pngPokéCenter Sign
+Grid PokéDirt.pngPokéDirt
+Grid PokéGrass.pngPokéGrass
+Grid Pokémon Painting.pngPokémon Painting
+Grid PokéSand Corner 1.pngPokéSand Corner 1
+Grid PokéSand Corner 2.pngPokéSand Corner 2
+Grid PokéSand Corner 3.pngPokéSand Corner 3
+Grid PokéSand Corner 4.pngPokéSand Corner 4
+Grid PokéSand Side 1.pngPokéSand Side 1
+Grid PokéSand Side 2.pngPokéSand Side 2
+Grid PokéSand Side 3.pngPokéSand Side 3
+Grid PokéSand Side 4.pngPokéSand Side 4
+Grid PokéSand.pngPokéSand
+Grid Purple Armchair.pngPurple Armchair
+Grid Purple Chair.pngPurple Chair
+Grid Purple Clock.pngPurple Clock
+Grid Purple Couch.pngPurple Couch
+Grid Purple Cushion Chair.pngPurple Cushion Chair
+Grid Purple Folding Chair.pngPurple Folding Chair
+Grid Purple Letterbox.pngPurple Letterbox
+Grid Purple Mailbox.pngPurple Mailbox
+Grid Purple Pokéball Rug.pngPurple Pokéball Rug
+Grid Purple Umbrella.pngPurple Umbrella
+Grid Purple Vending Machine.pngPurple Vending Machine
+Grid Purple Water Float.pngPurple Water Float
+Grid Red Armchair.pngRed Armchair
+Grid Red Badgecase.pngRed Badgecase
+Grid Red Chair.pngRed Chair
+Grid Red Clock.pngRed Clock
+Grid Red Couch.pngRed Couch
+Grid Red Cushion Chair.pngRed Cushion Chair
+Grid Red Folding Chair.pngRed Folding Chair
+Grid Red Letterbox.pngRed Letterbox
+Grid Red Mailbox.pngRed Mailbox
+Grid Red Pokéball Rug.pngRed Pokéball Rug
+Grid Red Umbrella.pngRed Umbrella
+Grid Red Vending Machine.pngRed Vending Machine
+Grid Red Water Float.pngRed Water Float
+Grid Rock.pngRock
+Grid Ruins Wall.pngRuins Wall
+Grid Sandy Grass.pngSandy Grass
+Grid Shingles Corner 1.pngShingles Corner 1
+Grid Shingles Corner 2.pngShingles Corner 2
+Grid Shingles.pngShingles
+Grid Slippery Ice.pngSlippery Ice
+Grid Small TV.pngSmall TV
+Grid Spruce Bench.pngSpruce Bench
+Grid Street Light.pngStreet Light
+Grid Temple Block.pngTemple Block
+Grid Temple Brick Stairs.pngTemple Brick Stairs
+Grid Temple Brick.pngTemple Brick
+Grid Temple Pillar.pngTemple Pillar
+Grid Temple Stairs.pngTemple Stairs
+Grid Trash Can.pngTrash Can
+Grid Tree Bottom.pngTree Bottom
+Grid Tree Top.pngTree Top
+Grid Tree.pngTree
+Grid TV.pngTV
+Grid Unown Block '!'.pngUnown Block '!'
+Grid Unown Block '?'.pngUnown Block '?'
+Grid Unown Block 'A'.pngUnown Block 'A'
+Grid Unown Block 'B'.pngUnown Block 'B'
+Grid Unown Block 'C'.pngUnown Block 'C'
+Grid Unown Block 'D'.pngUnown Block 'D'
+Grid Unown Block 'E'.pngUnown Block 'E'
+Grid Unown Block 'F'.pngUnown Block 'F'
+Grid Unown Block 'G'.pngUnown Block 'G'
+Grid Unown Block 'H'.pngUnown Block 'H'
+Grid Unown Block 'I'.pngUnown Block 'I'
+Grid Unown Block 'J'.pngUnown Block 'J'
+Grid Unown Block 'K'.pngUnown Block 'K'
+Grid Unown Block 'L'.pngUnown Block 'L'
+Grid Unown Block 'M'.pngUnown Block 'M'
+Grid Unown Block 'N'.pngUnown Block 'N'
+Grid Unown Block 'O'.pngUnown Block 'O'
+Grid Unown Block 'P'.pngUnown Block 'P'
+Grid Unown Block 'Q'.pngUnown Block 'Q'
+Grid Unown Block 'R'.pngUnown Block 'R'
+Grid Unown Block 'S'.pngUnown Block 'S'
+Grid Unown Block 'T'.pngUnown Block 'T'
+Grid Unown Block 'U'.pngUnown Block 'U'
+Grid Unown Block 'V'.pngUnown Block 'V'
+Grid Unown Block 'W'.pngUnown Block 'W'
+Grid Unown Block 'X'.pngUnown Block 'X'
+Grid Unown Block 'Y'.pngUnown Block 'Y'
+Grid Unown Block 'Z'.pngUnown Block 'Z'
+Grid Washing Machine.pngWashing Machine
+Grid White Armchair.pngWhite Armchair
+Grid White Badgecase.pngWhite Badgecase
+Grid White Chair.pngWhite Chair
+Grid White Clock.pngWhite Clock
+Grid White Couch.pngWhite Couch
+Grid White Cushion Chair.pngWhite Cushion Chair
+Grid White Folding Chair.pngWhite Folding Chair
+Grid White Letterbox.pngWhite Letterbox
+Grid White Mailbox.pngWhite Mailbox
+Grid White Pokéball Rug.pngWhite Pokéball Rug
+Grid White Umbrella.pngWhite Umbrella
+Grid White Vending Machine.pngWhite Vending Machine
+Grid White Water Float.pngWhite Water Float
+Grid Window 1.pngWindow 1
+Grid Window 2.pngWindow 2
+Grid Wooden Flooring.pngWooden Flooring
+Grid Yellow Armchair.pngYellow Armchair
+Grid Yellow Badgecase.pngYellow Badgecase
+Grid Yellow Chair.pngYellow Chair
+Grid Yellow Clock.pngYellow Clock
+Grid Yellow Couch.pngYellow Couch
+Grid Yellow Cushion Chair.pngYellow Cushion Chair
+Grid Yellow Folding Chair.pngYellow Folding Chair
+Grid Yellow Letterbox.pngYellow Letterbox
+Grid Yellow Mailbox.pngYellow Mailbox
+Grid Yellow Pokéball Rug.pngYellow Pokéball Rug
+Grid Yellow Umbrella.pngYellow Umbrella
+Grid Yellow Vending Machine.pngYellow Vending Machine
+Grid Yellow Water Float.pngYellow Water Float
+Porygon Pieces
+Grid Porygon (item).pngPorygon (item)
+Grid Porygon Body.pngPorygon Body
+Grid Porygon Head.pngPorygon Head
+Grid Porygon Leg.pngPorygon Leg
+Grid Porygon Tail.pngPorygon Tail
+Other
+Grid Alpha Shard.pngAlpha Shard
+Grid Azure Flute.pngAzure Flute
+Grid Black Flute.pngBlack Flute
+Grid Blue Orb.pngBlue Orb
+Grid Clear Bell.pngClear Bell
+Grid DNA Splicers.pngDNA Splicers
+Grid Exp. All.pngExp. All
+Grid Gift Box.pngGift Box
+Grid Gracidea.pngGracidea
+Grid Isi's Golden Hourglass.pngIsi's Golden Hourglass
+Grid Isi's Silver Hourglass.pngIsi's Silver Hourglass
+Grid Max Repel.pngMax Repel
+Grid Meteorite.pngMeteorite
+Grid Omega Shard.pngOmega Shard
+Grid Orb.pngOrb
+Orb of Fiery Souls.pngOrb of Fiery Souls
+Orb of Frozen Souls.pngOrb of Frozen Souls
+Orb of Static Souls.pngOrb of Static Souls
+Grid Poké Gift.pngPoké Gift
+Grid Prison Bottle.pngPrison Bottle
+Grid Red Chain.pngRed Chain
+Grid Red Orb.pngRed Orb
+Grid Repel.pngRepel
+Grid Reveal Glass.pngReveal Glass
+Grid Ruby.pngRuby of Emotion
+Grid Ruby.pngRuby of Knowledge
+Grid Ruby.pngRuby of Willpower
+Grid Super Repel.pngSuper Repel
+Grid Tidal Bell.pngTidal Bell
+Grid White Flute.pngWhite Flute
+Environment
+Grid Red Apricorn.pngApricorn Tree
+Grid Arc Chalice.pngArc Chalice
+Grid Tree.pngBerry Tree
+Grid Event Poké Gift.pngEvent Poké Gift
+Grid Fiery Shrine.pngFiery Shrine
+Grid Frozen Shrine.pngFrozen Shrine
+Grid Hidden Cube.pngHidden Cube
+Grid Ice Rock.pngIce Rock
+Grid Master Chest.pngMaster Chest
+Grid Moss Rock.pngMoss Rock
+Grid Pixelmon Spawner.pngPixelmon Spawner
+Grid Poké Chest.pngPoké Chest
+Grid Static Shrine.pngStatic Shrine
+Grid Timespace Altar.pngTimespace Altar
+Grid Ultra Chest.pngUltra Chest
+Z-Crystals
+Buginium Z.pngBuginium Z
+Darkinium Z.pngDarkinium Z
+Dragonium Z.pngDragonium Z
+Electrium Z.pngElectrium Z
+Fairium Z.pngFairium Z
+Fightinium Z.pngFightinium Z
+Firium Z.pngFirium Z
+Flyinium Z.pngFlyinium Z
+Ghostium Z.pngGhostium Z
+Grassium Z.pngGrassium Z
+Groundium Z.pngGroundium Z
+Icium Z.pngIcium Z
+Normalium Z.pngNormalium Z
+Poisonium Z.pngPoisonium Z
+Psychium Z.pngPsychium Z
+Rockium Z.pngRockium Z
+Steelium Z.pngSteelium Z
+Waterium Z.pngWaterium Z
+Grid Aloraichium Z.pngAloraichium Z
+Grid Decidium Z.pngDecidium Z
+Grid Eevium Z.pngEevium Z
+Grid Incinium Z.pngIncinium Z
+Grid Kommonium Z.pngKommonium Z
+Lunalium Z.pngLunalium Z
+Grid Lycanium Z.pngLycanium Z
+Marshadium Z.pngMarshadium Z
+Mewnium Z.pngMewnium Z
+Grid Mimikium Z.pngMimikium Z
+Grid Pikanium Z.pngPikanium Z
+Pikashunium Z.pngPikashunium Z
+Grid Primarium Z.pngPrimarium Z
+Grid Snorlium Z.pngSnorlium Z
+Solganium Z.pngSolganium Z
+Tapunium Z.pngTapunium Z
+Ultranecrozium Z.pngUltranecrozium Z

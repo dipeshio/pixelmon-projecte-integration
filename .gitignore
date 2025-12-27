@@ -1,0 +1,61 @@
+# PixelE - Gradle Build
+.gradle/
+build/
+out/
+classes/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+*.launch
+.metadata/
+
+# Eclipse
+bin/
+.apt_generated/
+.factorypath
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# NeoForge / Minecraft Development
+run/
+runs/
+logs/
+*.log
+crash-reports/
+src/generated/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies - IMPORTANT: Don't commit mod JARs
+libs/*.jar
+
+# Compiled files
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Secrets
+secrets.json
+*.keystore
+
+# Temporary files
+*.tmp
+*.swp
+*~
