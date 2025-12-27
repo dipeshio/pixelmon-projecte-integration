@@ -212,7 +212,7 @@ public class PixelEMapper {
         addItem("dragon_scale", 65536);
         addItem("dubious_disc", 65536);
         addItem("electirizer", 65536);
-        addItem("everstone", 8192);
+        addItem("ever_stone", 8192);
         addItem("gimmighoul_coin", 1024);
         addItem("kings_rock", 65536);
         addItem("linking_cord", 65536);
@@ -259,7 +259,7 @@ public class PixelEMapper {
         addItem("revive", 2048);
         addItem("max_revive", 16384);
         addItem("revival_herb", 8192);
-        addItem("sacred_ash", 131072);   // 128k
+        addItem("sacredash", 131072);   // 128k
         
         // Status healing
         addItem("antidote", 128);
@@ -436,32 +436,32 @@ public class PixelEMapper {
         addItem("yago_berry", 128);
         
         // ==================== MINTS ====================
-        addItem("mint_cutting", 2048);
-        addItem("adamant_mint", 16384);
-        addItem("bold_mint", 16384);
-        addItem("brave_mint", 16384);
-        addItem("calm_mint", 16384);
-        addItem("careful_mint", 16384);
-        addItem("gentle_mint", 16384);
-        addItem("hasty_mint", 16384);
-        addItem("impish_mint", 16384);
-        addItem("jolly_mint", 16384);
-        addItem("lax_mint", 16384);
-        addItem("lonely_mint", 16384);
-        addItem("mild_mint", 16384);
-        addItem("modest_mint", 16384);
-        addItem("naive_mint", 16384);
-        addItem("naughty_mint", 16384);
-        addItem("quiet_mint", 16384);
-        addItem("rash_mint", 16384);
-        addItem("relaxed_mint", 16384);
-        addItem("sassy_mint", 16384);
-        addItem("serious_mint", 16384);
-        addItem("timid_mint", 16384);
-        addItem("hardy_mint", 16384);
-        addItem("docile_mint", 16384);
-        addItem("bashful_mint", 16384);
-        addItem("quirky_mint", 16384);
+        addItem("mint_seeds", 2048);
+        addItem("mint_adamant", 16384);
+        addItem("mint_bold", 16384);
+        addItem("mint_brave", 16384);
+        addItem("mint_calm", 16384);
+        addItem("mint_careful", 16384);
+        addItem("mint_gentle", 16384);
+        addItem("mint_hasty", 16384);
+        addItem("mint_impish", 16384);
+        addItem("mint_jolly", 16384);
+        addItem("mint_lax", 16384);
+        addItem("mint_lonely", 16384);
+        addItem("mint_mild", 16384);
+        addItem("mint_modest", 16384);
+        addItem("mint_naive", 16384);
+        addItem("mint_naughty", 16384);
+        addItem("mint_quiet", 16384);
+        addItem("mint_rash", 16384);
+        addItem("mint_relaxed", 16384);
+        addItem("mint_sassy", 16384);
+        addItem("mint_serious", 16384);
+        addItem("mint_timid", 16384);
+        addItem("mint_hardy", 16384);
+        addItem("mint_docile", 16384);
+        addItem("mint_bashful", 16384);
+        addItem("mint_quirky", 16384);
         
         // ==================== INCENSES ====================
         addItem("full_incense", 16384);
@@ -746,7 +746,7 @@ public class PixelEMapper {
         addItem("good_rod", 4096);
         addItem("super_rod", 16384);
         addItem("wailmer_pail", 1024);
-        addItem("itemfinder", 16384);
+        addItem("item_finder", 16384);
         addItem("camera", 16384);
         addItem("film", 256);
         

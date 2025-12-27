@@ -1,0 +1,3320 @@
+
+Item	ID	Data Value
+Grid Ability Capsule.pngAbility Capsule	ability_capsule
+Grid Ability Patch.pngAbility Patch	ability_patch
+Grid Ability Shield.pngAbility Shield	ability_shield
+Grid Abomasite.pngAbomasite	abomasite
+Grid Absolite.pngAbsolite	absolite
+Grid Absorb Bulb.pngAbsorb Bulb	absorb_bulb
+Grid Acacia Bench.pngAcacia Bench	acacia_bench
+Grid Acro Bike.pngAcro Bike	acro_bike
+Grid Acro Bike Frame.pngAcro Bike Frame	acro_bike_frame
+Grid Adamant Crystal.pngAdamant Crystal	adamant_crystal
+16pxAdamant Mint	mint_adamant
+Grid Adamant Orb.pngAdamant Orb	adamant_orb
+Grid Adrenaline Orb.pngAdrenaline Orb	adrenaline_orb
+Grid Aerodactylite.pngAerodactylite	aerodactylite
+Grid Aggronite.pngAggronite	aggronite
+Grid Aguav Berry.pngAguav Berry	aguav_berry
+16pxAguav Berry Leaves	berry_leaves_aguav
+16pxAguav Berry Log	berry_log_aguav
+Grid Air Balloon.pngAir Balloon	air_balloon
+Grid Air Mail.pngAir Mail	pokemail_air
+Grid Aisu Badge.pngAisu Badge	aisu_badge
+Grid Alakazite.pngAlakazite	alakazite
+16pxAlolan TM1: Work Up	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 1s}
+16pxAlolan TM2: Dragon Claw	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 2s}
+16pxAlolan TM3: Psyshock	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 3s}
+16pxAlolan TM4: Calm Mind	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 4s}
+16pxAlolan TM5: Roar	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 5s}
+16pxAlolan TM6: Toxic	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 6s}
+16pxAlolan TM7: Hail	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 7s}
+16pxAlolan TM8: Bulk Up	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 8s}
+16pxAlolan TM9: Venoshock	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 9s}
+16pxAlolan TM10: Hidden Power	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 10s}
+16pxAlolan TM11: Sunny Day	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 11s}
+16pxAlolan TM12: Taunt	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 12s}
+16pxAlolan TM13: Ice Beam	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 13s}
+16pxAlolan TM14: Blizzard	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 14s}
+16pxAlolan TM15: Hyper Beam	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 15s}
+16pxAlolan TM16: Light Screen	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 16s}
+16pxAlolan TM17: Protect	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 17s}
+16pxAlolan TM18: Rain Dance	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 18s}
+16pxAlolan TM19: Roost	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 19s}
+16pxAlolan TM20: Safeguard	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 20s}
+16pxAlolan TM21: Frustration	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 21s}
+16pxAlolan TM22: Solar Beam	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 22s}
+16pxAlolan TM23: Smack Down	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 23s}
+16pxAlolan TM24: Thunderbolt	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 24s}
+16pxAlolan TM25: Thunder	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 25s}
+16pxAlolan TM26: Earthquake	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 26s}
+16pxAlolan TM27: Return	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 27s}
+16pxAlolan TM28: Leech Life	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 28s}
+16pxAlolan TM29: Psychic	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 29s}
+16pxAlolan TM30: Shadow Ball	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 30s}
+16pxAlolan TM31: Brick Break	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 31s}
+16pxAlolan TM32: Double Team	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 32s}
+16pxAlolan TM33: Reflect	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 33s}
+16pxAlolan TM34: Sludge Wave	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 34s}
+16pxAlolan TM35: Flamethrower	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 35s}
+16pxAlolan TM36: Sludge Bomb	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 36s}
+16pxAlolan TM37: Sandstorm	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 37s}
+16pxAlolan TM38: Fire Blast	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 38s}
+16pxAlolan TM39: Rock Tomb	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 39s}
+16pxAlolan TM40: Aerial Ace	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 40s}
+16pxAlolan TM41: Torment	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 41s}
+16pxAlolan TM42: Facade	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 42s}
+16pxAlolan TM43: Flame Charge	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 43s}
+16pxAlolan TM44: Rest	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 44s}
+16pxAlolan TM45: Attract	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 45s}
+16pxAlolan TM46: Thief	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 46s}
+16pxAlolan TM47: Low Sweep	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 47s}
+16pxAlolan TM48: Round	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 48s}
+16pxAlolan TM49: Echoed Voice	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 49s}
+16pxAlolan TM50: Overheat	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 50s}
+16pxAlolan TM51: Steel Wing	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 51s}
+16pxAlolan TM52: Focus Blast	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 52s}
+16pxAlolan TM53: Energy Ball	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 53s}
+16pxAlolan TM54: False Swipe	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 54s}
+16pxAlolan TM55: Scald	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 55s}
+16pxAlolan TM56: Fling	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 56s}
+16pxAlolan TM57: Charge Beam	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 57s}
+16pxAlolan TM58: Sky Drop	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 58s}
+16pxAlolan TM59: Brutal Swing	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 59s}
+16pxAlolan TM60: Quash	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 60s}
+16pxAlolan TM61: Will-O-Wisp	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 61s}
+16pxAlolan TM62: Acrobatics	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 62s}
+16pxAlolan TM63: Embargo	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 63s}
+16pxAlolan TM64: Explosion	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 64s}
+16pxAlolan TM65: Shadow Claw	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 65s}
+16pxAlolan TM66: Payback	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 66s}
+16pxAlolan TM67: Smart Strike	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 67s}
+16pxAlolan TM68: Giga Impact	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 68s}
+16pxAlolan TM69: Rock Polish	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 69s}
+16pxAlolan TM70: Aurora Veil	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 70s}
+16pxAlolan TM71: Stone Edge	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 71s}
+16pxAlolan TM72: Volt Switch	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 72s}
+16pxAlolan TM73: Thunder Wave	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 73s}
+16pxAlolan TM74: Gyro Ball	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 74s}
+16pxAlolan TM75: Swords Dance	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 75s}
+16pxAlolan TM76: Fly	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 76s}
+16pxAlolan TM77: Psych Up	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 77s}
+16pxAlolan TM78: Bulldoze	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 78s}
+16pxAlolan TM79: Frost Breath	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 79s}
+16pxAlolan TM80: Rock Slide	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 80s}
+16pxAlolan TM81: X-Scissor	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 81s}
+16pxAlolan TM82: Dragon Tail	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 82s}
+16pxAlolan TM83: Infestation	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 83s}
+16pxAlolan TM84: Poison Jab	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 84s}
+16pxAlolan TM85: Dream Eater	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 85s}
+16pxAlolan TM86: Grass Knot	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 86s}
+16pxAlolan TM87: Swagger	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 87s}
+16pxAlolan TM88: Sleep Talk	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 88s}
+16pxAlolan TM89: U-turn	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 89s}
+16pxAlolan TM90: Substitute	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 90s}
+16pxAlolan TM91: Flash Cannon	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 91s}
+16pxAlolan TM92: Trick Room	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 92s}
+16pxAlolan TM93: Wild Charge	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 93s}
+16pxAlolan TM94: Surf	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 94s}
+16pxAlolan TM95: Snarl	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 95s}
+16pxAlolan TM96: Nature Power	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 96s}
+16pxAlolan TM97: Dark Pulse	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 97s}
+16pxAlolan TM98: Waterfall	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 98s}
+16pxAlolan TM99: Dazzling Gleam	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 99s}
+16pxAlolan TM100: Confide	tm_gen7	minecraft:custom_data={Gen9Offset:1b, tm: 100s}
+Grid Aloraichium Z.pngAloraichium Z	aloraichium_z
+Grid Alpha Shard.pngAlpha Shard	alpha_shard
+Grid Altarianite.pngAltarianite	altarianite
+Grid Aluminum Axe.pngAluminum Axe	aluminum_axe
+Grid Aluminum Base.pngAluminum Base	aluminum_base
+Grid Aluminum Block.pngAluminum Block	aluminum_block
+Grid Aluminum Boots.pngAluminum Boots	aluminum_boots
+Grid Aluminum Chestplate.pngAluminum Chestplate	aluminum_chestplate
+Grid Aluminum Disc.pngAluminum Disc	aluminum_disc
+Grid Aluminum Hammer.pngAluminum Hammer	aluminum_hammer
+Grid Aluminum Helmet.pngAluminum Helmet	aluminum_helmet
+Grid Aluminum Hoe.pngAluminum Hoe	aluminum_hoe
+Grid Aluminum Ingot.pngAluminum Ingot	aluminum_ingot
+Grid Aluminum Leggings.pngAluminum Leggings	aluminum_leggings
+Grid Aluminum Pickaxe.pngAluminum Pickaxe	aluminum_pickaxe
+Grid Aluminum Plate.pngAluminum Plate	aluminum_plate
+Grid Aluminum Shovel.pngAluminum Shovel	aluminum_shovel
+Grid Aluminum Shovel.pngAluminum Shovel	aluminum_spade
+Grid Aluminum Sword.pngAluminum Sword	aluminum_sword
+Grid Amaze Mulch.pngAmaze Mulch	amaze_mulch
+Grid Amethyst.pngAmethyst	amethyst
+Grid Amethyst Axe.pngAmethyst Axe	amethyst_axe
+Grid Amethyst Block.pngAmethyst Block	amethyst_block
+Grid Amethyst Hammer.pngAmethyst Hammer	amethyst_hammer
+Grid Amethyst Hoe.pngAmethyst Hoe	amethyst_hoe
+Grid Amethyst Ore.pngAmethyst Ore	amethyst_ore
+Grid Amethyst Pickaxe.pngAmethyst Pickaxe	amethyst_pickaxe
+Grid Amethyst Shovel.pngAmethyst Shovel	amethyst_shovel
+Grid Amethyst Sword.pngAmethyst Sword	amethyst_sword
+Grid Ampharosite.pngAmpharosite	ampharosite
+Grid Amulet Coin.pngAmulet Coin	amulet_coin
+Grid Ancient Great Ball.pngAncient Great Ball	ancient_great_ball	pixelmon:poke_ball=ancient_great_ball
+Grid Ancient Great Ball Lid.pngAncient Great Ball Lid	ancient_great_ball_lid
+Grid Ancient Heavy Ball.pngAncient Heavy Ball	ancient_heavy_ball	pixelmon:poke_ball=ancient_heavy_ball
+Grid Ancient Heavy Ball Lid.pngAncient Heavy Ball Lid	ancient_heavy_ball_lid
+Grid Ancient Poké Ball.pngAncient Poké Ball	ancient_poke_ball	pixelmon:poke_ball=ancient_poke_ball
+Grid Ancient Poké Ball Lid.pngAncient Poké Ball Lid	ancient_poke_ball_lid
+Grid Ancient Ultra Ball.pngAncient Ultra Ball	ancient_ultra_ball	pixelmon:poke_ball=ancient_ultra_ball
+Grid Ancient Ultra Ball Lid.pngAncient Ultra Ball Lid	ancient_ultra_ball_lid
+Grid Antidote.pngAntidote	antidote
+Grid Anvil.pngAnvil	anvil
+Grid Apicot Berry.pngApicot Berry	apicot_berry
+16pxApicot Berry Leaves	berry_leaves_apicot
+16pxApicot Berry Log	berry_log_apicot
+16pxApicot Berry Tree	berrytree_apicot
+Grid Apple Curry.pngApple Curry	dish_curry_apple
+Grid Apricorn Box.pngApricorn Box	apricorn_box
+16pxApricorn Leaves Black	apricorn_leaves_black
+16pxApricorn Leaves Blue	apricorn_leaves_blue
+16pxApricorn Leaves Green	apricorn_leaves_green
+16pxApricorn Leaves Pink	apricorn_leaves_pink
+16pxApricorn Leaves Red	apricorn_leaves_red
+16pxApricorn Leaves White	apricorn_leaves_white
+16pxApricorn Leaves Yellow	apricorn_leaves_yellow
+Grid Apricorn Log.pngApricorn Log	apricorn_log
+16pxApricorn Log Black	apricorn_log_black
+16pxApricorn Log Blue	apricorn_log_blue
+16pxApricorn Log Green	apricorn_log_green
+16pxApricorn Log Pink	apricorn_log_pink
+16pxApricorn Log Red	apricorn_log_red
+16pxApricorn Log White	apricorn_log_white
+16pxApricorn Log Yellow	apricorn_log_yellow
+Grid Red Apricorn.pngApricorn Tree	apricorn_tree
+Grid Red Apricorn.pngApricorn Tree	apricorntree
+Grid Aqua Boots.pngAqua Boots	sapphire_boots
+Grid Aqua Chestplate.pngAqua Chestplate	sapphire_chestplate
+Grid Aqua Helmet.pngAqua Helmet	sapphire_helmet
+Grid Aqua Leggings.pngAqua Leggings	sapphire_leggings
+Grid Arc Chalice.pngArc Chalice	arc_chalice
+Grid Armor Fossil.pngArmor Fossil	armor_fossil
+Grid Armor Pass.pngArmor Pass	armor_pass
+Grid Armorite Ore.pngArmorite Ore	armorite_ore
+Grid Aspear Berry.pngAspear Berry	aspear_berry
+16pxAspear Berry Leaves	berry_leaves_aspear
+16pxAspear Berry Log	berry_log_aspear
+Grid Assault Vest.pngAssault Vest	assault_vest
+Grid Audinite.pngAudinite	audinite
+Grid Aurora Ticket.pngAurora Ticket	aurora_ticket
+Grid Auspicious Armor.pngAuspicious Armor	auspicious_armor
+Grid Awakening.pngAwakening	awakening
+Grid Azure Flute.pngAzure Flute	azure_flute
+Grid Babiri Berry.pngBabiri Berry	babiri_berry
+16pxBabiri Berry Leaves	berry_leaves_babiri
+16pxBabiri Berry Log	berry_log_babiri
+16pxBabiri Berry Tree	berrytree_babiri
+Grid Bach's Tin.pngBach's Tin	curry_rich
+Grid Bagu Badge.pngBagu Badge	bagu_badge
+Grid Balance Badge.pngBalance Badge	balance_badge
+Grid Balm Mushroom.pngBalm Mushroom	balm_mushroom
+Grid Banettite.pngBanettite	banettite
+16pxBasement Key	basement_key_brass
+16pxBasement Key	basement_key_silver
+16pxBashful Mint	mint_bashful
+Grid Basic Badge.pngBasic Badge	basic_badge
+Grid Bauxite Ore.pngBauxite Ore	bauxite_ore
+Grid Beacon Badge.pngBeacon Badge	beacon_badge
+Grid Bean Medley Curry.pngBean Medley Curry	dish_curry_beans
+Grid Beast Ball.pngBeast Ball	beast_ball	pixelmon:poke_ball=beast_ball
+16pxBeast Ball Lid	beast_ball_lid
+Grid Beast Chest.pngBeast Chest	beast_chest
+Grid Beedrillite.pngBeedrillite	beedrillite
+Grid Belue Berry.pngBelue Berry	belue_berry
+16pxBelue Berry Leaves	berry_leaves_belue
+16pxBelue Berry Log	berry_log_belue
+Grid Berry Bag.pngBerry Bag	berry_bag
+Grid Berry Juice.pngBerry Juice	berry_juice
+Grid Berry Log.pngBerry Log	berry_log
+Grid Berry Pot.pngBerry Pot	berry_pot
+Grid Berry Sweet.pngBerry Sweet	sweet_berry
+16pxBig Banner	scroll_custom
+Grid Big Malasada.pngBig Malasada	big_malasada
+Grid Big Mushroom.pngBig Mushroom	big_mushroom
+Grid Big Nugget.pngBig Nugget	big_nugget
+Grid Big Pearl.pngBig Pearl	big_pearl
+Grid Big Root.pngBig Root	big_root
+Grid Big TV.pngBig TV	tv3
+Grid Bike Voucher.pngBike Voucher	bike_voucher
+Grid Binding Band.pngBinding Band	binding_band
+Grid Birch Bench.pngBirch Bench	birch_bench
+Grid Bird Fossil.pngBird Fossil	bird_fossil
+Grid Black Apricorn.pngBlack Apricorn	black_apricorn
+Grid Black Armchair.pngBlack Armchair	black_armchair
+Grid Black Augurite.pngBlack Augurite	black_augurite
+Grid Black Badgecase.pngBlack Badgecase	blackbadgecase
+Grid Black Belt.pngBlack Belt	black_belt
+Grid Black Cash Register.pngBlack Cash Register	black_cash_register
+Grid Black Chair.pngBlack Chair	black_chair
+Grid Black Clock.pngBlack Clock	black_clock
+Grid Black Couch.pngBlack Couch	black_couch
+Grid Black Cushion Chair.pngBlack Cushion Chair	black_cushion_chair
+16pxBlack Day Care	black_day_care
+Grid Black Floor Gym Sign.pngBlack Floor Gym Sign	black_floor_gym_sign
+Grid Black Flute.pngBlack Flute	black_flute
+Grid Black Folding Chair.pngBlack Folding Chair	black_folding_chair
+Grid Black Glasses.pngBlack Glasses	black_glasses
+16pxBlack Hanging Gym Sign	black_hanging_gym_sign
+Grid Black Healer.pngBlack Healer	black_healer
+16pxBlack Letter Box	black_letter_box
+Grid Black Letterbox.pngBlack Letterbox	letterbox_standing_black
+16pxBlack Mail Box	black_mail_box
+Grid Black Mailbox.pngBlack Mailbox	mailbox_black
+Grid Black Mane Hair.pngBlack Mane Hair	black_mane_hair
+Grid Black PC.pngBlack PC	black_pc
+Grid Black Poké Bag.pngBlack Poké Bag	black_poke_bag
+Grid Black Rug.pngBlack Rug	black_rug
+Grid Black Shard.pngBlack Shard	black_shard
+Grid Black Sludge.pngBlack Sludge	black_sludge
+Grid Black Trade Machine.pngBlack Trade Machine	black_trade_machine
+Grid Black Tumblestone.pngBlack Tumblestone	black_tumblestone
+Grid Black Umbrella.pngBlack Umbrella	black_umbrella
+Grid Black Vending Machine.pngBlack Vending Machine	black_vending_machine
+16pxBlack Wall Gym Sign	black_wall_gym_sign
+Grid Black Water Float.pngBlack Water Float	black_water_float
+16pxBlank Alola TM	tm_gen7_blank
+16pxBlank Galarian TM	tm8_blank
+16pxBlank Hoenn TM	tm_gen3_blank
+16pxBlank Johto TM	tm_gen2_blank
+16pxBlank Kalos TM	tm_gen6_blank
+16pxBlank Kanto TM	tm_gen1_blank
+16pxBlank Paldean TM	tm9_blank
+Grid Blank Plate.pngBlank Plate	blank_plate
+16pxBlank Sinnoh TM	tm_gen4_blank
+16pxBlank TR	tr8_blank
+16pxBlank Unova TM	tm_gen5_blank
+Grid Blastoisinite.pngBlastoisinite	blastoisinite
+Grid Blazikenite.pngBlazikenite	blazikenite
+Grid Block of Raw Bauxite.pngBlock of Raw Bauxite	raw_bauxite_block
+Grid Block of Raw Platinum.pngBlock of Raw Platinum	raw_platinum_block
+Grid Block of Raw Silicon.pngBlock of Raw Silicon	raw_silicon_block
+Grid Block of Raw Silver.pngBlock of Raw Silver	raw_silver_block
+Grid Bloom Mail.pngBloom Mail	pokemail_bloom
+Grid Blue Apricorn.pngBlue Apricorn	blue_apricorn
+Grid Blue Armchair.pngBlue Armchair	blue_armchair
+Grid Blue Badgecase.pngBlue Badgecase	bluebadgecase
+Grid Blue Berry Boat.pngBlue Berry Boat	blue_berry_wood_boat
+Grid Blue Berry Boat with Chest.pngBlue Berry Boat with Chest	blue_berry_wood_chest_boat
+Grid Blue Berry Button.pngBlue Berry Button	blue_berry_wood_button
+Grid Blue Berry Door.pngBlue Berry Door	blue_berry_wood_door
+Grid Blue Berry Fence.pngBlue Berry Fence	blue_berry_wood_fence
+Grid Blue Berry Fence Gate.pngBlue Berry Fence Gate	blue_berry_wood_fence_gate
+Grid Blue Berry Planks.pngBlue Berry Planks	blue_berry_wood_planks
+Grid Blue Berry Pressure Plate.pngBlue Berry Pressure Plate	blue_berry_wood_pressure_plate
+Grid Blue Berry Sign.pngBlue Berry Sign	blue_berry_wood_sign
+Grid Blue Berry Slab.pngBlue Berry Slab	blue_berry_wood_slab
+Grid Blue Berry Stairs.pngBlue Berry Stairs	blue_berry_wood_stairs
+Grid Blue Berry Trapdoor.pngBlue Berry Trapdoor	blue_berry_wood_trapdoor
+Grid Blue Cash Register.pngBlue Cash Register	blue_cash_register
+Grid Blue Chair.pngBlue Chair	blue_chair
+Grid Blue Clock.pngBlue Clock	blue_clock
+Grid Blue Couch.pngBlue Couch	blue_couch
+Grid Blue Cushion Chair.pngBlue Cushion Chair	blue_cushion_chair
+Grid Blue Day Care.pngBlue Day Care	blue_day_care
+Grid Blue Floor Gym Sign.pngBlue Floor Gym Sign	blue_floor_gym_sign
+Grid Blue Flute.pngBlue Flute	blue_flute
+Grid Blue Folding Chair.pngBlue Folding Chair	blue_folding_chair
+16pxBlue Hanging Gym Sign	blue_hanging_gym_sign
+Grid Blue Healer.pngBlue Healer	blue_healer
+Grid Blue Juice.pngBlue Juice	blue_juice
+16pxBlue Letter Box	blue_letter_box
+Grid Blue Letterbox.pngBlue Letterbox	letterbox_standing_blue
+16pxBlue Mail Box	blue_mail_box
+Grid Blue Mailbox.pngBlue Mailbox	mailbox_blue
+Grid Blue Orb.pngBlue Orb	blue_orb
+Grid Blue PC.pngBlue PC	blue_pc
+Grid Blue Petal.pngBlue Petal	blue_petal
+Grid Blue Poké Bag.pngBlue Poké Bag	blue_poke_bag
+Grid Blue Rug.pngBlue Rug	blue_rug
+Grid Blue Shard.pngBlue Shard	blue_shard
+Grid Blue Trade Machine.pngBlue Trade Machine	blue_trade_machine
+Grid Blue Umbrella.pngBlue Umbrella	blue_umbrella
+Grid Blue Vending Machine.pngBlue Vending Machine	blue_vending_machine
+16pxBlue Wall Gym Sign	blue_wall_gym_sign
+Grid Blue Water Float.pngBlue Water Float	blue_water_float
+Grid Bluk Berry.pngBluk Berry	bluk_berry
+16pxBluk Berry Leaves	berry_leaves_bluk
+16pxBluk Berry Log	berry_log_bluk
+Grid Blunder Policy.pngBlunder Policy	blunder_policy
+Grid Bob's Tin.pngBob's Tin	curry_juicy
+Grid Boiled Egg.pngBoiled Egg	curry_boiled_egg
+Grid Boiled-Egg Curry.pngBoiled-Egg Curry	dish_curry_boiled_egg
+16pxBold Mint	mint_bold
+Grid Bolt Badge.pngBolt Badge	bolt_badge
+Grid Bone Curry.pngBone Curry	dish_curry_bone
+Grid Boost Mulch.pngBoost Mulch	boost_mulch
+Grid Booster Energy.pngBooster Energy	booster_energy
+Grid Boulder.pngBoulder	boulder
+Grid Boulder Badge.pngBoulder Badge	boulder_badge
+Grid Box.pngBox	box
+Grid Braille Block ,.pngBraille Block ,	braille_block_comma
+Grid Braille Block ..pngBraille Block .	braille_block_stop
+Grid Braille Block .pngBraille Block _	braille_block_underscore
+Grid Braille Block A.pngBraille Block A	braille_block_a
+Grid Braille Block B.pngBraille Block B	braille_block_b
+16pxBraille Block Blank	braille_block_blank
+Grid Braille Block C.pngBraille Block C	braille_block_c
+Grid Braille Block D.pngBraille Block D	braille_block_d
+Grid Braille Block E.pngBraille Block E	braille_block_e
+Grid Braille Block F.pngBraille Block F	braille_block_f
+Grid Braille Block G.pngBraille Block G	braille_block_g
+Grid Braille Block H.pngBraille Block H	braille_block_h
+Grid Braille Block I.pngBraille Block I	braille_block_i
+Grid Braille Block J.pngBraille Block J	braille_block_j
+Grid Braille Block K.pngBraille Block K	braille_block_k
+Grid Braille Block L.pngBraille Block L	braille_block_l
+Grid Braille Block M.pngBraille Block M	braille_block_m
+Grid Braille Block N.pngBraille Block N	braille_block_n
+Grid Braille Block O.pngBraille Block O	braille_block_o
+Grid Braille Block P.pngBraille Block P	braille_block_p
+Grid Braille Block Q.pngBraille Block Q	braille_block_q
+Grid Braille Block R.pngBraille Block R	braille_block_r
+Grid Braille Block S.pngBraille Block S	braille_block_s
+Grid Braille Block T.pngBraille Block T	braille_block_t
+Grid Braille Block U.pngBraille Block U	braille_block_u
+Grid Braille Block V.pngBraille Block V	braille_block_v
+Grid Braille Block W.pngBraille Block W	braille_block_w
+Grid Braille Block X.pngBraille Block X	braille_block_x
+Grid Braille Block Y.pngBraille Block Y	braille_block_y
+Grid Braille Block Z.pngBraille Block Z	braille_block_z
+16pxBrave Mint	mint_brave
+Grid Brick Mail.pngBrick Mail	pokemail_brick
+Grid Bridge Block.pngBridge Block	bridge_block
+Grid BridgeMail D.pngBridgeMail D	pokemail_bridged
+Grid BridgeMail M.pngBridgeMail M	pokemail_bridgem
+Grid BridgeMail S.pngBridgeMail S	pokemail_bridges
+Grid BridgeMail T.pngBridgeMail T	pokemail_bridget
+Grid BridgeMail V.pngBridgeMail V	pokemail_bridgev
+Grid Bright Powder.pngBright Powder	bright_powder
+Grid Brittle Bones.pngBrittle Bones	curry_bone
+Grid Brown Armchair.pngBrown Armchair	brown_armchair
+Grid Brown Cash Register.pngBrown Cash Register	brown_cash_register
+Grid Brown Chair.pngBrown Chair	brown_chair
+Grid Brown Clock.pngBrown Clock	brown_clock
+Grid Brown Couch.pngBrown Couch	brown_couch
+Grid Brown Cushion Chair.pngBrown Cushion Chair	brown_cushion_chair
+16pxBrown Day Care	brown_day_care
+Grid Brown Floor Gym Sign.pngBrown Floor Gym Sign	brown_floor_gym_sign
+Grid Brown Folding Chair.pngBrown Folding Chair	brown_folding_chair
+16pxBrown Hanging Gym Sign	brown_hanging_gym_sign
+Grid Brown Healer.pngBrown Healer	brown_healer
+16pxBrown Letter Box	brown_letter_box
+Grid Brown Letterbox.pngBrown Letterbox	letterbox_standing_brown
+16pxBrown Mail Box	brown_mail_box
+Grid Brown Mailbox.pngBrown Mailbox	mailbox_brown
+Grid Brown PC.pngBrown PC	brown_pc
+Grid Brown Poké Bag.pngBrown Poké Bag	brown_poke_bag
+Grid Brown Rug.pngBrown Rug	brown_rug
+Grid Brown Trade Machine.pngBrown Trade Machine	brown_trade_machine
+Grid Brown Umbrella.pngBrown Umbrella	brown_umbrella
+Grid Brown Vending Machine.pngBrown Vending Machine	brown_vending_machine
+16pxBrown Wall Gym Sign	brown_wall_gym_sign
+Grid Brown Water Float.pngBrown Water Float	brown_water_float
+Grid Bubble Mail.pngBubble Mail	pokemail_bubble
+Grid Bug Badge.pngBug Badge	bug_badge
+Grid Bug Gem.pngBug Gem	bug_gem
+Grid Bug Memory.pngBug Memory	bug_memory
+Buginium Z.pngBuginium Z	buginium_z
+Grid Burger-Steak Curry.pngBurger-Steak Curry	dish_curry_burger
+Grid Burn Drive.pngBurn Drive	burn_drive
+Grid Burn Heal.pngBurn Heal	burn_heal
+Grid Calcium.pngCalcium	calcium
+16pxCalm Mint	mint_calm
+Grid Camera.pngCamera	camera
+Grid Cameruptite.pngCameruptite	cameruptite
+Grid Camping Gear.pngCamping Gear	camping_gear
+Grid Carbos.pngCarbos	carbos
+16pxCard Key	card_key_orange
+16pxCard Key	card_key_red
+16pxCareful Mint	mint_careful
+Grid Carrot Seed.pngCarrot Seed	carrot_seed
+Grid Cascade Badge.pngCascade Badge	cascade_badge
+Grid Cash Register.pngCash Register	cash_register
+Grid Casteliacone.pngCasteliacone	casteliacone
+Grid Catching Charm.pngCatching Charm	catching_charm
+Grid Cave Rock.pngCave Rock	cave_rock
+Grid Cell Battery.pngCell Battery	cell_battery
+Grid Chair.pngChair	chair
+Grid Charcoal.pngCharcoal	charcoal
+Grid Charizardite X.pngCharizardite X	charizardite_x
+Grid Charizardite Y.pngCharizardite Y	charizardite_y
+Grid Charti Berry.pngCharti Berry	charti_berry
+16pxCharti Berry Leaves	berry_leaves_charti
+16pxCharti Berry Log	berry_log_charti
+16pxCharti Berry Tree	berrytree_charti
+Grid Cheese-Covered Curry.pngCheese-Covered Curry	dish_curry_cheese
+Grid Cheri Berry.pngCheri Berry	cheri_berry
+16pxCheri Berry Leaves	berry_leaves_cheri
+16pxCheri Berry Log	berry_log_cheri
+16pxCheri Berry Tree	berrytree_cheri
+Grid Cherish Ball.pngCherish Ball	cherish_ball	pixelmon:poke_ball=cherish_ball
+16pxCherish Ball Lid	cherish_ball_lid
+Grid Chesto Berry.pngChesto Berry	chesto_berry
+16pxChesto Berry Leaves	berry_leaves_chesto
+16pxChesto Berry Log	berry_log_chesto
+Grid Chilan Berry.pngChilan Berry	chilan_berry
+16pxChilan Berry Leaves	berry_leaves_chilan
+16pxChilan Berry Log	berry_log_chilan
+Grid Chill Drive.pngChill Drive	chill_drive
+Grid Chipped Pot.pngChipped Pot	chipped_pot
+Grid Chiseled Ultra Space Stone.pngChiseled Ultra Space Stone	chiseled_ultra_space_stone
+Grid Choice Band.pngChoice Band	choice_band
+Grid Choice Scarf.pngChoice Scarf	choice_scarf
+Grid Choice Specs.pngChoice Specs	choice_specs
+Grid Chople Berry.pngChople Berry	chople_berry
+16pxChople Berry Leaves	berry_leaves_chople
+16pxChople Berry Log	berry_log_chople
+16pxChople Berry Tree	berrytree_chople
+16pxChristmas Poké Ball	christmas_ball	pixelmon:poke_ball=christmas_ball
+16pxChristmas Poké Ball Lid	christmas_ball_lid
+Grid Claw Fossil.pngClaw Fossil	claw_fossil
+Grid Cleanse Tag.pngCleanse Tag	cleanse_tag
+Grid Clear Amulet.pngClear Amulet	clear_amulet
+Grid Clear Bell.pngClear Bell	clear_bell
+Grid Clever Feather.pngClever Feather	clever_feather
+Grid Clever Mochi.pngClever Mochi	clever_mochi
+Grid Clever Wing.pngClever Wing	clever_wing
+Grid Cliff Badge.pngCliff Badge	cliff_badge
+Grid Cloner Cord.pngCloner Cord	cloner_cord
+Grid Cloning Machine.pngCloning Machine	cloning_machine
+Grid Clover Sweet.pngClover Sweet	sweet_clover
+Grid Cluttered Box.pngCluttered Box	cluttered_box
+Grid Coal Badge.pngCoal Badge	coal_badge
+Grid Coba Berry.pngCoba Berry	coba_berry
+16pxCoba Berry Leaves	berry_leaves_coba
+16pxCoba Berry Log	berry_log_coba
+16pxCoba Berry Tree	berrytree_coba
+Grid Cobble Badge.pngCobble Badge	cobble_badge
+Grid Coconut Curry.pngCoconut Curry	dish_curry_coconut
+Grid Coconut Milk.pngCoconut Milk	curry_coconut
+Grid Coin Case.pngCoin Case	coin_case
+Grid Colbur Berry.pngColbur Berry	colbur_berry
+16pxColbur Berry Leaves	berry_leaves_colbur
+16pxColbur Berry Log	berry_log_colbur
+16pxColbur Berry Tree	berrytree_colbur
+Grid Colorful Shake.pngColorful Shake	colorful_shake
+Grid Comet Shard.pngComet Shard	comet_shard
+Grid Common PokéStop.pngCommon PokéStop	common_pokestop
+Grid Common Stone.pngCommon Stone	common_stone
+Grid Cooked Black Apricorn.pngCooked Black Apricorn	cooked_black_apricorn
+Grid Cooked Blue Apricorn.pngCooked Blue Apricorn	cooked_blue_apricorn
+Grid Cooked Green Apricorn.pngCooked Green Apricorn	cooked_green_apricorn
+Grid Cooked Pink Apricorn.pngCooked Pink Apricorn	cooked_pink_apricorn
+Grid Cooked Red Apricorn.pngCooked Red Apricorn	cooked_red_apricorn
+Grid Cooked White Apricorn.pngCooked White Apricorn	cooked_white_apricorn
+Grid Cooked Yellow Apricorn.pngCooked Yellow Apricorn	cooked_yellow_apricorn
+Grid Cooking Pot.pngCooking Pot	cooking_pot
+16pxCoraleye Badge	coraleye_badge
+Grid Cornn Berry.pngCornn Berry	cornn_berry
+16pxCornn Berry Leaves	berry_leaves_cornn
+16pxCornn Berry Log	berry_log_cornn
+Grid Cover Fossil.pngCover Fossil	cover_fossil
+Grid Covered Fossil.pngCovered Fossil	covered_fossil_0
+Grid Covered Fossil.pngCovered Fossil	covered_fossil_1
+Grid Covered Fossil.pngCovered Fossil	covered_fossil_10
+Grid Covered Fossil.pngCovered Fossil	covered_fossil_11
+Grid Covered Fossil.pngCovered Fossil	covered_fossil_12
+Grid Covered Fossil.pngCovered Fossil	covered_fossil_13
+Grid Covered Fossil.pngCovered Fossil	covered_fossil_14
+Grid Covered Fossil.pngCovered Fossil	covered_fossil_2
+Grid Covered Fossil.pngCovered Fossil	covered_fossil_3
+Grid Covered Fossil.pngCovered Fossil	covered_fossil_4
+Grid Covered Fossil.pngCovered Fossil	covered_fossil_5
+Grid Covered Fossil.pngCovered Fossil	covered_fossil_6
+Grid Covered Fossil.pngCovered Fossil	covered_fossil_7
+Grid Covered Fossil.pngCovered Fossil	covered_fossil_8
+Grid Covered Fossil.pngCovered Fossil	covered_fossil_9
+Grid Covert Cloak.pngCovert Cloak	covert_cloak
+Grid Cracked Pot.pngCracked Pot	cracked_pot
+Grid Cross Tombstone.pngCross Tombstone	cross_tombstone
+Grid Crown Pass.pngCrown Pass	crown_pass
+Grid Crystal.pngCrystal	crystal
+Grid Crystal Axe.pngCrystal Axe	crystal_axe
+Grid Crystal Block.pngCrystal Block	crystal_block
+Grid Crystal Hammer.pngCrystal Hammer	crystal_hammer
+Grid Crystal Hoe.pngCrystal Hoe	crystal_hoe
+Grid Crystal Ore.pngCrystal Ore	crystal_ore
+Grid Crystal Pickaxe.pngCrystal Pickaxe	crystal_pickaxe
+Grid Crystal Shovel.pngCrystal Shovel	crystal_shovel
+Grid Crystal Sword.pngCrystal Sword	crystal_sword
+Grid Curry.pngCurry	dish_curry_plain
+Grid Curry Dex.pngCurry Dex	curry_dex
+Grid Custap Berry.pngCustap Berry	custap_berry
+16pxCustap Berry Leaves	berry_leaves_custap
+16pxCustap Berry Log	berry_log_custap
+16pxCustap Berry Tree	berrytree_custap
+Grid Cyan Armchair.pngCyan Armchair	cyan_armchair
+Grid Cyan Cash Register.pngCyan Cash Register	cyan_cash_register
+Grid Cyan Chair.pngCyan Chair	cyan_chair
+Grid Cyan Clock.pngCyan Clock	cyan_clock
+Grid Cyan Couch.pngCyan Couch	cyan_couch
+Grid Cyan Cushion Chair.pngCyan Cushion Chair	cyan_cushion_chair
+16pxCyan Day Care	cyan_day_care
+Grid Cyan Floor Gym Sign.pngCyan Floor Gym Sign	cyan_floor_gym_sign
+Grid Cyan Folding Chair.pngCyan Folding Chair	cyan_folding_chair
+16pxCyan Hanging Gym Sign	cyan_hanging_gym_sign
+Grid Cyan Healer.pngCyan Healer	cyan_healer
+16pxCyan Letter Box	cyan_letter_box
+Grid Cyan Letterbox.pngCyan Letterbox	letterbox_standing_cyan
+16pxCyan Mail Box	cyan_mail_box
+Grid Cyan Mailbox.pngCyan Mailbox	mailbox_cyan
+Grid Cyan PC.pngCyan PC	cyan_pc
+Grid Cyan Poké Bag.pngCyan Poké Bag	cyan_poke_bag
+Grid Cyan Rug.pngCyan Rug	cyan_rug
+Grid Cyan Trade Machine.pngCyan Trade Machine	cyan_trade_machine
+Grid Cyan Umbrella.pngCyan Umbrella	cyan_umbrella
+Grid Cyan Vending Machine.pngCyan Vending Machine	cyan_vending_machine
+16pxCyan Wall Gym Sign	cyan_wall_gym_sign
+Grid Cyan Water Float.pngCyan Water Float	cyan_water_float
+Grid Damp Mulch.pngDamp Mulch	damp_mulch
+Grid Damp Rock.pngDamp Rock	damp_rock
+16pxDaniel N's Hammer	beef_hammer
+16pxDark Badge	dark_badge
+Grid Dark Gem.pngDark Gem	dark_gem
+Grid Dark Memory.pngDark Memory	dark_memory
+Grid Dark Oak Bench.pngDark Oak Bench	dark_oak_bench
+Grid Dark Stone.pngDark Stone	dark_stone
+Grid Dark Workplace.pngDark Workplace	darkworkplace
+Darkinium Z.pngDarkinium Z	darkinium_z
+Grid Dawn Stone.pngDawn Stone	dawn_stone
+Grid Dawn Stone Axe.pngDawn Stone Axe	dawn_stone_axe
+Grid Dawn Stone Boots.pngDawn Stone Boots	dawn_stone_boots
+Grid Dawn Stone Chestplate.pngDawn Stone Chestplate	dawn_stone_chestplate
+Grid Dawn Stone Hammer.pngDawn Stone Hammer	dawn_stone_hammer
+Grid Dawn Stone Helmet.pngDawn Stone Helmet	dawn_stone_helmet
+Grid Dawn Stone Hoe.pngDawn Stone Hoe	dawn_stone_hoe
+Grid Dawn Stone Leggings.pngDawn Stone Leggings	dawn_stone_leggings
+Grid Dawn Stone Ore.pngDawn Stone Ore	dawn_stone_ore
+Grid Dawn Stone Pickaxe.pngDawn Stone Pickaxe	dawn_stone_pickaxe
+Grid Dawn Stone Shard.pngDawn Stone Shard	dawn_stone_shard
+Grid Dawn Stone Shovel.pngDawn Stone Shovel	dawn_stone_shovel
+Grid Dawn Stone Sword.pngDawn Stone Sword	dawn_stone_sword
+Grid Decidium Z.pngDecidium Z	decidium_z
+Grid Decorative Curry.pngDecorative Curry	dish_curry_decorative
+Grid Deep Sea Scale.pngDeep Sea Scale	deep_sea_scale
+Grid Deep Sea Tooth.pngDeep Sea Tooth	deep_sea_tooth
+Grid Deepslate Bauxite Ore.pngDeepslate Bauxite Ore	deepslate_bauxite_ore
+Grid Deepslate Crystal Ore.pngDeepslate Crystal Ore	deepslate_crystal_ore
+Grid Deepslate Dawn Stone Ore.pngDeepslate Dawn Stone Ore	deepslate_dawn_stone_ore
+Grid Deepslate Dusk Stone Ore.pngDeepslate Dusk Stone Ore	deepslate_dusk_stone_ore
+Grid Deepslate Fire Stone Ore.pngDeepslate Fire Stone Ore	deepslate_fire_stone_ore
+Grid Deepslate Fossil.pngDeepslate Fossil	deepslate_fossil
+Grid Deepslate Ice Stone Ore.pngDeepslate Ice Stone Ore	deepslate_ice_stone_ore
+Grid Deepslate Leaf Stone Ore.pngDeepslate Leaf Stone Ore	deepslate_leaf_stone_ore
+Grid Deepslate Moon Stone Ore.pngDeepslate Moon Stone Ore	deepslate_moon_stone_ore
+Grid Deepslate Platinum Ore.pngDeepslate Platinum Ore	deepslate_platinum_ore
+Grid Deepslate Ruby Ore.pngDeepslate Ruby Ore	deepslate_ruby_ore
+Grid Deepslate Sapphire Ore.pngDeepslate Sapphire Ore	deepslate_sapphire_ore
+Grid Deepslate Shiny Stone Ore.pngDeepslate Shiny Stone Ore	deepslate_shiny_stone_ore
+Grid Deepslate Silicon Ore.pngDeepslate Silicon Ore	deepslate_silicon_ore
+Grid Deepslate Silver Ore.pngDeepslate Silver Ore	deepslate_silver_ore
+Grid Deepslate Sun Stone Ore.pngDeepslate Sun Stone Ore	deepslate_sun_stone_ore
+Grid Deepslate Thunder Stone Ore.pngDeepslate Thunder Stone Ore	deepslate_thunder_stone_ore
+Grid Deepslate Water Stone Ore.pngDeepslate Water Stone Ore	deepslate_water_stone_ore
+Grid Delta Shard.pngDelta Shard	delta_shard
+Grid Dendo Badge.pngDendo Badge	dendo_badge
+Grid Destiny Knot.pngDestiny Knot	destiny_knot
+Grid Devon Scope.pngDevon Scope	devon_scope
+Grid Devon Scuba Gear.pngDevon Scuba Gear	devon_scuba_gear
+Grid Diamond Hammer.pngDiamond Hammer	diamond_hammer
+Grid Diancite.pngDiancite	diancite
+Grid Dino Fossil.pngDino Fossil	dino_fossil
+Grid Dire Hit.pngDire Hit	dire_hit
+Grid Discount Coupon.pngDiscount Coupon	discount_coupon
+Grid Dive Ball.pngDive Ball	dive_ball	pixelmon:poke_ball=dive_ball
+Grid Dive Ball Lid.pngDive Ball Lid	dive_ball_lid
+Grid DNA Splicers.pngDNA Splicers	dna_splicers
+16pxDocile Mint	mint_docile
+Grid Doku Badge.pngDoku Badge	doku_badge
+Grid Dome Fossil.pngDome Fossil	dome_fossil
+Grid Doragon Badge.pngDoragon Badge	doragon_badge
+Grid Douse Drive.pngDouse Drive	douse_drive
+Grid Draco Plate.pngDraco Plate	draco_plate
+16pxDragon Badge	dragon_badge
+Grid Dragon Fang.pngDragon Fang	dragon_fang
+Grid Dragon Gem.pngDragon Gem	dragon_gem
+Grid Dragon Memory.pngDragon Memory	dragon_memory
+Grid Dragon Scale.pngDragon Scale	dragon_scale
+Grid Dragon Skull.pngDragon Skull	dragon_skull
+Dragonium Z.pngDragonium Z	dragonium_z
+Grid Drake Fossil.pngDrake Fossil	drake_fossil
+Grid Drash Berry.pngDrash Berry	drash_berry
+16pxDrash Berry Leaves	berry_leaves_drash
+16pxDrash Berry Log	berry_log_drash
+Grid Dread Plate.pngDread Plate	dread_plate
+Grid Dream Ball.pngDream Ball	dream_ball	pixelmon:poke_ball=dream_ball
+16pxDream Ball Lid	dream_ball_lid
+Grid Dream Mail.pngDream Mail	pokemail_dream
+16pxDrowned World Teleporter	drowned_world_teleporter
+Grid Dubious Disc New.pngDubious Disc	dubious_disc
+Grid Durin Berry.pngDurin Berry	durin_berry
+16pxDurin Berry Leaves	berry_leaves_durin
+16pxDurin Berry Log	berry_log_durin
+Grid Dusk Ball.pngDusk Ball	dusk_ball	pixelmon:poke_ball=dusk_ball
+Grid Dusk Ball Lid.pngDusk Ball Lid	dusk_ball_lid
+Grid Dusk Stone.pngDusk Stone	dusk_stone
+Grid Dusk Stone Axe.pngDusk Stone Axe	dusk_stone_axe
+Grid Dusk Stone Boots.pngDusk Stone Boots	dusk_stone_boots
+Grid Dusk Stone Chestplate.pngDusk Stone Chestplate	dusk_stone_chestplate
+Grid Dusk Stone Hammer.pngDusk Stone Hammer	dusk_stone_hammer
+Grid Dusk Stone Helmet.pngDusk Stone Helmet	dusk_stone_helmet
+Grid Dusk Stone Hoe.pngDusk Stone Hoe	dusk_stone_hoe
+Grid Dusk Stone Leggings.pngDusk Stone Leggings	dusk_stone_leggings
+Grid Dusk Stone Ore.pngDusk Stone Ore	dusk_stone_ore
+Grid Dusk Stone Pickaxe.pngDusk Stone Pickaxe	dusk_stone_pickaxe
+Grid Dusk Stone Shard.pngDusk Stone Shard	dusk_stone_shard
+Grid Dusk Stone Shovel.pngDusk Stone Shovel	dusk_stone_shovel
+Grid Dusk Stone Sword.pngDusk Stone Sword	dusk_stone_sword
+Grid Dusty Ruins Wall.pngDusty Ruins Wall	dusty_ruins_wall
+Grid Dynamax Candy.pngDynamax Candy	dynamax_candy
+Grid Dynamo Badge.pngDynamo Badge	dynamo_badge
+Grid Dynite Ore.pngDynite Ore	dynite_ore
+Grid Earth Badge.pngEarth Badge	earth_badge
+Grid Earth Plate.pngEarth Plate	earth_plate
+Grid Eevium Z.pngEevium Z	eevium_z
+Grid Eggant Berry.pngEggant Berry	eggant_berry
+16pxEggant Berry Leaves	berry_leaves_eggant
+16pxEggant Berry Log	berry_log_eggant
+Grid Eject Button.pngEject Button	eject_button
+Grid Eject Pack.pngEject Pack	eject_pack
+Grid Electirizer New.pngElectirizer	electirizer
+Grid Electric Gem.pngElectric Gem	electric_gem
+Grid Electric Memory.pngElectric Memory	electric_memory
+Grid Electric Seed.pngElectric Seed	electric_seed
+Electrium Z.pngElectrium Z	electrium_z
+Grid Elevator.pngElevator	elevator
+Grid Elixir.pngElixir	elixir
+Grid End Table.pngEnd Table	end_table
+Grid Endorsement.pngEndorsement	endorsement
+Grid Energy Powder.pngEnergy Powder	energy_powder
+Grid Energy Root.pngEnergy Root	energy_root
+Grid Enigma Berry.pngEnigma Berry	enigma_berry
+16pxEnigma Berry Leaves	berry_leaves_enigma
+16pxEnigma Berry Log	berry_log_enigma
+16pxEnigma Berry Tree	berrytree_enigma
+Grid Enigma Stone.pngEnigma Stone	enigma_stone
+Grid Eon Flute.pngEon Flute	eon_flute
+Grid Eon Ticket.pngEon Ticket	eon_ticket
+Grid Escape Rope.pngEscape Rope	escape_rope
+Grid Ether.pngEther	ether
+Grid Event Poké Gift.pngEvent Poké Gift	event_poke_gift
+Grid Everstone.pngEverstone	ever_stone
+Grid Eviolite.pngEviolite	eviolite
+16pxExclamation Mark	quest_editor
+Grid Exp. All.pngExp. All	exp_all
+16pxExp. Candy L	l_exp_candy
+16pxExp. Candy M	m_exp_candy
+16pxExp. Candy S	s_exp_candy
+16pxExp. Candy XL	xl_exp_candy
+16pxExp. Candy XS	xs_exp_candy
+Grid Exp. Charm.pngExp. Charm	exp_charm
+Grid Exp. Share New.pngExp. Share	exp_share
+Grid Expert Belt.pngExpert Belt	expert_belt
+Grid Eye of Lugia.pngEye of Lugia	eye_of_lugia
+Grid Fab Mail.pngFab Mail	pokemail_fab
+Fairium Z.pngFairium Z	fairium_z
+Grid Fairy Badge.pngFairy Badge	fairy_badge
+Grid Fairy Badge.pngFairy Badge	fairy_badge_galar
+Grid Fairy Feather.pngFairy Feather	fairy_feather
+Grid Fairy Gem.pngFairy Gem	fairy_gem
+Grid Fairy Memory.pngFairy Memory	fairy_memory
+Grid Fairy Wand.pngFairy Wand	fairy_wand
+Grid Fan.pngFan	fan
+Grid Fancy Apple.pngFancy Apple	curry_apple
+16pxFancy Pillar	fancy_pillar
+Grid Fashion Case.pngFashion Case	fashion_case
+Grid Fast Ball.pngFast Ball	fast_ball	pixelmon:poke_ball=fast_ball
+Grid Fast Ball Lid.pngFast Ball Lid	fast_ball_lid
+Grid Favored Mail.pngFavored Mail	pokemail_favored
+Grid Feather Badge.pngFeather Badge	feather_badge
+Grid Feather Ball.pngFeather Ball	feather_ball	pixelmon:poke_ball=feather_ball
+Grid Feather Ball Lid.pngFeather Ball Lid	feather_ball_lid
+Grid Fen Badge.pngFen Badge	fen_badge
+Grid Fiery Shrine.pngFiery Shrine	moltres_shrine
+Grid Fiery Shrine.pngFiery Shrine	shrinetres
+16pxFight Badge	fight_badge
+Grid Fighting Gem.pngFighting Gem	fighting_gem
+Grid Fighting Memory.pngFighting Memory	fighting_memory
+Fightinium Z.pngFightinium Z	fightinium_z
+Grid Figy Berry.pngFigy Berry	figy_berry
+16pxFigy Berry Leaves	berry_leaves_figy
+16pxFigy Berry Log	berry_log_figy
+Grid Film.pngFilm	film
+16pxFire Badge	fire_badge
+Grid Fire Gem.pngFire Gem	fire_gem
+Grid Fire Memory.pngFire Memory	fire_memory
+Grid Fire Stone.pngFire Stone	fire_stone
+Grid Fire Stone Axe.pngFire Stone Axe	fire_stone_axe
+Grid Fire Stone Boots.pngFire Stone Boots	fire_stone_boots
+Grid Fire Stone Chestplate.pngFire Stone Chestplate	fire_stone_chestplate
+Grid Fire Stone Hammer.pngFire Stone Hammer	fire_stone_hammer
+Grid Fire Stone Helmet.pngFire Stone Helmet	fire_stone_helmet
+Grid Fire Stone Hoe.pngFire Stone Hoe	fire_stone_hoe
+Grid Fire Stone Leggings.pngFire Stone Leggings	fire_stone_leggings
+Grid Fire Stone Ore.pngFire Stone Ore	fire_stone_ore
+Grid Fire Stone Pickaxe.pngFire Stone Pickaxe	fire_stone_pickaxe
+Grid Fire Stone Shard.pngFire Stone Shard	fire_stone_shard
+Grid Fire Stone Shovel.pngFire Stone Shovel	fire_stone_shovel
+Grid Fire Stone Sword.pngFire Stone Sword	fire_stone_sword
+Firium Z.pngFirium Z	firium_z
+Grid Fish Fossil.pngFish Fossil	fish_fossil
+16pxFishing Log	fishing_log
+Grid Fist Plate.pngFist Plate	fist_plate
+Grid Flame Mail.pngFlame Mail	pokemail_flame
+Grid Flame Orb.pngFlame Orb	flame_orb
+Grid Flame Plate.pngFlame Plate	flame_plate
+Grid Flare Card Key.pngFlare Card Key	elevator_key_flare
+Grid Float Stone.pngFloat Stone	float_stone
+Grid Flower Sweet.pngFlower Sweet	sweet_flower
+Grid Fluffy Tail.pngFluffy Tail	fluffy_tail
+Grid Flying Gem.pngFlying Gem	flying_gem
+Grid Flying Memory.pngFlying Memory	flying_memory
+Flyinium Z.pngFlyinium Z	flyinium_z
+Grid Focus Band.pngFocus Band	focus_band
+Grid Focus Sash.pngFocus Sash	focus_sash
+Grid Fog Badge.pngFog Badge	fog_badge
+Grid Forage Bag.pngForage Bag	forage_bag
+Grid Forest Badge.pngForest Badge	forest_badge
+Grid Fossil.pngFossil	fossil
+Grid Fossil Cleaner.pngFossil Cleaner	fossil_cleaner
+Grid Fossil Display.pngFossil Display	fossil_display
+Grid Fossil Machine.pngFossil Machine	fossil_machine
+Grid Fossil Machine Base.pngFossil Machine Base	fossil_machine_base
+Grid Fossil Machine Display.pngFossil Machine Display	fossil_machine_display
+Grid Fossil Machine Tank.pngFossil Machine Tank	fossil_machine_tank
+Grid Fossil Machine Top.pngFossil Machine Top	fossil_machine_top
+16pxFractured Pillar	temple_pillar_fractured
+Grid Freeze Badge.pngFreeze Badge	freeze_badge
+Grid Fresh Cream.pngFresh Cream	curry_cream
+Grid Fresh Water.pngFresh Water	fresh_water
+Grid Fresh-Start Mochi.pngFresh-Start Mochi	fresh_start_mochi
+Grid Fridge.pngFridge	fridge
+Grid Fried Food.pngFried Food	curry_fried_food
+Grid Fried-Food Curry.pngFried-Food Curry	dish_curry_fried_food
+Grid Friend Ball.pngFriend Ball	friend_ball	pixelmon:poke_ball=friend_ball
+Grid Friend Ball Lid.pngFriend Ball Lid	friend_ball_lid
+Grid Froggy Chair.pngFroggy Chair	froggy_chair
+Grid Frozen Shrine.pngFrozen Shrine	articuno_shrine
+Grid Frozen Shrine.pngFrozen Shrine	shrineuno
+Grid Fruit Bunch.pngFruit Bunch	curry_tropical
+Grid Full Heal.pngFull Heal	full_heal
+Grid Full Incense.pngFull Incense	full_incense
+Grid Full Restore.pngFull Restore	full_restore
+Grid Galactic Boots.pngGalactic Boots	galactic_boots
+Grid Galactic Chestplate.pngGalactic Chestplate	galactic_chestplate
+Grid Galactic Leggings.pngGalactic Leggings	galactic_leggings
+Grid Galactic Swag.pngGalactic Swag	galactic_helmet
+16pxGalarian TM00: Mega Punch	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 0s}
+16pxGalarian TM01: Mega Kick	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 1s}
+16pxGalarian TM02: Pay Day	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 2s}
+16pxGalarian TM03: Fire Punch	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 3s}
+16pxGalarian TM04: Ice Punch	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 4s}
+16pxGalarian TM05: Thunder Punch	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 5s}
+16pxGalarian TM06: Fly	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 6s}
+16pxGalarian TM07: Pin Missile	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 7s}
+16pxGalarian TM08: Hyper Beam	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 8s}
+16pxGalarian TM09: Giga Impact	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 9s}
+16pxGalarian TM10: Magical Leaf	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 10s}
+16pxGalarian TM11: Solar Beam	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 11s}
+16pxGalarian TM12: Solar Blade	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 12s}
+16pxGalarian TM13: Fire Spin	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 13s}
+16pxGalarian TM14: Thunder Wave	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 14s}
+16pxGalarian TM15: Dig	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 15s}
+16pxGalarian TM16: Screech	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 16s}
+16pxGalarian TM17: Light Screen	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 17s}
+16pxGalarian TM18: Reflect	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 18s}
+16pxGalarian TM19: Safeguard	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 19s}
+16pxGalarian TM20: Self-Destruct	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 20s}
+16pxGalarian TM21: Rest	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 21s}
+16pxGalarian TM22: Rock Slide	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 22s}
+16pxGalarian TM23: Thief	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 23s}
+16pxGalarian TM24: Snore	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 24s}
+16pxGalarian TM25: Protect	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 25s}
+16pxGalarian TM26: Scary Face	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 26s}
+16pxGalarian TM27: Icy Wind	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 27s}
+16pxGalarian TM28: Giga Drain	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 28s}
+16pxGalarian TM29: Charm	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 29s}
+16pxGalarian TM30: Steel Wing	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 30s}
+16pxGalarian TM31: Attract	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 31s}
+16pxGalarian TM32: Sandstorm	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 32s}
+16pxGalarian TM33: Rain Dance	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 33s}
+16pxGalarian TM34: Sunny Day	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 34s}
+16pxGalarian TM35: Hail	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 35s}
+16pxGalarian TM36: Whirlpool	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 36s}
+16pxGalarian TM37: Beat Up	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 37s}
+16pxGalarian TM38: Will-O-Wisp	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 38s}
+16pxGalarian TM39: Facade	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 39s}
+16pxGalarian TM40: Swift	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 40s}
+16pxGalarian TM41: Helping Hand	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 41s}
+16pxGalarian TM42: Revenge	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 42s}
+16pxGalarian TM43: Brick Break	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 43s}
+16pxGalarian TM44: Imprison	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 44s}
+16pxGalarian TM45: Dive	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 45s}
+16pxGalarian TM46: Weather Ball	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 46s}
+16pxGalarian TM47: Fake Tears	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 47s}
+16pxGalarian TM48: Rock Tomb	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 48s}
+16pxGalarian TM49: Sand Tomb	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 49s}
+16pxGalarian TM50: Bullet Seed	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 50s}
+16pxGalarian TM51: Icicle Spear	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 51s}
+16pxGalarian TM52: Bounce	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 52s}
+16pxGalarian TM53: Mud Shot	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 53s}
+16pxGalarian TM54: Rock Blast	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 54s}
+16pxGalarian TM55: Brine	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 55s}
+16pxGalarian TM56: U-turn	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 56s}
+16pxGalarian TM57: Payback	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 57s}
+16pxGalarian TM58: Assurance	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 58s}
+16pxGalarian TM59: Fling	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 59s}
+16pxGalarian TM60: Power Swap	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 60s}
+16pxGalarian TM61: Guard Swap	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 61s}
+16pxGalarian TM62: Speed Swap	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 62s}
+16pxGalarian TM63: Drain Punch	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 63s}
+16pxGalarian TM64: Avalanche	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 64s}
+16pxGalarian TM65: Shadow Claw	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 65s}
+16pxGalarian TM66: Thunder Fang	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 66s}
+16pxGalarian TM67: Ice Fang	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 67s}
+16pxGalarian TM68: Fire Fang	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 68s}
+16pxGalarian TM69: Psycho Cut	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 69s}
+16pxGalarian TM70: Trick Room	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 70s}
+16pxGalarian TM71: Wonder Room	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 71s}
+16pxGalarian TM72: Magic Room	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 72s}
+16pxGalarian TM73: Cross Poison	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 73s}
+16pxGalarian TM74: Venoshock	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 74s}
+16pxGalarian TM75: Low Sweep	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 75s}
+16pxGalarian TM76: Round	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 76s}
+16pxGalarian TM77: Hex	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 77s}
+16pxGalarian TM78: Acrobatics	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 78s}
+16pxGalarian TM79: Retaliate	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 79s}
+16pxGalarian TM80: Volt Switch	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 80s}
+16pxGalarian TM81: Bulldoze	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 81s}
+16pxGalarian TM82: Electroweb	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 82s}
+16pxGalarian TM83: Razor Shell	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 83s}
+16pxGalarian TM84: Tail Slap	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 84s}
+16pxGalarian TM85: Snarl	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 85s}
+16pxGalarian TM86: Phantom Force	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 86s}
+16pxGalarian TM87: Draining Kiss	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 87s}
+16pxGalarian TM88: Grassy Terrain	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 88s}
+16pxGalarian TM89: Misty Terrain	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 89s}
+16pxGalarian TM90: Electric Terrain	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 90s}
+16pxGalarian TM91: Psychic Terrain	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 91s}
+16pxGalarian TM92: Mystical Fire	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 92s}
+16pxGalarian TM93: Eerie Impulse	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 93s}
+16pxGalarian TM94: False Swipe	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 94s}
+16pxGalarian TM95: Air Slash	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 95s}
+16pxGalarian TM96: Smart Strike	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 96s}
+16pxGalarian TM97: Brutal Swing	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 97s}
+16pxGalarian TM98: Stomping Tantrum	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 98s}
+16pxGalarian TM99: Breaking Swipe	tm_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 99s}
+Grid Galarica Cuff.pngGalarica Cuff	galarica_cuff
+Grid Galarica Twig.pngGalarica Twig	galarica_twig
+Grid Galarica Wreath.pngGalarica Wreath	galarica_wreath
+Grid Galladite.pngGalladite	galladite
+Grid Ganlon Berry.pngGanlon Berry	ganlon_berry
+16pxGanlon Berry Leaves	berry_leaves_ganlon
+16pxGanlon Berry Log	berry_log_ganlon
+16pxGanlon Berry Tree	berrytree_ganlon
+Grid Garchompite.pngGarchompite	garchompite
+Grid Gardevoirite.pngGardevoirite	gardevoirite
+Grid Gengarite.pngGengarite	gengarite
+Grid Genius Feather.pngGenius Feather	genius_feather
+Grid Genius Mochi.pngGenius Mochi	genius_mochi
+Grid Genius Wing.pngGenius Wing	genius_wing
+16pxGentle Mint	mint_gentle
+16pxGhost Badge	ghost_badge
+Grid Ghost Gem.pngGhost Gem	ghost_gem
+Grid Ghost Memory.pngGhost Memory	ghost_memory
+Ghostium Z.pngGhostium Z	ghostium_z
+Grid Gift Box.pngGift Box	gift_box
+Grid Gigantamax Curry.pngGigantamax Curry	dish_curry_gigantamix
+Grid Gigantamix.pngGigantamix	curry_gigantamix
+Grid Gigaton Ball.pngGigaton Ball	gigaton_ball	pixelmon:poke_ball=gigaton_ball
+Grid Gigaton Ball Lid.pngGigaton Ball Lid	gigaton_ball_lid
+Grid Gimmighoul Coin.pngGimmighoul Coin	gimmighoul_coin
+Grid Ginema Berry.pngGinema Berry	ginema_berry
+16pxGinema Berry Leaves	berry_leaves_ginema
+16pxGinema Berry Log	berry_log_ginema
+Grid Glacier Badge.pngGlacier Badge	glacier_badge
+Grid Glalitite.pngGlalitite	glalitite
+Grid Glass Table.pngGlass Table	glass_table
+Grid Glitter Mail.pngGlitter Mail	pokemail_glitter
+16pxGold Ability Symbol	gold_ability_symbol
+Golden bottlecap.pngGold Bottle Cap	gold_bottle_cap
+16pxGold Brave Symbol	gold_brave_symbol
+16pxGold Guts Symbol	gold_guts_symbol
+Grid Gold Hammer.pngGold Hammer	gold_hammer
+16pxGold Knowledge Symbol	gold_knowledge_symbol
+Grid Gold Leaf.pngGold Leaf	gold_leaf
+16pxGold Luck Symbol	gold_luck_symbol
+Grid Strong Lure Casing.pngGold Lure Casing	lure_casing_strong
+16pxGold Spirits Symbol	gold_spirits_symbol
+16pxGold Tactics Symbol	gold_tactics_symbol
+Grid Gold Teeth.pngGold Teeth	gold_teeth
+Grid Good Rod.pngGood Rod	good_rod	minecraft:custom_data={rodQuality: 0}
+minecraft:custom_data={rodQuality: 1}
+minecraft:custom_data={rodQuality: 2}
+minecraft:custom_data={rodQuality: 3}
+minecraft:custom_data={rodQuality: 4}
+minecraft:custom_data={rodQuality: 5}
+minecraft:custom_data={rodQuality: 6}
+Grid Gooey Mulch.pngGooey Mulch	gooey_mulch
+Grid Gosuto Badge.pngGosuto Badge	gosuto_badge
+Grid Gracidea.pngGracidea	gracidea
+16pxGrass Badge	grass_badge
+Grid Grass Gem.pngGrass Gem	grass_gem
+Grid Grass Mail.pngGrass Mail	pokemail_grass
+Grid Grass Memory.pngGrass Memory	grass_memory
+Grassium Z.pngGrassium Z	grassium_z
+Grid Grassy Seed.pngGrassy Seed	grassy_seed
+Grid Gray Armchair.pngGray Armchair	gray_armchair
+Grid Gray Cash Register.pngGray Cash Register	gray_cash_register
+Grid Gray Chair.pngGray Chair	gray_chair
+Grid Gray Clock.pngGray Clock	gray_clock
+Grid Gray Couch.pngGray Couch	gray_couch
+Grid Gray Cushion Chair.pngGray Cushion Chair	gray_cushion_chair
+16pxGray Day Care	gray_day_care
+Grid Gray Floor Gym Sign.pngGray Floor Gym Sign	gray_floor_gym_sign
+Grid Gray Folding Chair.pngGray Folding Chair	gray_folding_chair
+16pxGray Hanging Gym Sign	gray_hanging_gym_sign
+Grid Gray Healer.pngGray Healer	gray_healer
+16pxGray Letter Box	gray_letter_box
+Grid Gray Letterbox.pngGray Letterbox	letterbox_standing_gray
+16pxGray Mail Box	gray_mail_box
+Grid Gray Mailbox.pngGray Mailbox	mailbox_gray
+Grid Gray PC.pngGray PC	gray_pc
+Grid Gray Poké Bag.pngGray Poké Bag	gray_poke_bag
+Grid Gray Rug.pngGray Rug	gray_rug
+Grid Gray Trade Machine.pngGray Trade Machine	gray_trade_machine
+Grid Gray Umbrella.pngGray Umbrella	gray_umbrella
+Grid Gray Vending Machine.pngGray Vending Machine	gray_vending_machine
+16pxGray Wall Gym Sign	gray_wall_gym_sign
+Grid Gray Water Float.pngGray Water Float	gray_water_float
+Grid Great Ball.pngGreat Ball	great_ball	pixelmon:poke_ball=great_ball
+Grid Great Ball Lid.pngGreat Ball Lid	great_ball_lid
+Grid Green Apricorn.pngGreen Apricorn	green_apricorn
+Grid Green Armchair.pngGreen Armchair	green_armchair
+Grid Green Badgecase.pngGreen Badgecase	greenbadgecase
+Grid Green Berry Boat.pngGreen Berry Boat	green_berry_wood_boat
+Grid Green Berry Boat with Chest.pngGreen Berry Boat with Chest	green_berry_wood_chest_boat
+Grid Green Berry Button.pngGreen Berry Button	green_berry_wood_button
+Grid Green Berry Door.pngGreen Berry Door	green_berry_wood_door
+Grid Green Berry Fence.pngGreen Berry Fence	green_berry_wood_fence
+Grid Green Berry Fence Gate.pngGreen Berry Fence Gate	green_berry_wood_fence_gate
+Grid Green Berry Planks.pngGreen Berry Planks	green_berry_wood_planks
+Grid Green Berry Pressure Plate.pngGreen Berry Pressure Plate	green_berry_wood_pressure_plate
+Grid Green Berry Sign.pngGreen Berry Sign	green_berry_wood_sign
+Grid Green Berry Slab.pngGreen Berry Slab	green_berry_wood_slab
+Grid Green Berry Stairs.pngGreen Berry Stairs	green_berry_wood_stairs
+Grid Green Berry Trapdoor.pngGreen Berry Trapdoor	green_berry_wood_trapdoor
+Grid Green Cash Register.pngGreen Cash Register	green_cash_register
+Grid Green Chair.pngGreen Chair	green_chair
+Grid Green Clock.pngGreen Clock	green_clock
+Grid Green Couch.pngGreen Couch	green_couch
+Grid Green Cushion Chair.pngGreen Cushion Chair	green_cushion_chair
+16pxGreen Day Care	green_day_care
+Grid Green Floor Gym Sign.pngGreen Floor Gym Sign	green_floor_gym_sign
+Grid Green Flute.pngGreen Flute	green_flute
+Grid Green Folding Chair.pngGreen Folding Chair	green_folding_chair
+16pxGreen Hanging Gym Sign	green_hanging_gym_sign
+Grid Green Healer.pngGreen Healer	green_healer
+Grid Green Juice.pngGreen Juice	green_juice
+16pxGreen Letter Box	green_letter_box
+Grid Green Letterbox.pngGreen Letterbox	letterbox_standing_green
+16pxGreen Mail Box	green_mail_box
+Grid Green Mailbox.pngGreen Mailbox	mailbox_green
+Grid Green PC.pngGreen PC	green_pc
+Grid Green Petal.pngGreen Petal	green_petal
+Grid Green Poké Bag.pngGreen Poké Bag	green_poke_bag
+Grid Green Rug.pngGreen Rug	green_rug
+Grid Green Shard.pngGreen Shard	green_shard
+Grid Green Tank.pngGreen Tank	green_tank
+Grid Green Trade Machine.pngGreen Trade Machine	green_trade_machine
+Grid Green Umbrella.pngGreen Umbrella	green_umbrella
+Grid Green Vending Machine.pngGreen Vending Machine	green_vending_machine
+16pxGreen Wall Gym Sign	green_wall_gym_sign
+Grid Green Water Float.pngGreen Water Float	green_water_float
+Grid Greet Mail.pngGreet Mail	pokemail_greet
+Grid Grepa Berry.pngGrepa Berry	grepa_berry
+16pxGrepa Berry Leaves	berry_leaves_grepa
+16pxGrepa Berry Log	berry_log_grepa
+16pxGrepa Berry Tree	berrytree_grepa
+Grid Grip Claw.pngGrip Claw	grip_claw
+Grid Griseous Core.pngGriseous Core	griseous_core
+Grid Griseous Orb.pngGriseous Orb	griseous_orb
+Grid Grotto Spawner.pngGrotto Spawner	grotto_spawner
+Grid Ground Gem.pngGround Gem	ground_gem
+Grid Ground Memory.pngGround Memory	ground_memory
+Groundium Z.pngGroundium Z	groundium_z
+Grid Growth Mulch.pngGrowth Mulch	growth_mulch
+Grid GS Ball.pngGS Ball	gs_ball	pixelmon:poke_ball=gs_ball
+16pxGS Ball Lid	gs_ball_lid
+16pxGuard Spec.	guard_spec
+Grid Gyaradosite.pngGyaradosite	gyaradosite
+Grid Gym Sign.pngGym Sign	gym_sign
+Grid Gáe Bolg.pngGáe Bolg	gaebolg
+Grid Haban Berry.pngHaban Berry	haban_berry
+16pxHaban Berry Leaves	berry_leaves_haban
+16pxHaban Berry Log	berry_log_haban
+16pxHaban Berry Tree	berrytree_haban
+Grid Handles.pngHandles	handles
+Grid Harbor Mail.pngHarbor Mail	pokemail_harbor
+Grid Hard Stone.pngHard Stone	hard_stone
+16pxHardy Mint	mint_hardy
+16pxHasty Mint	mint_hasty
+Grid Heal Ball.pngHeal Ball	heal_ball	pixelmon:poke_ball=heal_ball
+Grid Heal Ball Lid.pngHeal Ball Lid	heal_ball_lid
+Grid Heal Powder.pngHeal Powder	heal_powder
+Grid Health Feather.pngHealth Feather	health_feather
+Grid Health Mochi.pngHealth Mochi	health_mochi
+Grid Health Wing.pngHealth Wing	health_wing
+Grid Heart Mail.pngHeart Mail	pokemail_heart
+Grid Heart Scale.pngHeart Scale	heart_scale
+Grid Heat Badge.pngHeat Badge	heat_badge
+Grid Heat Rock.pngHeat Rock	heat_rock
+Grid Heavy Ball.pngHeavy Ball	heavy_ball	pixelmon:poke_ball=heavy_ball
+Grid Heavy Ball Lid.pngHeavy Ball Lid	heavy_ball_lid
+Grid Heavy-Duty Boots.pngHeavy-Duty Boots	heavy_duty_boots
+Grid Helix Fossil.pngHelix Fossil	helix_fossil
+Grid Heracronite.pngHeracronite	heracronite
+Grid Herb Medley Curry.pngHerb Medley Curry	dish_curry_herb
+Grid Hi-tech Earbuds.pngHi-tech Earbuds	hi_tech_earbuds
+Grid Hidden Cube.pngHidden Cube	hidden_cube
+Grid Hidden Iron Door.pngHidden Iron Door	hidden_iron_door
+Grid Hidden Iron Door.pngHidden Iron Door	hidden_iron_door_item
+Grid Hidden Pressure Plate.pngHidden Pressure Plate	hidden_pressure_plate
+Grid Hidden Pressure Plate.pngHidden Pressure Plate	null
+Grid Hidden Wooden Door.pngHidden Wooden Door	hidden_wooden_door
+Grid Hidden Wooden Door.pngHidden Wooden Door	hidden_wooden_door_item
+Grid Hive Badge.pngHive Badge	hive_badge
+16pxHM01: Cut	hm1
+16pxHM02: Fly	hm2
+16pxHM03: Surf	hm3
+16pxHM04: Strength	hm4
+16pxHM05: Defog	hm5
+16pxHM06: Rock Smash	hm6
+16pxHM07: Waterfall	hm7
+16pxHM08: Rock Climb	hm8
+16pxHM09: Whirlpool	hm9
+16pxHM10: Dive	hm10
+16pxHoenn TM1: Focus Punch	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 1s}
+16pxHoenn TM2: Dragon Claw	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 2s}
+16pxHoenn TM3: Water Pulse	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 3s}
+16pxHoenn TM4: Calm Mind	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 4s}
+16pxHoenn TM5: Roar	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 5s}
+16pxHoenn TM6: Toxic	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 6s}
+16pxHoenn TM7: Hail	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 7s}
+16pxHoenn TM8: Bulk Up	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 8s}
+16pxHoenn TM9: Bullet Seed	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 9s}
+16pxHoenn TM10: Hidden Power	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 10s}
+16pxHoenn TM11: Sunny Day	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 11s}
+16pxHoenn TM12: Taunt	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 12s}
+16pxHoenn TM13: Ice Beam	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 13s}
+16pxHoenn TM14: Blizzard	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 14s}
+16pxHoenn TM15: Hyper Beam	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 15s}
+16pxHoenn TM16: Light Screen	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 16s}
+16pxHoenn TM17: Protect	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 17s}
+16pxHoenn TM18: Rain Dance	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 18s}
+16pxHoenn TM19: Giga Drain	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 19s}
+16pxHoenn TM20: Safeguard	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 20s}
+16pxHoenn TM21: Frustration	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 21s}
+16pxHoenn TM22: Solar Beam	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 22s}
+16pxHoenn TM23: Iron Tail	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 23s}
+16pxHoenn TM24: Thunderbolt	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 24s}
+16pxHoenn TM25: Thunder	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 25s}
+16pxHoenn TM26: Earthquake	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 26s}
+16pxHoenn TM27: Return	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 27s}
+16pxHoenn TM28: Dig	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 28s}
+16pxHoenn TM29: Psychic	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 29s}
+16pxHoenn TM30: Shadow Ball	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 30s}
+16pxHoenn TM31: Brick Break	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 31s}
+16pxHoenn TM32: Double Team	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 32s}
+16pxHoenn TM33: Reflect	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 33s}
+16pxHoenn TM34: Shock Wave	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 34s}
+16pxHoenn TM35: Flamethrower	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 35s}
+16pxHoenn TM36: Sludge Bomb	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 36s}
+16pxHoenn TM37: Sandstorm	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 37s}
+16pxHoenn TM38: Fire Blast	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 38s}
+16pxHoenn TM39: Rock Tomb	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 39s}
+16pxHoenn TM40: Aerial Ace	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 40s}
+16pxHoenn TM41: Torment	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 41s}
+16pxHoenn TM42: Facade	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 42s}
+16pxHoenn TM43: Secret Power	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 43s}
+16pxHoenn TM44: Rest	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 44s}
+16pxHoenn TM45: Attract	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 45s}
+16pxHoenn TM46: Thief	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 46s}
+16pxHoenn TM47: Steel Wing	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 47s}
+16pxHoenn TM48: Skill Swap	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 48s}
+16pxHoenn TM49: Snatch	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 49s}
+16pxHoenn TM50: Overheat	tm_gen3	minecraft:custom_data={Gen9Offset:1b, tm: 50s}
+Grid Holo Caster.pngHolo Caster	holo_caster
+Grid Hondew Berry.pngHondew Berry	hondew_berry
+16pxHondew Berry Leaves	berry_leaves_hondew
+16pxHondew Berry Log	berry_log_hondew
+16pxHondew Berry Tree	berrytree_hondew
+Grid Honey.pngHoney	honey
+Grid Houndoominite.pngHoundoominite	houndoominite
+Grid HP Up.pngHP Up	hp_up
+Grid Hyper Potion.pngHyper Potion	hyper_potion
+Grid Iapapa Berry.pngIapapa Berry	iapapa_berry
+16pxIapapa Berry Leaves	berry_leaves_iapapa
+16pxIapapa Berry Log	berry_log_iapapa
+16pxIce Badge	ice_badge
+Grid Ice Gem.pngIce Gem	ice_gem
+Grid Ice Heal.pngIce Heal	ice_heal
+Grid Ice Memory.pngIce Memory	ice_memory
+Grid Ice Rock.pngIce Rock	ice_rock
+Grid Ice Root Carrot.pngIce Root Carrot	ice_root_carrot
+Grid Ice Stone.pngIce Stone	ice_stone
+Grid Ice Stone Ore.pngIce Stone Ore	ice_stone_ore
+Grid Ice Stone Shard.pngIce Stone Shard	ice_stone_shard
+Grid Iceberg Badge.pngIceberg Badge	iceberg_badge
+Grid Icicle Badge.pngIcicle Badge	icicle_badge
+Grid Icicle Plate.pngIcicle Plate	icicle_plate
+Icium Z.pngIcium Z	icium_z
+Grid Icy Rock.pngIcy Rock	icy_rock
+Grid Ilex Shrine.pngIlex Shrine	ilex_shrine
+16pxImpish Mint	mint_impish
+Grid Incense Burner.pngIncense Burner	incense_burner
+Grid Incinium Z.pngIncinium Z	incinium_z
+Grid Infuser.pngInfuser	infuser
+Grid Inquiry Mail.pngInquiry Mail	pokemail_inquiry
+Grid Insect Badge.pngInsect Badge	insect_badge
+Grid Insect Plate.pngInsect Plate	insect_plate
+Grid Inside Wall.pngInside Wall	inside_wall
+Grid Inside Wall Molding.pngInside Wall Molding	inside_wall_moulding
+Grid Instant Noodles.pngInstant Noodles	curry_instant_noodle
+Grid Instant-Noodle Curry.pngInstant-Noodle Curry	dish_curry_instant_noodle
+Grid Intriguing Stone.pngIntriguing Stone	intriguing_stone
+Grid Iron.pngIron	iron
+Grid Iron Ball.pngIron Ball	iron_ball	pixelmon:poke_ball=iron_ball
+Grid Iron Base.pngIron Base	iron_base
+Grid Iron Disc.pngIron Disc	iron_disc
+Grid Iron Hammer.pngIron Hammer	iron_hammer
+Grid Iron Plate.pngIron Plate	iron_plate
+Grid Isi's Copper Hourglass.pngIsi's Copper Hourglass	copper_hourglass
+Grid Isi's Diamond Hourglass.pngIsi's Diamond Hourglass	diamond_hourglass
+Grid Isi's Gold Hourglass.pngIsi's Gold Hourglass	gold_hourglass
+Grid Isi's Silver Hourglass.pngIsi's Silver Hourglass	silver_hourglass
+16pxItem Finder	item_finder
+Grid Iwa Badge.pngIwa Badge	iwa_badge
+Grid Jaboca Berry.pngJaboca Berry	jaboca_berry
+16pxJaboca Berry Leaves	berry_leaves_jaboca
+16pxJaboca Berry Log	berry_log_jaboca
+16pxJaboca Berry Tree	berrytree_jaboca
+Grid Jade Orb.pngJade Orb	jade_orb
+16pxJadestar Badge	jadestar_badge
+Grid Jaw Fossil.pngJaw Fossil	jaw_fossil
+Grid Jet Badge.pngJet Badge	jet_badge
+Grid Jet Ball.pngJet Ball	jet_ball	pixelmon:poke_ball=jet_ball
+Grid Jet Ball Lid.pngJet Ball Lid	jet_ball_lid
+Grid Jimen Badge.pngJimen Badge	jimen_badge
+16pxJohto TM1: Dynamic Punch	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 1s}
+16pxJohto TM2: Headbutt	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 2s}
+16pxJohto TM3: Curse	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 3s}
+16pxJohto TM4: Rollout	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 4s}
+16pxJohto TM5: Roar	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 5s}
+16pxJohto TM6: Toxic	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 6s}
+16pxJohto TM7: Zap Cannon	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 7s}
+16pxJohto TM8: Rock Smash	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 8s}
+16pxJohto TM9: Psych Up	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 9s}
+16pxJohto TM10: Hidden Power	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 10s}
+16pxJohto TM11: Sunny Day	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 11s}
+16pxJohto TM12: Sweet Scent	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 12s}
+16pxJohto TM13: Snore	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 13s}
+16pxJohto TM14: Blizzard	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 14s}
+16pxJohto TM15: Hyper Beam	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 15s}
+16pxJohto TM16: Icy Wind	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 16s}
+16pxJohto TM17: Protect	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 17s}
+16pxJohto TM18: Rain Dance	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 18s}
+16pxJohto TM19: Giga Drain	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 19s}
+16pxJohto TM20: Endure	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 20s}
+16pxJohto TM21: Frustration	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 21s}
+16pxJohto TM22: Solar Beam	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 22s}
+16pxJohto TM23: Iron Tail	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 23s}
+16pxJohto TM24: Dragon Breath	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 24s}
+16pxJohto TM25: Thunder	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 25s}
+16pxJohto TM26: Earthquake	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 26s}
+16pxJohto TM27: Return	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 27s}
+16pxJohto TM28: Dig	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 28s}
+16pxJohto TM29: Psychic	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 29s}
+16pxJohto TM30: Shadow Ball	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 30s}
+16pxJohto TM31: Mud-Slap	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 31s}
+16pxJohto TM32: Double Team	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 32s}
+16pxJohto TM33: Ice Punch	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 33s}
+16pxJohto TM34: Swagger	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 34s}
+16pxJohto TM35: Sleep Talk	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 35s}
+16pxJohto TM36: Sludge Bomb	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 36s}
+16pxJohto TM37: Sandstorm	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 37s}
+16pxJohto TM38: Fire Blast	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 38s}
+16pxJohto TM39: Swift	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 39s}
+16pxJohto TM40: Defense Curl	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 40s}
+16pxJohto TM41: Thunder Punch	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 41s}
+16pxJohto TM42: Dream Eater	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 42s}
+16pxJohto TM43: Detect	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 43s}
+16pxJohto TM44: Rest	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 44s}
+16pxJohto TM45: Attract	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 45s}
+16pxJohto TM46: Thief	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 46s}
+16pxJohto TM47: Steel Wing	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 47s}
+16pxJohto TM48: Fire Punch	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 48s}
+16pxJohto TM49: Fury Cutter	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 49s}
+16pxJohto TM50: Nightmare	tm_gen2	minecraft:custom_data={Gen9Offset:1b, tm: 50s}
+16pxJolly Mint	mint_jolly
+Grid Juicy Curry.pngJuicy Curry	dish_curry_juicy
+Grid Jungle Bench.pngJungle Bench	jungle_bench
+16pxKanto TM1: Mega Punch	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 1s}
+16pxKanto TM2: Razor Wind	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 2s}
+16pxKanto TM3: Swords Dance	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 3s}
+16pxKanto TM4: Whirlwind	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 4s}
+16pxKanto TM5: Mega Kick	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 5s}
+16pxKanto TM6: Toxic	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 6s}
+16pxKanto TM7: Horn Drill	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 7s}
+16pxKanto TM8: Body Slam	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 8s}
+16pxKanto TM9: Take Down	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 9s}
+16pxKanto TM10: Double-Edge	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 10s}
+16pxKanto TM11: Bubble Beam	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 11s}
+16pxKanto TM12: Water Gun	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 12s}
+16pxKanto TM13: Ice Beam	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 13s}
+16pxKanto TM14: Blizzard	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 14s}
+16pxKanto TM15: Hyper Beam	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 15s}
+16pxKanto TM16: Pay Day	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 16s}
+16pxKanto TM17: Submission	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 17s}
+16pxKanto TM18: Counter	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 18s}
+16pxKanto TM19: Seismic Toss	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 19s}
+16pxKanto TM20: Rage	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 20s}
+16pxKanto TM21: Mega Drain	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 21s}
+16pxKanto TM22: Solar Beam	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 22s}
+16pxKanto TM23: Dragon Rage	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 23s}
+16pxKanto TM24: Thunderbolt	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 24s}
+16pxKanto TM25: Thunder	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 25s}
+16pxKanto TM26: Earthquake	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 26s}
+16pxKanto TM27: Fissure	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 27s}
+16pxKanto TM28: Dig	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 28s}
+16pxKanto TM29: Psychic	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 29s}
+16pxKanto TM30: Teleport	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 30s}
+16pxKanto TM31: Mimic	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 31s}
+16pxKanto TM32: Double Team	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 32s}
+16pxKanto TM33: Reflect	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 33s}
+16pxKanto TM34: Bide	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 34s}
+16pxKanto TM35: Metronome	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 35s}
+16pxKanto TM36: Self-Destruct	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 36s}
+16pxKanto TM37: Egg Bomb	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 37s}
+16pxKanto TM38: Fire Blast	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 38s}
+16pxKanto TM39: Swift	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 39s}
+16pxKanto TM40: Skull Bash	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 40s}
+16pxKanto TM41: Soft-Boiled	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 41s}
+16pxKanto TM42: Dream Eater	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 42s}
+16pxKanto TM43: Sky Attack	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 43s}
+16pxKanto TM44: Rest	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 44s}
+16pxKanto TM45: Thunder Wave	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 45s}
+16pxKanto TM46: Psywave	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 46s}
+16pxKanto TM47: Explosion	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 47s}
+16pxKanto TM48: Rock Slide	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 48s}
+16pxKanto TM49: Tri Attack	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 49s}
+16pxKanto TM50: Substitute	tm_gen1	minecraft:custom_data={Gen9Offset:1b, tm: 50s}
+16pxKalos TM51: Steel Wing	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 51s}
+16pxKalos TM52: Focus Blast	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 52s}
+16pxKalos TM53: Energy Ball	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 53s}
+16pxKalos TM54: False Swipe	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 54s}
+16pxKalos TM55: Scald	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 55s}
+16pxKalos TM56: Fling	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 56s}
+16pxKalos TM57: Charge Beam	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 57s}
+16pxKalos TM58: Sky Drop	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 58s}
+16pxKalos TM59: Incinerate	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 59s}
+16pxKalos TM60: Quash	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 60s}
+16pxKalos TM61: Will-O-Wisp	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 61s}
+16pxKalos TM62: Acrobatics	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 62s}
+16pxKalos TM63: Embargo	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 63s}
+16pxKalos TM64: Explosion	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 64s}
+16pxKalos TM65: Shadow Claw	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 65s}
+16pxKalos TM66: Payback	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 66s}
+16pxKalos TM67: Retaliate	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 67s}
+16pxKalos TM68: Giga Impact	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 68s}
+16pxKalos TM69: Rock Polish	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 69s}
+16pxKalos TM70: Flash	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 70s}
+16pxKalos TM71: Stone Edge	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 71s}
+16pxKalos TM72: Volt Switch	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 72s}
+16pxKalos TM73: Thunder Wave	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 73s}
+16pxKalos TM74: Gyro Ball	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 74s}
+16pxKalos TM75: Swords Dance	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 75s}
+16pxKalos TM76: Struggle Bug	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 76s}
+16pxKalos TM77: Psych Up	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 77s}
+16pxKalos TM78: Bulldoze	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 78s}
+16pxKalos TM79: Frost Breath	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 79s}
+16pxKalos TM80: Rock Slide	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 80s}
+16pxKalos TM81: X-Scissor	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 81s}
+16pxKalos TM82: Dragon Tail	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 82s}
+16pxKalos TM83: Infestation	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 83s}
+16pxKalos TM84: Poison Jab	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 84s}
+16pxKalos TM85: Dream Eater	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 85s}
+16pxKalos TM86: Grass Knot	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 86s}
+16pxKalos TM87: Swagger	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 87s}
+16pxKalos TM88: Sleep Talk	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 88s}
+16pxKalos TM89: U-turn	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 89s}
+16pxKalos TM90: Substitute	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 90s}
+16pxKalos TM91: Flash Cannon	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 91s}
+16pxKalos TM92: Trick Room	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 92s}
+16pxKalos TM93: Wild Charge	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 93s}
+16pxKalos TM94: Rock Smash	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 94s}
+16pxKalos TM95: Snarl	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 95s}
+16pxKalos TM96: Nature Power	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 96s}
+16pxKalos TM97: Dark Pulse	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 97s}
+16pxKalos TM98: Power-Up Punch	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 98s}
+16pxKalos TM99: Dazzling Gleam	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 99s}
+16pxKalos TM100: Confide	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 100s}
+16pxKalos TM101: Secret Power	tm_gen6	minecraft:custom_data={Gen9Offset:1b, tm: 101s}
+Grid Kasai Badge.pngKasai Badge	kasai_badge
+Grid Kasib Berry.pngKasib Berry	kasib_berry
+16pxKasib Berry Leaves	berry_leaves_kasib
+16pxKasib Berry Log	berry_log_kasib
+16pxKasib Berry Tree	berrytree_kasib
+Grid Kebia Berry.pngKebia Berry	kebia_berry
+16pxKebia Berry Leaves	berry_leaves_kebia
+16pxKebia Berry Log	berry_log_kebia
+16pxKebia Berry Tree	berrytree_kebia
+Grid Kee Berry.pngKee Berry	kee_berry
+16pxKee Berry Leaves	berry_leaves_kee
+16pxKee Berry Log	berry_log_kee
+Grid Kelpsy Berry.pngKelpsy Berry	kelpsy_berry
+16pxKelpsy Berry Leaves	berry_leaves_kelpsy
+16pxKelpsy Berry Log	berry_log_kelpsy
+16pxKelpsy Berry Tree	berrytree_kelpsy
+Grid Key Stone.pngKey Stone	key_stone
+Grid King's Rock New.pngKing's Rock	kings_rock
+Grid Knuckle Badge.pngKnuckle Badge	knuckle_badge
+Grid Komala Coffee.pngKomala Coffee	komala_coffee
+Grid Kommonium Z.pngKommonium Z	kommonium_z
+Grid Kuo Berry.pngKuo Berry	kuo_berry
+16pxKuo Berry Leaves	berry_leaves_kuo
+16pxKuo Berry Log	berry_log_kuo
+Grid Kurai Badge.pngKurai Badge	kurai_badge
+Grid Kusa Badge.pngKusa Badge	kusa_badge
+Grid Lagging Tail.pngLagging Tail	lagging_tail
+Grid Lansat Berry.pngLansat Berry	lansat_berry
+16pxLansat Berry Leaves	berry_leaves_lansat
+16pxLansat Berry Log	berry_log_lansat
+16pxLansat Berry Tree	berrytree_lansat
+Grid Large Leek.pngLarge Leek	curry_leek
+Grid Latiasite.pngLatiasite	latiasite
+Grid Latiosite.pngLatiosite	latiosite
+Grid Lava Cookie.pngLava Cookie	lava_cookie
+Grid Lax Incense.pngLax Incense	lax_incense
+16pxLax Mint	mint_lax
+Grid Leaden Ball.pngLeaden Ball	leaden_ball	pixelmon:poke_ball=leaden_ball
+Grid Leaden Ball Lid.pngLeaden Ball Lid	leaden_ball_lid
+Grid Leader's Crest.pngLeader's Crest	leaders_crest
+Grid Leaf Stone.pngLeaf Stone	leaf_stone
+Grid Leaf Stone Axe.pngLeaf Stone Axe	leaf_stone_axe
+Grid Leaf Stone Boots.pngLeaf Stone Boots	leaf_stone_boots
+Grid Leaf Stone Chestplate.pngLeaf Stone Chestplate	leaf_stone_chestplate
+Grid Leaf Stone Hammer.pngLeaf Stone Hammer	leaf_stone_hammer
+Grid Leaf Stone Helmet.pngLeaf Stone Helmet	leaf_stone_helmet
+Grid Leaf Stone Hoe.pngLeaf Stone Hoe	leaf_stone_hoe
+Grid Leaf Stone Leggings.pngLeaf Stone Leggings	leaf_stone_leggings
+Grid Leaf Stone Ore.pngLeaf Stone Ore	leaf_stone_ore
+Grid Leaf Stone Ore.pngLeaf Stone Ore	leafstoneore_overlay
+Grid Leaf Stone Pickaxe.pngLeaf Stone Pickaxe	leaf_stone_pickaxe
+Grid Leaf Stone Shard.pngLeaf Stone Shard	leaf_stone_shard
+Grid Leaf Stone Shovel.pngLeaf Stone Shovel	leaf_stone_shovel
+Grid Leaf Stone Sword.pngLeaf Stone Sword	leaf_stone_sword
+Grid Leek.pngLeek	leek
+Grid Leek Curry.pngLeek Curry	dish_curry_leek
+Grid Leftovers.pngLeftovers	leftovers
+Grid Legend Badge.pngLegend Badge	legend_badge
+Grid Legend Plate.pngLegend Plate	legend_plate
+Grid Legendary Clues.pngLegendary Clues	legendary_clues
+Grid Legendary PokéStop.pngLegendary PokéStop	legendary_pokestop
+Grid Lemonade.pngLemonade	lemonade
+Grid Leppa Berry.pngLeppa Berry	leppa_berry
+16pxLeppa Berry Leaves	berry_leaves_leppa
+16pxLeppa Berry Log	berry_log_leppa
+Grid Level Ball.pngLevel Ball	level_ball	pixelmon:poke_ball=level_ball
+Grid Level Ball Lid.pngLevel Ball Lid	level_ball_lid
+Grid Liberty Pass.pngLiberty Pass	liberty_pass
+Grid Liechi Berry.pngLiechi Berry	liechi_berry
+16pxLiechi Berry Leaves	berry_leaves_liechi
+16pxLiechi Berry Log	berry_log_liechi
+16pxLiechi Berry Tree	berrytree_liechi
+Grid Life Orb.pngLife Orb	life_orb
+Grid Light Ball.pngLight Ball	light_ball	pixelmon:poke_ball=light_ball
+Grid Light Blue Armchair.pngLight Blue Armchair	light_blue_armchair
+Grid Light Blue Cash Register.pngLight Blue Cash Register	light_blue_cash_register
+Grid Light Blue Chair.pngLight Blue Chair	light_blue_chair
+Grid Light Blue Clock.pngLight Blue Clock	light_blue_clock
+Grid Light Blue Couch.pngLight Blue Couch	light_blue_couch
+Grid Light Blue Cushion Chair.pngLight Blue Cushion Chair	light_blue_cushion_chair
+16pxLight Blue Day Care	light_blue_day_care
+Grid Light Blue Floor Gym Sign.pngLight Blue Floor Gym Sign	light_blue_floor_gym_sign
+Grid Light Blue Folding Chair.pngLight Blue Folding Chair	light_blue_folding_chair
+16pxLight Blue Hanging Gym Sign	light_blue_hanging_gym_sign
+Grid Light Blue Healer.pngLight Blue Healer	light_blue_healer
+16pxLight Blue Letter Box	light_blue_letter_box
+Grid Light Blue Letterbox.pngLight Blue Letterbox	letterbox_standing_light_blue
+16pxLight Blue Mail Box	light_blue_mail_box
+Grid Light Blue Mailbox.pngLight Blue Mailbox	mailbox_light_blue
+Grid Light Blue PC.pngLight Blue PC	light_blue_pc
+Grid Light Blue Poké Bag.pngLight Blue Poké Bag	light_blue_poke_bag
+Grid Light Blue Rug.pngLight Blue Rug	light_blue_rug
+Grid Light Blue Trade Machine.pngLight Blue Trade Machine	light_blue_trade_machine
+Grid Light Blue Umbrella.pngLight Blue Umbrella	light_blue_umbrella
+Grid Light Blue Vending Machine.pngLight Blue Vending Machine	light_blue_vending_machine
+16pxLight Blue Wall Gym Sign	light_blue_wall_gym_sign
+Grid Light Blue Water Float.pngLight Blue Water Float	light_blue_water_float
+Grid Light Clay.pngLight Clay	light_clay
+Grid Light Gray Armchair.pngLight Gray Armchair	light_gray_armchair
+Grid Light Gray Cash Register.pngLight Gray Cash Register	light_gray_cash_register
+Grid Light Gray Chair.pngLight Gray Chair	light_gray_chair
+Grid Light Gray Clock.pngLight Gray Clock	light_gray_clock
+Grid Light Gray Couch.pngLight Gray Couch	light_gray_couch
+Grid Light Gray Cushion Chair.pngLight Gray Cushion Chair	light_gray_cushion_chair
+16pxLight Gray Day Care	light_gray_day_care
+Grid Light Gray Floor Gym Sign.pngLight Gray Floor Gym Sign	light_gray_floor_gym_sign
+Grid Light Gray Folding Chair.pngLight Gray Folding Chair	light_gray_folding_chair
+16pxLight Gray Hanging Gym Sign	light_gray_hanging_gym_sign
+Grid Light Gray Healer.pngLight Gray Healer	light_gray_healer
+16pxLight Gray Letter Box	light_gray_letter_box
+16pxLight Gray Mail Box	light_gray_mail_box
+Grid Light Gray PC.pngLight Gray PC	light_gray_pc
+Grid Light Gray Poké Bag.pngLight Gray Poké Bag	light_gray_poke_bag
+Grid Light Gray Rug.pngLight Gray Rug	light_gray_rug
+Grid Light Gray Trade Machine.pngLight Gray Trade Machine	light_gray_trade_machine
+Grid Light Gray Umbrella.pngLight Gray Umbrella	light_gray_umbrella
+Grid Light Gray Vending Machine.pngLight Gray Vending Machine	light_gray_vending_machine
+16pxLight Gray Wall Gym Sign	light_gray_wall_gym_sign
+Grid Light Gray Water Float.pngLight Gray Water Float	light_gray_water_float
+Grid Light Stone.pngLight Stone	light_stone
+Grid Light Workplace.pngLight Workplace	lightworkplace
+Grid Like Mail.pngLike Mail	pokemail_like
+Grid Lime Armchair.pngLime Armchair	lime_armchair
+Grid Lime Cash Register.pngLime Cash Register	lime_cash_register
+Grid Lime Chair.pngLime Chair	lime_chair
+Grid Lime Clock.pngLime Clock	lime_clock
+Grid Lime Couch.pngLime Couch	lime_couch
+Grid Lime Cushion Chair.pngLime Cushion Chair	lime_cushion_chair
+16pxLime Day Care	lime_day_care
+Grid Lime Floor Gym Sign.pngLime Floor Gym Sign	lime_floor_gym_sign
+Grid Lime Folding Chair.pngLime Folding Chair	lime_folding_chair
+16pxLime Hanging Gym Sign	lime_hanging_gym_sign
+Grid Lime Healer.pngLime Healer	lime_healer
+16pxLime Letter Box	lime_letter_box
+Grid Lime Letterbox.pngLime Letterbox	letterbox_standing_lime
+16pxLime Mail Box	lime_mail_box
+Grid Lime Mailbox.pngLime Mailbox	mailbox_lime
+Grid Lime PC.pngLime PC	lime_pc
+Grid Lime Poké Bag.pngLime Poké Bag	lime_poke_bag
+Grid Lime Rug.pngLime Rug	lime_rug
+Grid Lime Trade Machine.pngLime Trade Machine	lime_trade_machine
+Grid Lime Umbrella.pngLime Umbrella	lime_umbrella
+Grid Lime Vending Machine.pngLime Vending Machine	lime_vending_machine
+16pxLime Wall Gym Sign	lime_wall_gym_sign
+Grid Lime Water Float.pngLime Water Float	lime_water_float
+Grid Linking Cord.pngLinking Cord	linking_cord
+Grid Loaded Dice.pngLoaded Dice	loaded_dice
+16pxLonely Mint	mint_lonely
+Grid Lopunnite.pngLopunnite	lopunnite
+Grid Love Ball.pngLove Ball	love_ball	pixelmon:poke_ball=love_ball
+Grid Love Ball Lid.pngLove Ball Lid	love_ball_lid
+Grid Love Sweet.pngLove Sweet	sweet_love
+Grid Lucarionite.pngLucarionite	lucarionite
+Grid Luck Incense.pngLuck Incense	luck_incense
+Grid Lucky Egg.pngLucky Egg	lucky_egg
+Grid Lucky Punch.pngLucky Punch	lucky_punch
+Grid Lum Berry.pngLum Berry	lum_berry
+16pxLum Berry Leaves	berry_leaves_lum
+16pxLum Berry Log	berry_log_lum
+Grid Luminous Moss.pngLuminous Moss	luminous_moss
+Grid Lumiose Galette.pngLumiose Galette	lumiose_galette
+Lunalium Z.pngLunalium Z	lunalium_z
+Grid Lunar Wing.pngLunar Wing	lunar_wing
+Grid Lure Ball.pngLure Ball	lure_ball	pixelmon:poke_ball=lure_ball
+Grid Lure Ball Lid.pngLure Ball Lid	lure_ball_lid
+Grid Lustrous Globe.pngLustrous Globe	lustrous_globe
+Grid Lustrous Orb.pngLustrous Orb	lustrous_orb
+Grid Luxury Ball.pngLuxury Ball	luxury_ball	pixelmon:poke_ball=luxury_ball
+Grid Luxury Ball Lid.pngLuxury Ball Lid	luxury_ball_lid
+Grid Lycanium Z.pngLycanium Z	lycanium_z
+Grid Mach Bike.pngMach Bike	mach_bike
+Grid Mach Bike Frame.pngMach Bike Frame	mach_bike_frame
+Grid Macho Brace New.pngMacho Brace	macho_brace
+Grid Magenta Armchair.pngMagenta Armchair	magenta_armchair
+Grid Magenta Cash Register.pngMagenta Cash Register	magenta_cash_register
+Grid Magenta Chair.pngMagenta Chair	magenta_chair
+Grid Magenta Clock.pngMagenta Clock	magenta_clock
+Grid Magenta Couch.pngMagenta Couch	magenta_couch
+Grid Magenta Cushion Chair.pngMagenta Cushion Chair	magenta_cushion_chair
+16pxMagenta Day Care	magenta_day_care
+Grid Magenta Floor Gym Sign.pngMagenta Floor Gym Sign	magenta_floor_gym_sign
+Grid Magenta Folding Chair.pngMagenta Folding Chair	magenta_folding_chair
+16pxMagenta Hanging Gym Sign	magenta_hanging_gym_sign
+Grid Magenta Healer.pngMagenta Healer	magenta_healer
+16pxMagenta Letter Box	magenta_letter_box
+Grid Magenta Letterbox.pngMagenta Letterbox	letterbox_standing_magenta
+16pxMagenta Mail Box	magenta_mail_box
+Grid Magenta Mailbox.pngMagenta Mailbox	mailbox_magenta
+Grid Magenta PC.pngMagenta PC	magenta_pc
+Grid Magenta Poké Bag.pngMagenta Poké Bag	magenta_poke_bag
+Grid Magenta Rug.pngMagenta Rug	magenta_rug
+Grid Magenta Trade Machine.pngMagenta Trade Machine	magenta_trade_machine
+Grid Magenta Umbrella.pngMagenta Umbrella	magenta_umbrella
+Grid Magenta Vending Machine.pngMagenta Vending Machine	magenta_vending_machine
+16pxMagenta Wall Gym Sign	magenta_wall_gym_sign
+Grid Magenta Water Float.pngMagenta Water Float	magenta_water_float
+Grid Magma Boots.pngMagma Boots	ruby_boots
+Grid Magma Chestplate.pngMagma Chestplate	ruby_chestplate
+Grid Magma Helmet.pngMagma Helmet	ruby_helmet
+Grid Magma Leggings.pngMagma Leggings	ruby_leggings
+Grid Magma Stone.pngMagma Stone	magma_stone
+Grid Magmarizer New.pngMagmarizer	magmarizer
+Grid Magnet.pngMagnet	magnet
+Grid Mago Berry.pngMago Berry	mago_berry
+16pxMago Berry Leaves	berry_leaves_mago
+16pxMago Berry Log	berry_log_mago
+Grid Magost Berry.pngMagost Berry	magost_berry
+16pxMagost Berry Leaves	berry_leaves_magost
+16pxMagost Berry Log	berry_log_magost
+16pxMailbox	mailbox
+Grid Malicious Armor.pngMalicious Armor	malicious_armor
+Grid Manectite.pngManectite	manectite
+Grid Maranga Berry.pngMaranga Berry	maranga_berry
+16pxMaranga Berry Leaves	berry_leaves_maranga
+16pxMaranga Berry Log	berry_log_maranga
+Grid Mark Charm.pngMark Charm	mark_charm
+Grid Marsh Badge.pngMarsh Badge	marsh_badge
+Marshadium Z.pngMarshadium Z	marshadium_z
+Grid Master Ball.pngMaster Ball	master_ball	pixelmon:poke_ball=master_ball
+16pxMaster Ball Lid	master_ball_lid
+Grid Master Chest.pngMaster Chest	master_chest
+Grid Master Chest.pngMaster Chest	masterchest
+Grid Mawilite.pngMawilite	mawilite
+Grid Max Elixir.pngMax Elixir	max_elixir
+Grid Max Ether.pngMax Ether	max_ether
+Grid Max Honey.pngMax Honey	max_honey
+Grid Max Mushrooms.pngMax Mushrooms	max_mushroom
+16pxMax Mushrooms Block	max_mushroom_block
+Grid Max Potion New.pngMax Potion	max_potion
+16pxMax Raid Den Spawner	den_spawner
+Grid Max Repel.pngMax Repel	max_repel
+Grid Max Revive.pngMax Revive	max_revive
+Grid Max Soup.pngMax Soup	max_soup
+Grid Meadow Plate.pngMeadow Plate	meadow_plate
+Grid Mech Mail.pngMech Mail	pokemail_mech
+Grid Mechanical Anvil.pngMechanical Anvil	mechanical_anvil
+Grid Medichamite.pngMedichamite	medichamite
+Grid Member Card.pngMember Card	member_card
+Grid Mental Herb.pngMental Herb	mental_herb
+Grid Metagrossite.pngMetagrossite	metagrossite
+Grid Metal Alloy.pngMetal Alloy	metal_alloy
+Grid Metal Coat.pngMetal Coat	metal_coat
+Grid Metal Powder.pngMetal Powder	metal_powder
+Grid Meteorite.pngMeteorite	meteorite
+Grid Metronome.pngMetronome	metronome
+Mewnium Z.pngMewnium Z	mewnium_z
+Grid Mewtwonite X.pngMewtwonite X	mewtwonite_x
+Grid Mewtwonite Y.pngMewtwonite Y	mewtwonite_y
+16pxMickle Berry	mickle_berry
+Grid Micle Berry.pngMicle Berry	micle_berry
+16pxMicle Berry Leaves	berry_leaves_micle
+16pxMicle Berry Log	berry_log_micle
+16pxMicle Berry Tree	berrytree_micle
+16pxMild Mint	mint_mild
+Grid Mimikium Z.pngMimikium Z	mimikium_z
+Grid Mind Badge.pngMind Badge	mind_badge
+Grid Mind Plate.pngMind Plate	mind_plate
+Grid Mine Badge.pngMine Badge	mine_badge
+Grid Mineral Badge.pngMineral Badge	mineral_badge
+16pxMint Crop	mint
+Grid Mint Cutting.pngMint Cutting	mint_seeds
+Grid Miracle Seed.pngMiracle Seed	miracle_seed
+Grid Mirror Herb.pngMirror Herb	mirror_herb
+Grid Misty Seed.pngMisty Seed	misty_seed
+Grid Mixed Mushrooms.pngMixed Mushrooms	curry_mushroom
+Grid Mizu Badge.pngMizu Badge	mizu_badge
+16pxModest Mint	mint_modest
+Grid Moomoo Cheese.pngMoomoo Cheese	curry_cheese
+Grid Moomoo Milk.pngMoomoo Milk	moomoo_milk
+Grid Moon Ball.pngMoon Ball	moon_ball	pixelmon:poke_ball=moon_ball
+Grid Moon Ball Lid.pngMoon Ball Lid	moon_ball_lid
+Grid Moon Flute.pngMoon Flute	moon_flute
+Grid Moon Stone.pngMoon Stone	moon_stone
+Grid Moon Stone Axe.pngMoon Stone Axe	moon_stone_axe
+Grid Moon Stone Boots.pngMoon Stone Boots	moon_stone_boots
+Grid Moon Stone Chestplate.pngMoon Stone Chestplate	moon_stone_chestplate
+Grid Moon Stone Hammer.pngMoon Stone Hammer	moon_stone_hammer
+Grid Moon Stone Helmet.pngMoon Stone Helmet	moon_stone_helmet
+Grid Moon Stone Hoe.pngMoon Stone Hoe	moon_stone_hoe
+Grid Moon Stone Leggings.pngMoon Stone Leggings	moon_stone_leggings
+Grid Moon Stone Ore.pngMoon Stone Ore	moon_stone_ore
+Grid Moon Stone Pickaxe.pngMoon Stone Pickaxe	moon_stone_pickaxe
+Grid Moon Stone Shard.pngMoon Stone Shard	moon_stone_shard
+Grid Moon Stone Shovel.pngMoon Stone Shovel	moon_stone_shovel
+Grid Moon Stone Sword.pngMoon Stone Sword	moon_stone_sword
+Grid Mosaic Mail.pngMosaic Mail	pokemail_mosaic
+Grid Moss Rock.pngMoss Rock	moss_rock
+Grid Movement Plate.pngMovement Plate	movement_plate
+Grid Mower.pngMower	mower
+Grid Mug.pngMug	mug_base
+Grid Muscle Band.pngMuscle Band	muscle_band
+Grid Muscle Feather.pngMuscle Feather	muscle_feather
+Grid Muscle Mochi.pngMuscle Mochi	muscle_mochi
+Grid Muscle Wing.pngMuscle Wing	muscle_wing
+Grid Mushroom Medley Curry.pngMushroom Medley Curry	dish_curry_mushroom
+16pxMusic Block	music_block
+Grid Music Disc.pngMusic Disc	boss_music_disc
+Grid Music Disc.pngMusic Disc	custom_music_disc
+Grid Music Disc.pngMusic Disc	gym_music_disc
+Grid Music Disc.pngMusic Disc	legendary_music_disc
+Grid Music Disc.pngMusic Disc	player_music_disc
+Grid Music Disc.pngMusic Disc	poke_center_music_disc
+Grid Music Disc.pngMusic Disc	pokecenter_music_disc
+Grid Music Disc.pngMusic Disc	raid_music_disc
+Grid Music Disc.pngMusic Disc	trainer_music_disc
+Grid Music Disc.pngMusic Disc	ultra_space_music_disc
+Grid Music Disc.pngMusic Disc	ultraspace_music_disc
+Grid Music Disc.pngMusic Disc	wild_music_disc
+Grid Mystery Box.pngMystery Box	mystery_box
+Grid Mystery Dungeon Map.pngMystery Dungeon Map	mystery_dungeon_map
+Grid Mystic Ticket.pngMystic Ticket	mystic_ticket
+Grid Mystic Water.pngMystic Water	mystic_water
+Grid N-Lunarizer.pngN-Lunarizer	n_lunarizer
+Grid N-Solarizer.pngN-Solarizer	n_solarizer
+16pxNaive Mint	mint_naive
+Grid Nanab Berry.pngNanab Berry	nanab_berry
+16pxNanab Berry Leaves	berry_leaves_nanab
+16pxNanab Berry Log	berry_log_nanab
+16pxNaughty Mint	mint_naughty
+Grid Neo Plasma Boots.pngNeo Plasma Boots	neo_plasma_boots
+Grid Neo Plasma Chestplate.pngNeo Plasma Chestplate	neo_plasma_chestplate
+Grid Neo Plasma Helmet.pngNeo Plasma Helmet	neo_plasma_helmet
+Grid Neo Plasma Leggings.pngNeo Plasma Leggings	neo_plasma_leggings
+Grid Nest Ball.pngNest Ball	nest_ball	pixelmon:poke_ball=nest_ball
+Grid Nest Ball Lid.pngNest Ball Lid	nest_ball_lid
+Grid Net Ball.pngNet Ball	net_ball	pixelmon:poke_ball=net_ball
+Grid Net Ball Lid.pngNet Ball Lid	net_ball_lid
+Grid Netherite Hammer.pngNetherite Hammer	netherite_hammer
+Grid Never-Melt Ice.pngNever-Melt Ice	never_melt_ice
+Grid New Running Boots.pngNew Running Boots	new_running_boots
+Grid Niniku Berry.pngNiniku Berry	niniku_berry
+16pxNiniku Berry Leaves	berry_leaves_niniku
+16pxNiniku Berry Log	berry_log_niniku
+Grid Nomaru Badge.pngNomaru Badge	nomaru_badge
+Grid Nomel Berry.pngNomel Berry	nomel_berry
+16pxNomel Berry Leaves	berry_leaves_nomel
+16pxNomel Berry Log	berry_log_nomel
+Grid Normal Gem.pngNormal Gem	normal_gem
+Normalium Z.pngNormalium Z	normalium_z
+Grid NPC Editor.pngNPC Editor	trainer_editor
+Grid Nugget.pngNugget	nugget
+Grid Nutpea Berry.pngNutpea Berry	nutpea_berry
+16pxNutpea Berry Leaves	berry_leaves_nutpea
+16pxNutpea Berry Log	berry_log_nutpea
+16pxOa10712's Fishing Rod	oas_rod
+Grid Oak Bench.pngOak Bench	bench
+16pxOak's Letteer	oaks_letter
+Grid Oak's Parcel.pngOak's Parcel	oaks_parcel
+Grid Occa Berry.pngOcca Berry	occa_berry
+16pxOcca Berry Leaves	berry_leaves_occa
+16pxOcca Berry Log	berry_log_occa
+16pxOcca Berry Tree	berrytree_occa
+Grid Odd Incense.pngOdd Incense	odd_incense
+Grid Old Amber.pngOld Amber	old_amber
+Grid Old Gateau.pngOld Gateau	old_gateau
+Grid Old Rod.pngOld Rod	old_rod	minecraft:custom_data={rodQuality: 0}
+minecraft:custom_data={rodQuality: 1}
+minecraft:custom_data={rodQuality: 2}
+minecraft:custom_data={rodQuality: 3}
+minecraft:custom_data={rodQuality: 4}
+minecraft:custom_data={rodQuality: 5}
+minecraft:custom_data={rodQuality: 6}
+Grid Old Running Boots.pngOld Running Boots	old_running_boots
+Grid Old Sea Map.pngOld Sea Map	old_sea_map
+Grid Old TV.pngOld TV	tv
+Grid Omega Shard.pngOmega Shard	omega_shard
+Grid Oran Berry.pngOran Berry	oran_berry
+16pxOran Berry Leaves	berry_leaves_oran
+16pxOran Berry Log	berry_log_oran
+Grid Orange Armchair.pngOrange Armchair	orange_armchair
+Grid Orange Cash Register.pngOrange Cash Register	orange_cash_register
+Grid Orange Chair.pngOrange Chair	orange_chair
+Grid Orange Clock.pngOrange Clock	orange_clock
+Grid Orange Couch.pngOrange Couch	orange_couch
+Grid Orange Cushion Chair.pngOrange Cushion Chair	orange_cushion_chair
+16pxOrange Day Care	orange_day_care
+Grid Orange Floor Gym Sign.pngOrange Floor Gym Sign	orange_floor_gym_sign
+Grid Orange Folding Chair.pngOrange Folding Chair	orange_folding_chair
+16pxOrange Hanging Gym Sign	orange_hanging_gym_sign
+Grid Orange Healer.pngOrange Healer	orange_healer
+16pxOrange Letter Box	orange_letter_box
+Grid Orange Letterbox.pngOrange Letterbox	letterbox_standing_orange
+Grid Orange Mail.pngOrange Mail	pokemail_orange
+16pxOrange Mail Box	orange_mail_box
+Grid Orange Mailbox.pngOrange Mailbox	mailbox_orange
+Grid Orange PC.pngOrange PC	orange_pc
+Grid Orange Petal.pngOrange Petal	orange_petal
+Grid Orange Poké Bag.pngOrange Poké Bag	orange_poke_bag
+Grid Orange Rug.pngOrange Rug	orange_rug
+Grid Orange Tank.pngOrange Tank	orange_tank
+Grid Orange Trade Machine.pngOrange Trade Machine	orange_trade_machine
+Grid Orange Umbrella.pngOrange Umbrella	orange_umbrella
+Grid Orange Vending Machine.pngOrange Vending Machine	orange_vending_machine
+16pxOrange Wall Gym Sign	orange_wall_gym_sign
+Grid Orange Water Float.pngOrange Water Float	orange_water_float
+Grid Orb.pngOrb	orb
+Orb of Fiery Souls.pngOrb of Fiery Souls	tres_orb
+Orb of Frozen Souls.pngOrb of Frozen Souls	uno_orb
+Orb of Static Souls.pngOrb of Static Souls	dos_orb
+Grid Origin Ball.pngOrigin Ball	origin_ball	pixelmon:poke_ball=origin_ball
+Grid Origin Ball Lid.pngOrigin Ball Lid	origin_ball_lid
+Grid Outside Wall.pngOutside Wall	outside_wall
+Grid Oval Charm.pngOval Charm	oval_charm
+Grid Oval Stone.pngOval Stone	oval_stone
+Grid Oven.pngOven	oven
+Grid Pack of Potatoes.pngPack of Potatoes	curry_potato
+Grid Packaged Curry.pngPackaged Curry	curry_decorative
+16pxPaldean TM01 Take Down	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 1s}
+16pxPaldean TM02 Charm	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 2s}
+16pxPaldean TM03 Fake Tears	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 3s}
+16pxPaldean TM04 Agility	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 4s}
+16pxPaldean TM05 Mud-Slap	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 5s}
+16pxPaldean TM06 Scary Face	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 6s}
+16pxPaldean TM07 Protect	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 7s}
+16pxPaldean TM08 Fire Fang	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 8s}
+16pxPaldean TM09 Thunder Fang	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 9s}
+16pxPaldean TM10 Ice Fang	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 10s}
+16pxPaldean TM11 Water Pulse	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 11s}
+16pxPaldean TM12 Low Kick	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 12s}
+16pxPaldean TM13 Acid Spray	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 13s}
+16pxPaldean TM14 Acrobatics	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 14s}
+16pxPaldean TM15 Struggle Bug	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 15s}
+16pxPaldean TM16 Psybeam	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 16s}
+16pxPaldean TM17 Confuse Ray	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 17s}
+16pxPaldean TM18 Thief	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 18s}
+16pxPaldean TM19 Disarming Voice	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 19s}
+16pxPaldean TM20 Trailblaze	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 20s}
+16pxPaldean TM21 Pounce	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 21s}
+16pxPaldean TM22 Chilling Water	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 22s}
+16pxPaldean TM23 Charge Beam	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 23s}
+16pxPaldean TM24 Fire Spin	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 24s}
+16pxPaldean TM25 Facade	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 25s}
+16pxPaldean TM26 Poison Tail	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 26s}
+16pxPaldean TM27 Aerial Ace	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 27s}
+16pxPaldean TM28 Bulldoze	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 28s}
+16pxPaldean TM29 Hex	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 29s}
+16pxPaldean TM30 Snarl	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 30s}
+16pxPaldean TM31 Metal Claw	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 31s}
+16pxPaldean TM32 Swift	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 32s}
+16pxPaldean TM33 Magical Leaf	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 33s}
+16pxPaldean TM34 Icy Wind	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 34s}
+16pxPaldean TM35 Mud Shot	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 35s}
+16pxPaldean TM36 Rock Tomb	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 36s}
+16pxPaldean TM37 Draining Kiss	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 37s}
+16pxPaldean TM38 Flame Charge	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 38s}
+16pxPaldean TM39 Low Sweep	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 39s}
+16pxPaldean TM40 Air Cutter	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 40s}
+16pxPaldean TM41 Stored Power	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 41s}
+16pxPaldean TM42 Night Shade	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 42s}
+16pxPaldean TM43 Fling	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 43s}
+16pxPaldean TM44 Dragon Tail	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 44s}
+16pxPaldean TM45 Venoshock	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 45s}
+16pxPaldean TM46 Avalanche	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 46s}
+16pxPaldean TM47 Endure	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 47s}
+16pxPaldean TM48 Volt Switch	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 48s}
+16pxPaldean TM49 Sunny Day	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 49s}
+16pxPaldean TM50 Rain Dance	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 50s}
+16pxPaldean TM51 Sandstorm	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 51s}
+16pxPaldean TM52 Snowscape	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 52s}
+16pxPaldean TM53 Smart Strike	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 53s}
+16pxPaldean TM54 Psyshock	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 54s}
+16pxPaldean TM55 Dig	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 55s}
+16pxPaldean TM56 Bullet Seed	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 56s}
+16pxPaldean TM57 False Swipe	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 57s}
+16pxPaldean TM58 Brick Break	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 58s}
+16pxPaldean TM59 Zen Headbutt	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 59s}
+16pxPaldean TM60 U-turn	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 60s}
+16pxPaldean TM61 Shadow Claw	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 61s}
+16pxPaldean TM62 Foul Play	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 62s}
+16pxPaldean TM63 Psychic Fangs	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 63s}
+16pxPaldean TM64 Bulk Up	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 64s}
+16pxPaldean TM65 Air Slash	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 65s}
+16pxPaldean TM66 Body Slam	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 66s}
+16pxPaldean TM67 Fire Punch	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 67s}
+16pxPaldean TM68 Thunder Punch	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 68s}
+16pxPaldean TM69 Ice Punch	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 69s}
+16pxPaldean TM70 Sleep Talk	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 70s}
+16pxPaldean TM71 Seed Bomb	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 71s}
+16pxPaldean TM72 Electro Ball	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 72s}
+16pxPaldean TM73 Drain Punch	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 73s}
+16pxPaldean TM74 Reflect	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 74s}
+16pxPaldean TM75 Light Screen	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 75s}
+16pxPaldean TM76 Rock Blast	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 76s}
+16pxPaldean TM77 Waterfall	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 77s}
+16pxPaldean TM78 Dragon Claw	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 78s}
+16pxPaldean TM79 Dazzling Gleam	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 79s}
+16pxPaldean TM80 Metronome	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 80s}
+16pxPaldean TM81 Grass Knot	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 81s}
+16pxPaldean TM82 Thunder Wave	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 82s}
+16pxPaldean TM83 Poison Jab	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 83s}
+16pxPaldean TM84 Stomping Tantrum	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 84s}
+16pxPaldean TM85 Rest	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 85s}
+16pxPaldean TM86 Rock Slide	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 86s}
+16pxPaldean TM87 Taunt	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 87s}
+16pxPaldean TM88 Swords Dance	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 88s}
+16pxPaldean TM89 Body Press	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 89s}
+16pxPaldean TM90 Spikes	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 90s}
+16pxPaldean TM91 Toxic Spikes	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 91s}
+16pxPaldean TM92 Imprison	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 92s}
+16pxPaldean TM93 Flash Cannon	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 93s}
+16pxPaldean TM94 Dark Pulse	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 94s}
+16pxPaldean TM95 Leech Life	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 95s}
+16pxPaldean TM96 Eerie Impluse	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 96s}
+16pxPaldean TM97 Fly	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 97s}
+16pxPaldean TM98 Skill Swap	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 98s}
+16pxPaldean TM99 Iron Head	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 99s}
+16pxPaldean TM100 Dragon Dance	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 100s}
+16pxPaldean TM101 Power Gem	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 101s}
+16pxPaldean TM102 Gunk Shot	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 102s}
+16pxPaldean TM103 Substitute	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 103s}
+16pxPaldean TM104 Iron Defense	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 104s}
+16pxPaldean TM105 X-Scissor	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 105s}
+16pxPaldean TM106 Drill Run	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 106s}
+16pxPaldean TM107 Will-O-Wisp	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 107s}
+16pxPaldean TM108 Crunch	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 108s}
+16pxPaldean TM109 Trick	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 109s}
+16pxPaldean TM110 Liquidation	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 110s}
+16pxPaldean TM111 Giga Drain	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 111s}
+16pxPaldean TM112 Aura Sphere	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 112s}
+16pxPaldean TM113 Tailwind	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 113s}
+16pxPaldean TM114 Shadow Ball	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 114s}
+16pxPaldean TM115 Dragon Pulse	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 115s}
+16pxPaldean TM116 Stealth Rock	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 116s}
+16pxPaldean TM117 Hyper Voice	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 117s}
+16pxPaldean TM118 Heat Wave	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 118s}
+16pxPaldean TM119 Energy Ball	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 119s}
+16pxPaldean TM120 Psychic	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 120s}
+16pxPaldean TM121 Heavy Slam	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 121s}
+16pxPaldean TM122 Encore	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 122s}
+16pxPaldean TM123 Surf	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 123s}
+16pxPaldean TM124 Ice Spinner	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 124s}
+16pxPaldean TM125 Flamethrower	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 125s}
+16pxPaldean TM126 Thunderbolt	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 126s}
+16pxPaldean TM127 Play Rough	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 127s}
+16pxPaldean TM128 Amnesia	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 128s}
+16pxPaldean TM129 Calm Mind	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 129s}
+16pxPaldean TM130 Helping Hand	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 130s}
+16pxPaldean TM131 Pollen Puff	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 131s}
+16pxPaldean TM132 Baton Pass	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 132s}
+16pxPaldean TM133 Earth Power	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 133s}
+16pxPaldean TM134 Reversal	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 134s}
+16pxPaldean TM135 Ice Beam	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 135s}
+16pxPaldean TM136 Electric Terrain	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 136s}
+16pxPaldean TM137 Grassy Terrain	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 137s}
+16pxPaldean TM138 Psychic Terrain	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 138s}
+16pxPaldean TM139 Misty Terrain	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 139s}
+16pxPaldean TM140 Nasty Plot	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 140s}
+16pxPaldean TM141 Fire Blast	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 141s}
+16pxPaldean TM142 Hydro Pump	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 142s}
+16pxPaldean TM143 Blizzard	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 143s}
+16pxPaldean TM144 Fire Pledge	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 144s}
+16pxPaldean TM145 Water Pledge	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 145s}
+16pxPaldean TM146 Grass Pledge	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 146s}
+16pxPaldean TM147 Wild Charge	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 147s}
+16pxPaldean TM148 Sludge Bomb	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 148s}
+16pxPaldean TM149 Earthquake	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 149s}
+16pxPaldean TM150 Stone Edge	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 150s}
+16pxPaldean TM151 Phantom Force	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 151s}
+16pxPaldean TM152 Giga Impact	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 152s}
+16pxPaldean TM153 Blast Burn	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 153s}
+16pxPaldean TM154 Hydro Cannon	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 154s}
+16pxPaldean TM155 Frenzy Plant	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 155s}
+16pxPaldean TM156 Outrage	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 156s}
+16pxPaldean TM157 Overheat	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 157s}
+16pxPaldean TM158 Focus Blast	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 158s}
+16pxPaldean TM159 Leaf Storm	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 159s}
+16pxPaldean TM160 Hurricane	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 160s}
+16pxPaldean TM161 Trick Room	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 161s}
+16pxPaldean TM162 Bug Buzz	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 162s}
+16pxPaldean TM163 Hyper Beam	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 163s}
+16pxPaldean TM164 Brave Bird	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 164s}
+16pxPaldean TM165 Flare Blitz	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 165s}
+16pxPaldean TM166 Thunder	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 166s}
+16pxPaldean TM167 Close Combat	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 167s}
+16pxPaldean TM168 Solar Beam	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 168s}
+16pxPaldean TM169 Draco Meteor	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 169s}
+16pxPaldean TM170 Steel Beam	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 170s}
+16pxPaldean TM171 Tera Blast	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 171s}
+16pxPaldean TM172 Roar	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 172s}
+16pxPaldean TM173 Charge	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 173s}
+16pxPaldean TM174 Haze	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 174s}
+16pxPaldean TM175 Toxic	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 175s}
+16pxPaldean TM176 Sand Tomb	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 176s}
+16pxPaldean TM177 Spite	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 177s}
+16pxPaldean TM178 Gravity	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 178s}
+16pxPaldean TM179 Smack Down	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 179s}
+16pxPaldean TM180 Gyro Ball	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 180s}
+16pxPaldean TM181 Knock Off	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 181s}
+16pxPaldean TM182 Bug Bite	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 182s}
+16pxPaldean TM183 Super Fang	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 183s}
+16pxPaldean TM184 Vacuum Wave	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 184s}
+16pxPaldean TM185 Lunge	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 185s}
+16pxPaldean TM186 High Horsepower	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 186s}
+16pxPaldean TM187 Icicle Spear	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 187s}
+16pxPaldean TM188 Scald	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 188s}
+16pxPaldean TM189 Heat Crash	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 189s}
+16pxPaldean TM190 Solar Blade	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 190s}
+16pxPaldean TM191 Uproar	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 191s}
+16pxPaldean TM192 Focus Punch	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 192s}
+16pxPaldean TM193 Weather Ball	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 193s}
+16pxPaldean TM194 Grassy Glide	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 194s}
+16pxPaldean TM195 Burning Jealousy	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 195s}
+16pxPaldean TM196 Flip Turn	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 196s}
+16pxPaldean TM197 Dual Wingbeat	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 197s}
+16pxPaldean TM198 Poltergeist	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 198s}
+16pxPaldean TM199 Lash Out	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 199s}
+16pxPaldean TM200 Scale Shot	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 200s}
+16pxPaldean TM201 Misty Explosion	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 201s}
+16pxPaldean TM202 Pain Split	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 202s}
+16pxPaldean TM203 Psych Up	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 203s}
+16pxPaldean TM204 Double-Edge	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 204s}
+16pxPaldean TM205 Endeavor	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 205s}
+16pxPaldean TM206 Petal Blizzard	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 206s}
+16pxPaldean TM207 Temper Flare	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 207s}
+16pxPaldean TM208 Whirlpool	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 208s}
+16pxPaldean TM209 Muddy Water	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 209s}
+16pxPaldean TM210 Supercell Slam	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 210s}
+16pxPaldean TM211 Electroweb	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 211s}
+16pxPaldean TM212 Triple Axel	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 212s}
+16pxPaldean TM213 Coaching	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 213s}
+16pxPaldean TM214 Sludge Wave	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 214s}
+16pxPaldean TM215 Scorching Sands	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 215s}
+16pxPaldean TM216 Feather Dance	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 216s}
+16pxPaldean TM217 Future Sight	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 217s}
+16pxPaldean TM218 Expanding Force	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 218s}
+16pxPaldean TM219 Skitter Smack	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 219s}
+16pxPaldean TM220 Meteor Beam	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 220s}
+16pxPaldean TM221 Throat Chop	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 221s}
+16pxPaldean TM222 Breaking Swipe	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 222s}
+16pxPaldean TM223 Metal Sound	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 223s}
+16pxPaldean TM224 Curse	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 224s}
+16pxPaldean TM225 Hard Press	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 225s}
+16pxPaldean TM226 Dragon Cheer	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 226s}
+16pxPaldean TM227 Alluring Voice	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 227s}
+16pxPaldean TM228 Psychic Noise	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 228s}
+16pxPaldean TM229 Upper Hand	tm_gen9	minecraft:custom_data={Gen9Offset:1b, tm: 229s}
+Grid Pamtre Berry.pngPamtre Berry	pamtre_berry
+16pxPamtre Berry Leaves	berry_leaves_pamtre
+16pxPamtre Berry Log	berry_log_pamtre
+Grid Paralyze Heal.pngParalyze Heal	paralyze_heal
+Grid Park Ball.pngPark Ball	park_ball	pixelmon:poke_ball=park_ball
+16pxPark Ball Lid	park_ball_lid
+Grid Passho Berry.pngPassho Berry	passho_berry
+16pxPassho Berry Leaves	berry_leaves_passho
+16pxPassho Berry Log	berry_log_passho
+16pxPassho Berry Tree	berrytree_passho
+Grid Pasta.pngPasta	curry_pasta
+Grid Pasta Curry.pngPasta Curry	dish_curry_pasta
+Grid Payapa Berry.pngPayapa Berry	payapa_berry
+16pxPayapa Berry Leaves	berry_leaves_payapa
+16pxPayapa Berry Log	berry_log_payapa
+Grid Pearl.pngPearl	pearl
+Grid Pearl String.pngPearl String	pearl_string
+Grid Peat Block.pngPeat Block	peat_block
+Grid Pecha Berry.pngPecha Berry	pecha_berry
+16pxPecha Berry Leaves	berry_leaves_pecha
+16pxPecha Berry Log	berry_log_pecha
+Grid Perilous Soup.pngPerilous Soup	perilous_soup
+Grid Persim Berry.pngPersim Berry	persim_berry
+16pxPersim Berry Leaves	berry_leaves_persim
+16pxPersim Berry Log	berry_log_persim
+Grid Petaya Berry.pngPetaya Berry	petaya_berry
+16pxPetaya Berry Leaves	berry_leaves_petaya
+16pxPetaya Berry Log	berry_log_petaya
+16pxPetaya Berry Tree	berrytree_petaya
+Grid Photo.pngPhoto	pixelmon_sprite	minecraft:custom_data={form: "?", gender: ?b, ndex: ?s, palette: "?"}
+Grid Picket Fence.pngPicket Fence	picket_fence
+Grid Pidgeotite.pngPidgeotite	pidgeotite
+16pxPika Mug	mug_pika
+Grid Pikanium Z.pngPikanium Z	pikanium_z
+Pikashunium Z.pngPikashunium Z	pikashunium_z
+Grid Pinap Berry.pngPinap Berry	pinap_berry
+16pxPinap Berry Leaves	berry_leaves_pinap
+16pxPinap Berry Log	berry_log_pinap
+Grid Pinap Juice.pngPinap Juice	pinap_juice
+Grid Pink Apricorn.pngPink Apricorn	pink_apricorn
+Grid Pink Armchair.pngPink Armchair	pink_armchair
+Grid Pink Badgecase.pngPink Badgecase	pinkbadgecase
+Grid Pink Berry Boat.pngPink Berry Boat	pink_berry_wood_boat
+Grid Pink Berry Boat with Chest.pngPink Berry Boat with Chest	pink_berry_wood_chest_boat
+Grid Pink Berry Button.pngPink Berry Button	pink_berry_wood_button
+Grid Pink Berry Door.pngPink Berry Door	pink_berry_wood_door
+Grid Pink Berry Fence.pngPink Berry Fence	pink_berry_wood_fence
+Grid Pink Berry Fence Gate.pngPink Berry Fence Gate	pink_berry_wood_fence_gate
+Grid Pink Berry Planks.pngPink Berry Planks	pink_berry_wood_planks
+Grid Pink Berry Pressure Plate.pngPink Berry Pressure Plate	pink_berry_wood_pressure_plate
+Grid Pink Berry Sign.pngPink Berry Sign	pink_berry_wood_sign
+Grid Pink Berry Slab.pngPink Berry Slab	pink_berry_wood_slab
+Grid Pink Berry Stairs.pngPink Berry Stairs	pink_berry_wood_stairs
+Grid Pink Berry Trapdoor.pngPink Berry Trapdoor	pink_berry_wood_trapdoor
+Grid Pink Cash Register.pngPink Cash Register	pink_cash_register
+Grid Pink Chair.pngPink Chair	pink_chair
+Grid Pink Clock.pngPink Clock	pink_clock
+Grid Pink Couch.pngPink Couch	pink_couch
+Grid Pink Cushion Chair.pngPink Cushion Chair	pink_cushion_chair
+16pxPink Day Care	pink_day_care
+Grid Pink Floor Gym Sign.pngPink Floor Gym Sign	pink_floor_gym_sign
+Grid Pink Folding Chair.pngPink Folding Chair	pink_folding_chair
+16pxPink Hanging Gym Sign	pink_hanging_gym_sign
+Grid Pink Healer.pngPink Healer	pink_healer
+Grid Pink Juice.pngPink Juice	pink_juice
+16pxPink Letter Box	pink_letter_box
+Grid Pink Letterbox.pngPink Letterbox	letterbox_standing_pink
+16pxPink Mail Box	pink_mail_box
+Grid Pink Mailbox.pngPink Mailbox	mailbox_pink
+Grid Pink Nectar.pngPink Nectar	pink_nectar
+Grid Pink PC.pngPink PC	pink_pc
+Grid Pink Petal.pngPink Petal	pink_petal
+Grid Pink Poké Bag.pngPink Poké Bag	pink_poke_bag
+Grid Pink Rug.pngPink Rug	pink_rug
+Grid Pink Trade Machine.pngPink Trade Machine	pink_trade_machine
+Grid Pink Umbrella.pngPink Umbrella	pink_umbrella
+Grid Pink Vending Machine.pngPink Vending Machine	pink_vending_machine
+16pxPink Wall Gym Sign	pink_wall_gym_sign
+Grid Pink Water Float.pngPink Water Float	pink_water_float
+Grid Pinsirite.pngPinsirite	pinsirite
+Grid Pixelmon Grass.pngPixelmon Grass	pixelmon_grass
+Grid Pixelmon Spawner.pngPixelmon Spawner	pixelmon_spawner
+Grid Pixie Plate.pngPixie Plate	pixie_plate
+Grid Plain Badge.pngPlain Badge	plain_badge
+Grid Plant Badge.pngPlant Badge	plant_badge
+Grid Plasma Boots.pngPlasma Boots	plasma_boots
+Grid Plasma Chestplate.pngPlasma Chestplate	plasma_chestplate
+Grid Plasma Helmet.pngPlasma Helmet	plasma_helmet
+Grid Plasma Leggings.pngPlasma Leggings	plasma_leggings
+Grid Platinum Axe.pngPlatinum Axe	platinum_axe
+Grid Platinum Base.pngPlatinum Base	platinum_base
+Grid Platinum Block.pngPlatinum Block	platinum_block
+Grid Platinum Boots.pngPlatinum Boots	platinum_boots
+Grid Platinum Chestplate.pngPlatinum Chestplate	platinum_chestplate
+16pxPlatinum Disc	platinum_disc
+Grid Platinum Hammer.pngPlatinum Hammer	platinum_hammer
+Grid Platinum Helmet.pngPlatinum Helmet	platinum_helmet
+Grid Platinum Hoe.pngPlatinum Hoe	platinum_hoe
+Grid Platinum Ingot.pngPlatinum Ingot	platinum_ingot
+Grid Platinum Leggings.pngPlatinum Leggings	platinum_leggings
+Grid Platinum Ore.pngPlatinum Ore	platinum_ore
+Grid Platinum Pickaxe.pngPlatinum Pickaxe	platinum_pickaxe
+Grid Platinum Shovel.pngPlatinum Shovel	platinum_shovel
+Grid Platinum Sword.pngPlatinum Sword	platinum_sword
+Grid Plenty-of-Potato Curry.pngPlenty-of-Potato Curry	dish_curry_potato
+Grid Plume Fossil.pngPlume Fossil	plume_fossil
+Grid Poffin Case.pngPoffin Case	poffin_case
+Grid Poison Barb.pngPoison Barb	poison_barb
+Grid Poison Gem.pngPoison Gem	poison_gem
+Grid Poison Memory.pngPoison Memory	poison_memory
+Poisonium Z.pngPoisonium Z	poisonium_z
+16pxPokeblock Case	pokeblock_case
+16pxPokemon Editor	pokemon_editor
+Grid Poké Ball.pngPoké Ball	poke_ball	pixelmon:poke_ball=poke_ball
+Grid Poké Ball Lid.pngPoké Ball Lid	poke_ball_lid
+16pxPoké Ball Mug	mug_ball	pixelmon:poke_ball=mug_ball
+Grid Poké Chest.pngPoké Chest	poke_chest
+Grid Poké Chest.pngPoké Chest	pokechest
+Grid Poké Display.pngPoké Display	poke_display
+Grid Poké Flute.pngPoké Flute	poke_flute
+Grid Poké Gift.pngPoké Gift	poke_gift
+Grid Poké Gift.pngPoké Gift	pokeGift
+Grid Poké Mart Sign.pngPoké Mart Sign	poke_mart_sign
+Grid PokéCenter Sign.pngPokéCenter Sign	poke_center_sign
+Grid Pokedex.pngPokédex	pokedex
+Grid PokéDirt.pngPokéDirt	poke_dirt
+Grid PokéGrass.pngPokéGrass	poke_grass
+16pxPokémon Egg	pokemon_egg
+16pxPokémon Item Frame	entity_item_frame
+16pxPokémon Item Frame	item_frame
+16pxPokéradar	pokeradar
+Grid PokéSand.pngPokéSand	poke_sand
+Grid PokéSand Corner 1.pngPokéSand Corner 1	poke_sand_corner1
+Grid PokéSand Corner 2.pngPokéSand Corner 2	poke_sand_corner2
+Grid PokéSand Corner 3.pngPokéSand Corner 3	poke_sand_corner3
+Grid PokéSand Corner 4.pngPokéSand Corner 4	poke_sand_corner4
+Grid PokéSand Side 1.pngPokéSand Side 1	poke_sand_side1
+Grid PokéSand Side 2.pngPokéSand Side 2	poke_sand_side2
+Grid PokéSand Side 3.pngPokéSand Side 3	poke_sand_side3
+Grid PokéSand Side 4.pngPokéSand Side 4	poke_sand_side4
+16pxPokéStop	pokestop
+Grid Pokétch B.pngPokétch B	poketch_b
+Grid Pokétch R.pngPokétch R	poketch_r
+Grid Polished Ultra Space Stone.pngPolished Ultra Space Stone	polished_ultra_space_stone
+Grid Polished Ultra Space Stone Slab.pngPolished Ultra Space Stone Slab	polished_ultra_space_stone_slab
+Grid Polished Ultra Space Stone Stairs.pngPolished Ultra Space Stone Stairs	polished_ultra_space_stone_stairs
+Grid Polished Ultra Space Stone Wall.pngPolished Ultra Space Stone Wall	polished_ultra_space_stone_wall
+Grid Pomeg Berry.pngPomeg Berry	pomeg_berry
+16pxPomeg Berry Leaves	berry_leaves_pomeg
+16pxPomeg Berry Log	berry_log_pomeg
+16pxPomeg Berry Tree	berrytree_pomeg
+Grid Porygon.pngPorygon	porygon_piece
+Grid Porygon Body.pngPorygon Body	porygon_body
+Grid Porygon Head.pngPorygon Head	porygon_head
+Grid Porygon Leg.pngPorygon Leg	porygon_leg
+Grid Porygon Tail.pngPorygon Tail	porygon_tail
+Grid Potion.pngPotion	potion
+Grid Power Anklet.pngPower Anklet	power_anklet
+Grid Power Band.pngPower Band	power_band
+Grid Power Belt.pngPower Belt	power_belt
+Grid Power Bracer.pngPower Bracer	power_bracer
+Grid Power Herb.pngPower Herb	power_herb
+Grid Power Lens.pngPower Lens	power_lens
+Grid Power Weight.pngPower Weight	power_weight
+Grid PP Max.pngPP Max	pp_max
+Grid PP Up.pngPP Up	pp_up
+Grid Precooked Burger.pngPrecooked Burger	curry_burger
+Grid Premier Ball.pngPremier Ball	premier_ball	pixelmon:poke_ball=premier_ball
+Grid Premier Ball Lid.pngPremier Ball Lid	premier_ball_lid
+Grid Pretty Feather.pngPretty Feather	pretty_feather
+Grid Pretty Wing.pngPretty Wing	pretty_wing
+Grid Primarium Z.pngPrimarium Z	primarium_z
+Grid Prism Scale.pngPrism Scale	prism_scale
+Grid Prison Bottle.pngPrison Bottle	prison_bottle
+Grid Professor's Mask.pngProfessor's Mask	professors_mask
+Grid Prop Case.pngProp Case	prop_case
+Grid Protective Pads.pngProtective Pads	protective_pads
+Grid Protector New.pngProtector	protector
+Grid Protein.pngProtein	protein
+Grid Psychic Badge.pngPsychic Badge	psychic_badge
+Grid Psychic Gem.pngPsychic Gem	psychic_gem
+Grid Psychic Memory.pngPsychic Memory	psychic_memory
+Grid Psychic Seed.pngPsychic Seed	psychic_seed
+Psychium Z.pngPsychium Z	psychium_z
+Grid Pumkin Berry.pngPumkin Berry	pumkin_berry
+16pxPumkin Berry Leaves	berry_leaves_pumkin
+16pxPumkin Berry Log	berry_log_pumkin
+Grid Punching Glove.pngPunching Glove	punching_glove
+Grid Pungent Root.pngPungent Root	curry_herb
+Grid Pure Incense.pngPure Incense	pure_incense
+Grid Purple Armchair.pngPurple Armchair	purple_armchair
+Grid Purple Berry Boat.pngPurple Berry Boat	purple_berry_wood_boat
+Grid Purple Berry Boat with Chest.pngPurple Berry Boat with Chest	purple_berry_wood_chest_boat
+Grid Purple Berry Button.pngPurple Berry Button	purple_berry_wood_button
+Grid Purple Berry Door.pngPurple Berry Door	purple_berry_wood_door
+Grid Purple Berry Fence.pngPurple Berry Fence	purple_berry_wood_fence
+Grid Purple Berry Fence Gate.pngPurple Berry Fence Gate	purple_berry_wood_fence_gate
+Grid Purple Berry Planks.pngPurple Berry Planks	purple_berry_wood_planks
+Grid Purple Berry Pressure Plate.pngPurple Berry Pressure Plate	purple_berry_wood_pressure_plate
+Grid Purple Berry Sign.pngPurple Berry Sign	purple_berry_wood_sign
+Grid Purple Berry Slab.pngPurple Berry Slab	purple_berry_wood_slab
+Grid Purple Berry Stairs.pngPurple Berry Stairs	purple_berry_wood_stairs
+Grid Purple Berry Trapdoor.pngPurple Berry Trapdoor	purple_berry_wood_trapdoor
+Grid Purple Cash Register.pngPurple Cash Register	purple_cash_register
+Grid Purple Chair.pngPurple Chair	purple_chair
+Grid Purple Clock.pngPurple Clock	purple_clock
+Grid Purple Couch.pngPurple Couch	purple_couch
+Grid Purple Cushion Chair.pngPurple Cushion Chair	purple_cushion_chair
+16pxPurple Day Care	purple_day_care
+Grid Purple Floor Gym Sign.pngPurple Floor Gym Sign	purple_floor_gym_sign
+Grid Purple Folding Chair.pngPurple Folding Chair	purple_folding_chair
+16pxPurple Hanging Gym Sign	purple_hanging_gym_sign
+Grid Purple Healer.pngPurple Healer	purple_healer
+Grid Purple Juice.pngPurple Juice	purple_juice
+16pxPurple Letter Box	purple_letter_box
+Grid Purple Letterbox.pngPurple Letterbox	letterbox_standing_purple
+16pxPurple Mail Box	purple_mail_box
+Grid Purple Mailbox.pngPurple Mailbox	mailbox_purple
+Grid Purple Nectar.pngPurple Nectar	purple_nectar
+Grid Purple PC.pngPurple PC	purple_pc
+Grid Purple Petal.pngPurple Petal	purple_petal
+Grid Purple Poké Bag.pngPurple Poké Bag	purple_poke_bag
+Grid Purple Rug.pngPurple Rug	purple_rug
+Grid Purple Trade Machine.pngPurple Trade Machine	purple_trade_machine
+Grid Purple Umbrella.pngPurple Umbrella	purple_umbrella
+Grid Purple Vending Machine.pngPurple Vending Machine	purple_vending_machine
+16pxPurple Wall Gym Sign	purple_wall_gym_sign
+Grid Purple Water Float.pngPurple Water Float	purple_water_float
+Grid Quake Badge.pngQuake Badge	quake_badge
+Grid Qualot Berry.pngQualot Berry	qualot_berry
+16pxQualot Berry Leaves	berry_leaves_qualot
+16pxQualot Berry Log	berry_log_qualot
+16pxQualot Berry Tree	berrytree_qualot
+Grid Quick Ball.pngQuick Ball	quick_ball	pixelmon:poke_ball=quick_ball
+Grid Quick Ball Lid.pngQuick Ball Lid	quick_ball_lid
+Grid Quick Claw.pngQuick Claw	quick_claw
+Grid Quick Powder.pngQuick Powder	quick_powder
+16pxQuiet Mint	mint_quiet
+16pxQuirky Mint	mint_quirky
+Grid Rabuta Berry.pngRabuta Berry	rabuta_berry
+16pxRabuta Berry Leaves	berry_leaves_rabuta
+16pxRabuta Berry Log	berry_log_rabuta
+Grid Radiant Petal.pngRadiant Petal	radiant_petal
+Grid Rage Candy Bar.pngRage Candy Bar	rage_candy_bar
+Grid Rain Badge.pngRain Badge	rain_badge
+Grid Rainbow Badge.pngRainbow Badge	rainbow_badge
+Grid Rainbow Flower.pngRainbow Flower	rainbow_flower
+Grid Rainbow Pass.pngRainbow Pass	rainbow_pass
+Grid Rainbow Wing.pngRainbow Wing	rainbow_wing
+Grid Ranch Block.pngRanch Block	ranch
+Grid Rare Bone.pngRare Bone	rare_bone
+Grid Rare Candy.pngRare Candy	rare_candy
+Grid Rare PokéStop.pngRare PokéStop	rare_pokestop
+Grid Rare Soda.pngRare Soda	rare_soda
+16pxRas' Golden Lens	lens_gold
+Grid Ras' Silver Lens.pngRas' Silver Lens	lens_silver
+16pxRash Mint	mint_rash
+Grid Raw Bauxite.pngRaw Bauxite	raw_bauxite
+Grid Raw Black Tumblestone.pngRaw Black Tumblestone	raw_black_tumblestone
+Grid Raw Platinum.pngRaw Platinum	raw_platinum
+Grid Raw Silicon.pngRaw Silicon	raw_silicon
+Grid Raw Silver.pngRaw Silver	raw_silver
+Grid Raw Sky Tumblestone.pngRaw Sky Tumblestone	raw_sky_tumblestone
+Grid Raw Tumblestone.pngRaw Tumblestone	raw_tumblestone
+Grid Rawst Berry.pngRawst Berry	rawst_berry
+16pxRawst Berry Leaves	berry_leaves_rawst
+16pxRawst Berry Log	berry_log_rawst
+Grid Razor Claw.pngRazor Claw	razor_claw
+Grid Razor Fang New.pngRazor Fang	razor_fang
+Grid Razz Berry.pngRazz Berry	razz_berry
+16pxRazz Berry Leaves	berry_leaves_razz
+16pxRazz Berry Log	berry_log_razz
+Grid Reaper Cloth.pngReaper Cloth	reaper_cloth
+Grid Reassembly Unit.pngReassembly Unit	reassembly_unit
+Grid Red Apricorn.pngRed Apricorn	red_apricorn
+Grid Red Armchair.pngRed Armchair	red_armchair
+Grid Red Badgecase.pngRed Badgecase	redbadgecase
+Grid Red Berry Boat.pngRed Berry Boat	red_berry_wood_boat
+Grid Red Berry Boat with Chest.pngRed Berry Boat with Chest	red_berry_wood_chest_boat
+Grid Red Berry Button.pngRed Berry Button	red_berry_wood_button
+Grid Red Berry Door.pngRed Berry Door	red_berry_wood_door
+Grid Red Berry Fence.pngRed Berry Fence	red_berry_wood_fence
+Grid Red Berry Fence Gate.pngRed Berry Fence Gate	red_berry_wood_fence_gate
+Grid Red Berry Planks.pngRed Berry Planks	red_berry_wood_planks
+Grid Red Berry Pressure Plate.pngRed Berry Pressure Plate	red_berry_wood_pressure_plate
+Grid Red Berry Sign.pngRed Berry Sign	red_berry_wood_sign
+Grid Red Berry Slab.pngRed Berry Slab	red_berry_wood_slab
+Grid Red Berry Stairs.pngRed Berry Stairs	red_berry_wood_stairs
+Grid Red Berry Trapdoor.pngRed Berry Trapdoor	red_berry_wood_trapdoor
+Grid Red Card.pngRed Card	red_card
+Grid Red Cash Register.pngRed Cash Register	red_cash_register
+Grid Red Chain.pngRed Chain	red_chain
+Red chain shard.pngRed Chain Shard	red_chain_shard
+Grid Red Chair.pngRed Chair	red_chair
+Grid Red Clock.pngRed Clock	red_clock
+Grid Red Couch.pngRed Couch	red_couch
+Grid Red Cushion Chair.pngRed Cushion Chair	red_cushion_chair
+16pxRed Day Care	red_day_care
+Grid Red Floor Gym Sign.pngRed Floor Gym Sign	red_floor_gym_sign
+Grid Red Flute.pngRed Flute	red_flute
+Grid Red Folding Chair.pngRed Folding Chair	red_folding_chair
+16pxRed Hanging Gym Sign	red_hanging_gym_sign
+Grid Red Healer.pngRed Healer	red_healer
+Grid Red Juice.pngRed Juice	red_juice
+16pxRed Letter Box	red_letter_box
+Grid Red Letterbox.pngRed Letterbox	letterbox_standing_red
+16pxRed Mail Box	red_mail_box
+Grid Red Mailbox.pngRed Mailbox	mailbox_red
+Grid Red Nectar.pngRed Nectar	red_nectar
+Grid Red Orb.pngRed Orb	red_orb
+Grid Red PC.pngRed PC	red_pc
+Grid Red Petal.pngRed Petal	red_petal
+Grid Red Poké Bag.pngRed Poké Bag	red_poke_bag
+Grid Red Rug.pngRed Rug	red_rug
+Grid Red Scale.pngRed Scale	red_scale
+Grid Red Shard.pngRed Shard	red_shard
+Grid Red Trade Machine.pngRed Trade Machine	red_trade_machine
+Grid Red Umbrella.pngRed Umbrella	red_umbrella
+Grid Red Vending Machine.pngRed Vending Machine	red_vending_machine
+16pxRed Wall Gym Sign	red_wall_gym_sign
+Grid Red Water Float.pngRed Water Float	red_water_float
+Grid Reins of Unity.pngReins of Unity	reins_of_unity
+16pxRelaxed Mint	mint_relaxed
+Grid Relic Badge.pngRelic Badge	relic_badge
+Grid Relic Band.pngRelic Band	relic_band
+Grid Relic Copper.pngRelic Copper	relic_copper
+Grid Relic Crown.pngRelic Crown	relic_crown
+Grid Relic Gold.pngRelic Gold	relic_gold
+Grid Relic Silver.pngRelic Silver	relic_silver
+Grid Relic Statue.pngRelic Statue	relic_statue
+Grid Relic Vase.pngRelic Vase	relic_vase
+Grid Repeat Ball.pngRepeat Ball	repeat_ball	pixelmon:poke_ball=repeat_ball
+Grid Repeat Ball Lid.pngRepeat Ball Lid	repeat_ball_lid
+Grid Repel.pngRepel	repel
+Grid Reply Mail.pngReply Mail	pokemail_reply
+Grid Resist Feather.pngResist Feather	resist_feather
+Grid Resist Mochi.pngResist Mochi	resist_mochi
+Grid Resist Wing.pngResist Wing	resist_wing
+Grid Retro Mail.pngRetro Mail	pokemail_retro
+Grid Reveal Glass.pngReveal Glass	reveal_glass
+Grid Revival Herb.pngRevival Herb	revival_herb
+Grid Revive.pngRevive	revive
+Grid Ribbon Sweet.pngRibbon Sweet	sweet_ribbon
+Grid Rich Curry.pngRich Curry	dish_curry_rich
+Grid Rich Mulch.pngRich Mulch	rich_mulch
+Grid Ride Pager.pngRide Pager	ride_pager
+Grid Rindo Berry.pngRindo Berry	rindo_berry
+16pxRindo Berry Leaves	berry_leaves_rindo
+16pxRindo Berry Log	berry_log_rindo
+16pxRindo Berry Tree	berrytree_rindo
+Grid Ring Target.pngRing Target	ring_target
+Grid Rising Badge.pngRising Badge	rising_badge
+Grid Rock.pngRock	rock
+16pxRock Badge	rock_badge
+Grid Rock Gem.pngRock Gem	rock_gem
+Grid Rock Incense.pngRock Incense	rock_incense
+Grid Rock Memory.pngRock Memory	rock_memory
+Grid Rocket Boots.pngRocket Boots	rocket_boots
+Grid Rocket Chestplate.pngRocket Chestplate	rocket_chestplate
+Grid Rocket Helmet.pngRocket Helmet	rocket_helmet
+Grid Rocket Leggings.pngRocket Leggings	rocket_leggings
+Rockium Z.pngRockium Z	rockium_z
+Grid Rocky Helmet.pngRocky Helmet	rocky_helmet
+Grid Room Service.pngRoom Service	room_service
+Grid Root Fossil.pngRoot Fossil	root_fossil
+Grid Rose Incense.pngRose Incense	rose_incense
+Grid Roseli Berry.pngRoseli Berry	roseli_berry
+16pxRoseli Berry Leaves	berry_leaves_roseli
+16pxRoseli Berry Log	berry_log_roseli
+Grid Roserade Tea.pngRoserade Tea	roserade_tea
+Grid Rowap Berry.pngRowap Berry	rowap_berry
+16pxRowap Berry Leaves	berry_leaves_rowap
+16pxRowap Berry Log	berry_log_rowap
+16pxRowap Berry Tree	berrytree_rowap
+Grid RSVP Mail.pngRSVP Mail	pokemail_rsvp
+Grid Ruby.pngRuby	ruby
+Grid Ruby Axe.pngRuby Axe	ruby_axe
+Grid Ruby Block.pngRuby Block	ruby_block
+Grid Ruby Hammer.pngRuby Hammer	ruby_hammer
+Grid Ruby Hoe.pngRuby Hoe	ruby_hoe
+Grid Ruby of Emotion.pngRuby of Emotion	ruby_mesprit
+Grid Ruby of Knowledge.pngRuby of Knowledge	ruby_uxie
+Grid Ruby of Willpower.pngRuby of Willpower	ruby_azelf
+Grid Ruby Ore.pngRuby Ore	ruby_ore
+Grid Ruby Pickaxe.pngRuby Pickaxe	ruby_pickaxe
+Grid Ruby Shovel.pngRuby Shovel	ruby_shovel
+Grid Ruby Sword.pngRuby Sword	ruby_sword
+Grid Ruins Wall.pngRuins Wall	ruins_wall
+Grid Rumble Badge.pngRumble Badge	rumble_badge
+Grid Rusted Shield.pngRusted Shield	rusted_shield
+Grid Rusted Sword.pngRusted Sword	rusted_sword
+Grid Sablenite.pngSablenite	sablenite
+Grid Sachet.pngSachet	sachet
+Grid Sacred Ash.pngSacred Ash	sacredash
+Grid Safari Ball.pngSafari Ball	safari_ball	pixelmon:poke_ball=safari_ball
+Grid Safari Ball Lid.pngSafari Ball Lid	safari_ball_lid
+Grid Safety Goggles.pngSafety Goggles	safety_goggles
+Grid Sail Fossil.pngSail Fossil	sail_fossil
+Grid Salac Berry.pngSalac Berry	salac_berry
+16pxSalac Berry Leaves	berry_leaves_salac
+16pxSalac Berry Log	berry_log_salac
+16pxSalac Berry Tree	berrytree_salac
+Grid Salad.pngSalad	curry_salad
+Grid Salad Curry.pngSalad Curry	dish_curry_salad
+Grid Salamencite.pngSalamencite	salamencite
+Grid Sandy Grass.pngSandy Grass	sandy_grass
+Grid Sapphire.pngSapphire	sapphire
+Grid Sapphire Axe.pngSapphire Axe	sapphire_axe
+Grid Sapphire Block.pngSapphire Block	sapphire_block
+Grid Sapphire Hammer.pngSapphire Hammer	sapphire_hammer
+Grid Sapphire Hoe.pngSapphire Hoe	sapphire_hoe
+Grid Sapphire Ore.pngSapphire Ore	sapphire_ore
+Grid Sapphire Pickaxe.pngSapphire Pickaxe	sapphire_pickaxe
+Grid Sapphire Shovel.pngSapphire Shovel	sapphire_shovel
+Grid Sapphire Sword.pngSapphire Sword	sapphire_sword
+16pxSassy Mint	mint_sassy
+Grid Sausage Curry.pngSausage Curry	dish_curry_sausage
+Grid Sausages.pngSausages	curry_sausage
+Grid Sceptilite.pngSceptilite	sceptilite
+Grid Scizorite.pngScizorite	scizorite
+Grid Scope Lens.pngScope Lens	scope_lens
+Grid Scroll of Darkness.pngScroll of Darkness	scroll_of_darkness
+Grid Scroll of Darkness.pngScroll of Darkness	scroll_of_darkness
+Grid Scroll of Waters.pngScroll of Waters	scroll_of_waters
+Grid Scroll of Waters.pngScroll of Waters	scroll_of_waters
+Grid Sea Incense.pngSea Incense	sea_incense
+Grid Seal Case.pngSeal Case	seal_case
+16pxSealed Air Mail	pokemail_air_closed
+16pxSealed Bloom Mail	pokemail_bloom_closed
+16pxSealed Brick Mail	pokemail_brick_closed
+16pxSealed BridgeMail D	pokemail_bridged_closed
+16pxSealed BridgeMail M	pokemail_bridgem_closed
+16pxSealed BridgeMail S	pokemail_bridges_closed
+16pxSealed BridgeMail T	pokemail_bridget_closed
+16pxSealed BridgeMail V	pokemail_bridgev_closed
+16pxSealed Bubble Mail	pokemail_bubble_closed
+16pxSealed Dream Mail	pokemail_dream_closed
+16pxSealed Fab Mail	pokemail_fab_closed
+16pxSealed Favored Mail	pokemail_favored_closed
+16pxSealed Flame Mail	pokemail_flame_closed
+16pxSealed Glitter Mail	pokemail_glitter_closed
+16pxSealed Grass Mail	pokemail_grass_closed
+16pxSealed Greet Mail	pokemail_greet_closed
+16pxSealed Harbor Mail	pokemail_harbor_closed
+16pxSealed Heart Mail	pokemail_heart_closed
+16pxSealed Inquiry Mail	pokemail_inquiry_closed
+16pxSealed Like Mail	pokemail_like_closed
+16pxSealed Mech Mail	pokemail_mech_closed
+16pxSealed Mosaic Mail	pokemail_mosaic_closed
+16pxSealed Orange Mail	pokemail_orange_closed
+16pxSealed Reply Mail	pokemail_reply_closed
+16pxSealed Retro Mail	pokemail_retro_closed
+16pxSealed RSVP Mail	pokemail_rsvp_closed
+16pxSealed Shadow Mail	pokemail_shadown_closed
+16pxSealed Snow Mail	pokemail_snow_closed
+16pxSealed Space Mail	pokemail_space_closed
+16pxSealed Steel Mail	pokemail_steel_closed
+16pxSealed Thanks Mail	pokemail_thanks_closed
+16pxSealed Tropic Mail	pokemail_tropic_closed
+16pxSealed Tunnel Mail	pokemail_tunnel_closed
+16pxSealed Wave Mail	pokemail_wave_closed
+16pxSealed Wood Mail	pokemail_wood_closed
+16pxSearuby Badge	searuby_badge
+Grid Seasoned Curry.pngSeasoned Curry	dish_curry_seasoned
+Grid Secret Key.pngSecret Key	secret_key
+Grid Seishin Badge.pngSeishin Badge	seishin_badge
+Grid Sento Badge.pngSento Badge	sento_badge
+16pxSerious Mint	mint_serious
+Grid Shade Root Carrot.pngShade Root Carrot	shade_root_carrot
+Grid Shadow Mail.pngShadow Mail	pokemail_shadown
+Grid Shalour Sable.pngShalour Sable	shalour_sable
+Grid Sharp Beak.pngSharp Beak	sharp_beak
+Grid Sharpedonite.pngSharpedonite	sharpedonite
+Grid Shed Shell.pngShed Shell	shed_shell
+Grid Shell Bell.pngShell Bell	shell_bell
+Grid Shingles.pngShingles	shingles
+Grid Shingles.pngShingles	shingles_block
+Grid Shingles Corner 1.pngShingles Corner 1	shingles_corner1
+Grid Shingles Corner 2.pngShingles Corner 2	shingles_corner2
+Grid Shiny Charm.pngShiny Charm	shiny_charm
+Grid Shiny Stone.pngShiny Stone	shiny_stone
+Grid Shiny Stone Ore.pngShiny Stone Ore	shiny_stone_ore
+Grid Shiny Stone Shard.pngShiny Stone Shard	shiny_stone_shard
+Grid Shoal Salt.pngShoal Salt	shoal_salt
+Grid Shoal Shell.pngShoal Shell	shoal_shell
+Grid Shock Drive.pngShock Drive	shock_drive
+Grid Shuca Berry.pngShuca Berry	shuca_berry
+16pxShuca Berry Leaves	berry_leaves_shuca
+16pxShuca Berry Log	berry_log_shuca
+16pxShuca Berry Tree	berrytree_shuca
+Grid Silicon.pngSilicon	silicon
+Grid Silicon Block.pngSilicon Block	silicon_block
+Grid Silicon Ore.pngSilicon Ore	silicon_ore
+Grid Silk Scarf.pngSilk Scarf	silk_scarf
+Grid Silph Scope.pngSilph Scope	silph_scope
+16pxSilver Ability Symbol	silver_ability_symbol
+Grid Silver Axe.pngSilver Axe	silver_axe
+Grid Silver Base.pngSilver Base	silver_base
+Grid Silver Block.pngSilver Block	silver_block
+Grid Silver Boots.pngSilver Boots	silver_boots
+Silver bottlecap.pngSilver Bottle Cap	silver_bottle_cap
+16pxSilver Brave Symbol	silver_brave_symbol
+Grid Silver Chestplate.pngSilver Chestplate	silver_chestplate
+16pxSilver Guts Symbol	silver_guts_symbol
+Grid Silver Hammer.pngSilver Hammer	silver_hammer
+Grid Silver Helmet.pngSilver Helmet	silver_helmet
+Grid Silver Hoe.pngSilver Hoe	silver_hoe
+Grid Silver Ingot.pngSilver Ingot	silver_ingot
+16pxSilver Knowledge Symbol	silver_knowledge_symbol
+Grid Silver Leaf.pngSilver Leaf	silver_leaf
+Grid Silver Leggings.pngSilver Leggings	silver_leggings
+Grid Silver Letterbox.pngSilver Letterbox	letterbox_standing_silver
+16pxSilver Luck Symbol	silver_luck_symbol
+Grid Silver Lure Casing.pngSilver Lure Casing	lure_casing_weak
+Grid Silver Mailbox.pngSilver Mailbox	mailbox_silver
+Grid Silver Ore.pngSilver Ore	silver_ore
+Grid Silver Pickaxe.pngSilver Pickaxe	silver_pickaxe
+Grid Silver Powder.pngSilver Powder	silver_powder
+Grid Silver Shovel.pngSilver Shovel	silver_shovel
+16pxSilver Spirits Symbol	silver_spirits_symbol
+Grid Silver Sword.pngSilver Sword	silver_sword
+16pxSilver Tactics Symbol	silver_tactics_symbol
+Grid Silver Wing.pngSilver Wing	silver_wing
+16pxSinnoh TM1: Focus Punch	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 1s}
+16pxSinnoh TM2: Dragon Claw	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 2s}
+16pxSinnoh TM3: Water Pulse	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 3s}
+16pxSinnoh TM4: Calm Mind	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 4s}
+16pxSinnoh TM5: Roar	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 5s}
+16pxSinnoh TM6: Toxic	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 6s}
+16pxSinnoh TM7: Hail	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 7s}
+16pxSinnoh TM8: Bulk Up	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 8s}
+16pxSinnoh TM9: Bullet Seed	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 9s}
+16pxSinnoh TM10: Hidden Power	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 10s}
+16pxSinnoh TM11: Sunny Day	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 11s}
+16pxSinnoh TM12: Taunt	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 12s}
+16pxSinnoh TM13: Ice Beam	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 13s}
+16pxSinnoh TM14: Blizzard	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 14s}
+16pxSinnoh TM15: Hyper Beam	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 15s}
+16pxSinnoh TM16: Light Screen	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 16s}
+16pxSinnoh TM17: Protect	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 17s}
+16pxSinnoh TM18: Rain Dance	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 18s}
+16pxSinnoh TM19: Giga Drain	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 19s}
+16pxSinnoh TM20: Safeguard	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 20s}
+16pxSinnoh TM21: Frustration	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 21s}
+16pxSinnoh TM22: Solar Beam	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 22s}
+16pxSinnoh TM23: Iron Tail	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 23s}
+16pxSinnoh TM24: Thunderbolt	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 24s}
+16pxSinnoh TM25: Thunder	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 25s}
+16pxSinnoh TM26: Earthquake	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 26s}
+16pxSinnoh TM27: Return	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 27s}
+16pxSinnoh TM28: Dig	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 28s}
+16pxSinnoh TM29: Psychic	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 29s}
+16pxSinnoh TM30: Shadow Ball	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 30s}
+16pxSinnoh TM31: Brick Break	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 31s}
+16pxSinnoh TM32: Double Team	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 32s}
+16pxSinnoh TM33: Reflect	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 33s}
+16pxSinnoh TM34: Shock Wave	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 34s}
+16pxSinnoh TM35: Flamethrower	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 35s}
+16pxSinnoh TM36: Sludge Bomb	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 36s}
+16pxSinnoh TM37: Sandstorm	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 37s}
+16pxSinnoh TM38: Fire Blast	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 38s}
+16pxSinnoh TM39: Rock Tomb	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 39s}
+16pxSinnoh TM40: Aerial Ace	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 40s}
+16pxSinnoh TM41: Torment	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 41s}
+16pxSinnoh TM42: Facade	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 42s}
+16pxSinnoh TM43: Secret Power	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 43s}
+16pxSinnoh TM44: Rest	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 44s}
+16pxSinnoh TM45: Attract	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 45s}
+16pxSinnoh TM46: Thief	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 46s}
+16pxSinnoh TM47: Steel Wing	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 47s}
+16pxSinnoh TM48: Skill Swap	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 48s}
+16pxSinnoh TM49: Snatch	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 49s}
+16pxSinnoh TM50: Overheat	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 50s}
+16pxSinnoh TM51: Roost	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 51s}
+16pxSinnoh TM52: Focus Blast	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 52s}
+16pxSinnoh TM53: Energy Ball	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 53s}
+16pxSinnoh TM54: False Swipe	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 54s}
+16pxSinnoh TM55: Brine	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 55s}
+16pxSinnoh TM56: Fling	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 56s}
+16pxSinnoh TM57: Charge Beam	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 57s}
+16pxSinnoh TM58: Endure	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 58s}
+16pxSinnoh TM59: Dragon Pulse	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 59s}
+16pxSinnoh TM60: Drain Punch	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 60s}
+16pxSinnoh TM61: Will-O-Wisp	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 61s}
+16pxSinnoh TM62: Silver Wind	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 62s}
+16pxSinnoh TM63: Embargo	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 63s}
+16pxSinnoh TM64: Explosion	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 64s}
+16pxSinnoh TM65: Shadow Claw	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 65s}
+16pxSinnoh TM66: Payback	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 66s}
+16pxSinnoh TM67: Recycle	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 67s}
+16pxSinnoh TM68: Giga Impact	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 68s}
+16pxSinnoh TM69: Rock Polish	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 69s}
+16pxSinnoh TM70: Flash	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 70s}
+16pxSinnoh TM71: Stone Edge	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 71s}
+16pxSinnoh TM72: Avalanche	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 72s}
+16pxSinnoh TM73: Thunder Wave	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 73s}
+16pxSinnoh TM74: Gyro Ball	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 74s}
+16pxSinnoh TM75: Swords Dance	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 75s}
+16pxSinnoh TM76: Stealth Rock	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 76s}
+16pxSinnoh TM77: Psych Up	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 77s}
+16pxSinnoh TM78: Captivate	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 78s}
+16pxSinnoh TM79: Dark Pulse	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 79s}
+16pxSinnoh TM80: Rock Slide	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 80s}
+16pxSinnoh TM81: X-Scissor	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 81s}
+16pxSinnoh TM82: Sleep Talk	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 82s}
+16pxSinnoh TM83: Natural Gift	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 83s}
+16pxSinnoh TM84: Poison Jab	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 84s}
+16pxSinnoh TM85: Dream Eater	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 85s}
+16pxSinnoh TM86: Grass Knot	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 86s}
+16pxSinnoh TM87: Swagger	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 87s}
+16pxSinnoh TM88: Pluck	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 88s}
+16pxSinnoh TM89: U-turn	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 89s}
+16pxSinnoh TM90: Substitute	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 90s}
+16pxSinnoh TM91: Flash Cannon	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 91s}
+16pxSinnoh TM92: Trick Room	tm_gen4	minecraft:custom_data={Gen9Offset:1b, tm: 92s}
+Grid Sitrus Berry.pngSitrus Berry	sitrus_berry
+16pxSitrus Berry Leaves	berry_leaves_sitrus
+16pxSitrus Berry Log	berry_log_sitrus
+Grid Skitty Smoothie.pngSkitty Smoothie	skitty_smoothie
+Grid Skull Fossil.pngSkull Fossil	skull_fossil
+Grid Sky Plate.pngSky Plate	sky_plate
+Grid Sky Tumblestone.pngSky Tumblestone	sky_tumblestone
+Grid Slippery Ice.pngSlippery Ice	slippery_ice
+Grid Slowbronite.pngSlowbronite	slowbronite
+Grid Slowpoke Tail.pngSlowpoke Tail	slowpoke_tail
+Grid Small TV.pngSmall TV	tv2
+Grid Smoke Ball.pngSmoke Ball	smoke_ball	pixelmon:poke_ball=smoke_ball
+Grid Smoke-Poke Tail.pngSmoke-Poke Tail	curry_smoke_poke
+Grid Smoked-Tail Curry.pngSmoked-Tail Curry	dish_curry_smoke_poke
+Grid Smooth Rock.pngSmooth Rock	smooth_rock
+Grid Snorlium Z.pngSnorlium Z	snorlium_z
+Grid Snow Mail.pngSnow Mail	pokemail_snow
+Grid Snowball.pngSnowball	snowball
+Grid Soda Pop.pngSoda Pop	soda_pop
+Grid Soft Sand.pngSoft Sand	soft_sand
+Solganium Z.pngSolganium Z	solganium_z
+Grid Sonia's Book.pngSonia's Book	sonias_book
+Grid Soothe Bell.pngSoothe Bell	soothe_bell
+Grid Soul Badge.pngSoul Badge	soul_badge
+Grid Soul Dew.pngSoul Dew	soul_dew
+Grid Space Mail.pngSpace Mail	pokemail_space
+Grid Sparkling Stone.pngSparkling Stone	sparkling_stone
+Grid Spawner Cave Rock.pngSpawner Cave Rock	spawner_cave_rock
+Grid Spell Tag.pngSpell Tag	spell_tag
+Grid Spelon Berry.pngSpelon Berry	spelon_berry
+16pxSpelon Berry Leaves	berry_leaves_spelon
+16pxSpelon Berry Log	berry_log_spelon
+Grid Spice Mix.pngSpice Mix	curry_seasoned
+16pxSpikeshell Badge	spikeshell_badge
+Grid Splash Plate.pngSplash Plate	splash_plate
+Grid Spooky Plate.pngSpooky Plate	spooky_plate
+Grid Sport Ball.pngSport Ball	sport_ball	pixelmon:poke_ball=sport_ball
+Grid Sport Ball Lid.pngSport Ball Lid	sport_ball_lid
+Grid Spray Duck.pngSpray Duck	spray_duck
+Grid Spruce Bench.pngSpruce Bench	spruce_bench
+Grid Squirt Bottle.pngSquirt Bottle	squirt_bottle
+Grid SS Ticket.pngSS Ticket	ss_ticket
+Grid Stable Mulch.pngStable Mulch	stable_mulch
+Grid Star Piece.pngStar Piece	star_piece
+Grid Star Sweet.pngStar Sweet	sweet_star
+Grid Stardust.pngStardust	stardust
+Grid Starf Berry.pngStarf Berry	starf_berry
+16pxStarf Berry Leaves	berry_leaves_starf
+16pxStarf Berry Log	berry_log_starf
+16pxStarf Berry Tree	berrytree_starf
+Grid Static Shrine.pngStatic Shrine	shrinedos
+Grid Static Shrine.pngStatic Shrine	zapdos_shrine
+16pxStatue Editor	chisel
+Grid Steel Gem.pngSteel Gem	steel_gem
+Grid Steel Mail.pngSteel Mail	pokemail_steel
+Grid Steel Memory.pngSteel Memory	steel_memory
+Steelium Z.pngSteelium Z	steelium_z
+Grid Steelixite.pngSteelixite	steelixite
+Grid Stick Plate.pngStick Plate	stick_plate
+Grid Sticky Barb.pngSticky Barb	sticky_barb
+Grid Stone Badge.pngStone Badge	stone_badge
+Grid Stone Hammer.pngStone Hammer	stone_hammer
+Grid Stone Plate.pngStone Plate	stone_plate
+Grid Storm Badge.pngStorm Badge	storm_badge
+Grid Strange Ball.pngStrange Ball	strange_ball	pixelmon:poke_ball=strange_ball
+Grid Strange Ball Lid.pngStrange Ball Lid	strange_ball_lid
+16pxStrange Souvenier	strange_souvenier
+Grid Strange Souvenir.pngStrange Souvenir	strange_souvenir
+Grid Strawberry Sweet.pngStrawberry Sweet	sweet_strawberry
+Grid Street Light.pngStreet Light	street_light
+Grid Strib Berry.pngStrib Berry	strib_berry
+16pxStrib Berry Leaves	berry_leaves_strib
+16pxStrib Berry Log	berry_log_strib
+Grid Stripped Ultra Elm Log.pngStripped Ultra Elm Log	stripped_ultra_elm_log
+Grid Stripped Ultra Elm Wood.pngStripped Ultra Elm Wood	stripped_ultra_elm_wood
+16pxStripped Ultra Ginkgo Log	stripped_ultra_ginkgo_log
+16pxStripped Ultra Ginkgo Wood	stripped_ultra_ginkgo_wood
+Grid Stripped Ultra Jungle Log.pngStripped Ultra Jungle Log	stripped_ultra_jungle_log
+Grid Stripped Ultra Jungle Wood.pngStripped Ultra Jungle Wood	stripped_ultra_jungle_wood
+Grid Strong Bug Lure.pngStrong Bug Lure	lure_bug_strong
+Grid Strong Dark Lure.pngStrong Dark Lure	lure_dark_strong
+Grid Strong Dragon Lure.pngStrong Dragon Lure	lure_dragon_strong
+Grid Strong Electric Lure.pngStrong Electric Lure	lure_electric_strong
+Grid Strong Fairy Lure.pngStrong Fairy Lure	lure_fairy_strong
+Grid Strong Fighting Lure.pngStrong Fighting Lure	lure_fighting_strong
+Grid Strong Fire Lure.pngStrong Fire Lure	lure_fire_strong
+Grid Strong Flying Lure.pngStrong Flying Lure	lure_flying_strong
+Grid Strong Ghost Lure.pngStrong Ghost Lure	lure_ghost_strong
+Grid Strong Grass Lure.pngStrong Grass Lure	lure_grass_strong
+Grid Strong Ground Lure.pngStrong Ground Lure	lure_ground_strong
+Grid Strong Hidden Ability Lure.pngStrong Hidden Ability Lure	lure_ha_strong
+Grid Strong Ice Lure.pngStrong Ice Lure	lure_ice_strong
+Grid Strong Normal Lure.pngStrong Normal Lure	lure_normal_strong
+Grid Strong Poison Lure.pngStrong Poison Lure	lure_poison_strong
+Grid Strong Psychic Lure.pngStrong Psychic Lure	lure_psychic_strong
+Grid Strong Rock Lure.pngStrong Rock Lure	lure_rock_strong
+Grid Strong Shiny Lure.pngStrong Shiny Lure	lure_shiny_strong
+Grid Strong Steel Lure.pngStrong Steel Lure	lure_steel_strong
+Grid Strong Water Lure.pngStrong Water Lure	lure_water_strong
+Grid Style Card.pngStyle Card	style_card
+Grid Suchiru Badge.pngSuchiru Badge	suchiru_badge
+Grid Sun Flute.pngSun Flute	sun_flute
+Grid Sun Stone.pngSun Stone	sun_stone
+Grid Sun Stone Axe.pngSun Stone Axe	sun_stone_axe
+Grid Sun Stone Boots.pngSun Stone Boots	sun_stone_boots
+Grid Sun Stone Chestplate.pngSun Stone Chestplate	sun_stone_chestplate
+Grid Sun Stone Hammer.pngSun Stone Hammer	sun_stone_hammer
+Grid Sun Stone Helmet.pngSun Stone Helmet	sun_stone_helmet
+Grid Sun Stone Hoe.pngSun Stone Hoe	sun_stone_hoe
+Grid Sun Stone Leggings.pngSun Stone Leggings	sun_stone_leggings
+Grid Sun Stone Ore.pngSun Stone Ore	sun_stone_ore
+Grid Sun Stone Pickaxe.pngSun Stone Pickaxe	sun_stone_pickaxe
+Grid Sun Stone Shard New.pngSun Stone Shard	sun_stone_shard
+Grid Sun Stone Shovel.pngSun Stone Shovel	sun_stone_shovel
+Grid Sun Stone Sword.pngSun Stone Sword	sun_stone_sword
+Grid Super Potion.pngSuper Potion	super_potion
+Grid Super Repel.pngSuper Repel	super_repel
+Grid Super Rod New.pngSuper Rod	super_rod	minecraft:custom_data={rodQuality: 0}
+minecraft:custom_data={rodQuality: 1}
+minecraft:custom_data={rodQuality: 2}
+minecraft:custom_data={rodQuality: 3}
+minecraft:custom_data={rodQuality: 4}
+minecraft:custom_data={rodQuality: 5}
+minecraft:custom_data={rodQuality: 6}
+Grid Surprise Mulch.pngSurprise Mulch	surprise_mulch
+Grid Swampertite.pngSwampertite	swampertite
+Grid Sweet Apple.pngSweet Apple	sweet_apple
+Grid Sweet Heart.pngSweet Heart	sweet_heart
+Grid Swift Feather.pngSwift Feather	swift_feather
+Grid Swift Mochi.pngSwift Mochi	swift_mochi
+Grid Swift Wing.pngSwift Wing	swift_wing
+Grid Tall Tombstone.pngTall Tombstone	tall_tombstone
+Grid Tamato Berry.pngTamato Berry	tamato_berry
+16pxTamato Berry Leaves	berry_leaves_tamato
+16pxTamato Berry Log	berry_log_tamato
+16pxTamato Berry Tree	berrytree_tamato
+Grid Tanga Berry.pngTanga Berry	tanga_berry
+16pxTanga Berry Leaves	berry_leaves_tanga
+16pxTanga Berry Log	berry_log_tanga
+16pxTanga Berry Tree	berrytree_tanga
+Grid Tapu Cocoa.pngTapu Cocoa	tapu_cocoa
+Tapunium Z.pngTapunium Z	tapunium_z
+Grid Tart Apple.pngTart Apple	tart_apple
+16pxTeam Galactic Badge	galactic_badge
+16pxTeam Plasma Badge	plasma_badge
+Grid Temple Block.pngTemple Block	temple_block
+Grid Temple Brick.pngTemple Brick	temple_brick
+Grid Temple Brick Slab.pngTemple Brick Slab	temple_brick_slab
+Grid Temple Brick Stairs.pngTemple Brick Stairs	temple_brick_stairs
+Grid Temple Pillar.pngTemple Pillar	temple_pillar
+Grid Temple Slab.pngTemple Slab	temple_slab
+Grid Temple Stairs.pngTemple Stairs	temple_stairs
+Grid Terrain Extender.pngTerrain Extender	terrain_extender
+Grid Thanks Mail.pngThanks Mail	pokemail_thanks
+Grid Thick Club.pngThick Club	thick_club
+16pxThis PokéStop has already been claimed!	claimedpokestop
+16pxThis PokéStop is currently on cooldown.	timedpokestop
+Grid Throat Spray.pngThroat Spray	throat_spray
+Grid Thunder Badge.pngThunder Badge	thunder_badge
+Grid Thunder Stone.pngThunder Stone	thunder_stone
+Grid Thunder Stone Axe.pngThunder Stone Axe	thunder_stone_axe
+Grid Thunder Stone Boots.pngThunder Stone Boots	thunder_stone_boots
+Grid Thunder Stone Chestplate.pngThunder Stone Chestplate	thunder_stone_chestplate
+Grid Thunder Stone Hammer.pngThunder Stone Hammer	thunder_stone_hammer
+Grid Thunder Stone Helmet.pngThunder Stone Helmet	thunder_stone_helmet
+Grid Thunder Stone Hoe.pngThunder Stone Hoe	thunder_stone_hoe
+Grid Thunder Stone Leggings.pngThunder Stone Leggings	thunder_stone_leggings
+Grid Thunder Stone Ore.pngThunder Stone Ore	thunder_stone_ore
+Grid Thunder Stone Pickaxe.pngThunder Stone Pickaxe	thunder_stone_pickaxe
+Grid Thunder Stone Shard.pngThunder Stone Shard	thunder_stone_shard
+Grid Thunder Stone Shovel.pngThunder Stone Shovel	thunder_stone_shovel
+Grid Thunder Stone Sword.pngThunder Stone Sword	thunder_stone_sword
+Grid Tidal Bell.pngTidal Bell	tidal_bell
+Grid Timed Fall New.pngTimed Fall	timed_fall
+Grid Timer Ball.pngTimer Ball	timer_ball	pixelmon:poke_ball=timer_ball
+Grid Timer Ball Lid.pngTimer Ball Lid	timer_ball_lid
+Grid Timespace Altar.pngTimespace Altar	timespace_altar
+16pxTimid Mint	mint_timid
+Grid Tin of Beans.pngTin of Beans	curry_beans
+Grid Tiny Mushroom.pngTiny Mushroom	tiny_mushroom
+Grid TM Case.pngTM Case	tm_case
+Grid Toast.pngToast	curry_toast
+Grid Toast Curry.pngToast Curry	dish_curry_toast
+Grid Tobu Badge.pngTobu Badge	tobu_badge
+Grid Topo Berry.pngTopo Berry	topo_berry
+16pxTopo Berry Leaves	berry_leaves_topo
+16pxTopo Berry Log	berry_log_topo
+Grid Touga Berry.pngTouga Berry	touga_berry
+16pxTouga Berry Leaves	berry_leaves_touga
+16pxTouga Berry Log	berry_log_touga
+Grid Toxic Badge.pngToxic Badge	toxic_badge
+Grid Toxic Orb.pngToxic Orb	toxic_orb
+Grid Toxic Plate.pngToxic Plate	toxic_plate
+16pxTR00: Swords Dance	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 0s}
+16pxTR01: Body Slam	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 1s}
+16pxTR02: Flamethrower	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 2s}
+16pxTR03: Hydro Pump	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 3s}
+16pxTR04: Surf	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 4s}
+16pxTR05: Ice Beam	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 5s}
+16pxTR06: Blizzard	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 6s}
+16pxTR07: Low Kick	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 7s}
+16pxTR08: Thunderbolt	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 8s}
+16pxTR09: Thunder	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 9s}
+16pxTR10: Earthquake	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 10s}
+16pxTR11: Psychic	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 11s}
+16pxTR12: Agility	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 12s}
+16pxTR13: Focus Energy	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 13s}
+16pxTR14: Metronome	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 14s}
+16pxTR15: Fire Blast	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 15s}
+16pxTR16: Waterfall	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 16s}
+16pxTR17: Amnesia	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 17s}
+16pxTR18: Leech Life	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 18s}
+16pxTR19: Tri Attack	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 19s}
+16pxTR20: Substitute	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 20s}
+16pxTR21: Reversal	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 21s}
+16pxTR22: Sludge Bomb	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 22s}
+16pxTR23: Spikes	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 23s}
+16pxTR24: Outrage	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 24s}
+16pxTR25: Psyshock	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 25s}
+16pxTR26: Endure	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 26s}
+16pxTR27: Sleep Talk	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 27s}
+16pxTR28: Megahorn	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 28s}
+16pxTR29: Baton Pass	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 29s}
+16pxTR30: Encore	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 30s}
+16pxTR31: Iron Tail	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 31s}
+16pxTR32: Crunch	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 32s}
+16pxTR33: Shadow Ball	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 33s}
+16pxTR34: Future Sight	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 34s}
+16pxTR35: Uproar	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 35s}
+16pxTR36: Heat Wave	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 36s}
+16pxTR37: Taunt	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 37s}
+16pxTR38: Trick	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 38s}
+16pxTR39: Superpower	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 39s}
+16pxTR40: Skill Swap	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 40s}
+16pxTR41: Blaze Kick	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 41s}
+16pxTR42: Hyper Voice	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 42s}
+16pxTR43: Overheat	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 43s}
+16pxTR44: Cosmic Power	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 44s}
+16pxTR45: Muddy Water	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 45s}
+16pxTR46: Iron Defense	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 46s}
+16pxTR47: Dragon Claw	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 47s}
+16pxTR48: Bulk Up	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 48s}
+16pxTR49: Calm Mind	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 49s}
+16pxTR50: Leaf Blade	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 50s}
+16pxTR51: Dragon Dance	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 51s}
+16pxTR52: Gyro Ball	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 52s}
+16pxTR53: Close Combat	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 53s}
+16pxTR54: Toxic Spikes	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 54s}
+16pxTR55: Flare Blitz	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 55s}
+16pxTR56: Aura Sphere	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 56s}
+16pxTR57: Poison Jab	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 57s}
+16pxTR58: Dark Pulse	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 58s}
+16pxTR59: Seed Bomb	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 59s}
+16pxTR60: X-Scissor	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 60s}
+16pxTR61: Bug Buzz	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 61s}
+16pxTR62: Dragon Pulse	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 62s}
+16pxTR63: Power Gem	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 63s}
+16pxTR64: Focus Blast	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 64s}
+16pxTR65: Energy Ball	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 65s}
+16pxTR66: Brave Bird	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 66s}
+16pxTR67: Earth Power	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 67s}
+16pxTR68: Nasty Plot	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 68s}
+16pxTR69: Zen Headbutt	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 69s}
+16pxTR70: Flash Cannon	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 70s}
+16pxTR71: Leaf Storm	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 71s}
+16pxTR72: Power Whip	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 72s}
+16pxTR73: Gunk Shot	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 73s}
+16pxTR74: Iron Head	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 74s}
+16pxTR75: Stone Edge	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 75s}
+16pxTR76: Stealth Rock	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 76s}
+16pxTR77: Grass Knot	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 77s}
+16pxTR78: Sludge Wave	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 78s}
+16pxTR79: Heavy Slam	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 79s}
+16pxTR80: Electro Ball	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 80s}
+16pxTR81: Foul Play	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 81s}
+16pxTR82: Stored Power	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 82s}
+16pxTR83: Ally Switch	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 83s}
+16pxTR84: Scald	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 84s}
+16pxTR85: Work Up	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 85s}
+16pxTR86: Wild Charge	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 86s}
+16pxTR87: Drill Run	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 87s}
+16pxTR88: Heat Crash	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 88s}
+16pxTR89: Hurricane	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 89s}
+16pxTR90: Play Rough	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 90s}
+16pxTR91: Venom Drench	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 91s}
+16pxTR92: Dazzling Gleam	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 92s}
+16pxTR93: Darkest Lariat	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 93s}
+16pxTR94: High Horsepower	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 94s}
+16pxTR95: Throat Chop	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 95s}
+16pxTR96: Pollen Puff	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 96s}
+16pxTR97: Psychic Fangs	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 97s}
+16pxTR98: Liquidation	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 98s}
+16pxTR99: Body Press	tr_gen8	minecraft:custom_data={Gen9Offset:1b, tm: 99s}
+Grid Trade Holder Left.pngTrade Holder Left	trade_holder_left
+Grid Trade Holder Right.pngTrade Holder Right	trade_holder_right
+Grid Trade Monitor.pngTrade Monitor	trade_monitor
+Grid Trade Panel.pngTrade Panel	trade_panel
+Grid Trash Can.pngTrash Can	trash_can
+Grid Tree.pngTree	tree
+Grid Tree Bottom.pngTree Bottom	tree_bottom
+Grid Tree Top.pngTree Top	tree_top
+Grid Tri-Pass.pngTri-Pass	tri_pass
+Grid Trio Badge.pngTrio Badge	trio_badge
+Grid Tropic Mail.pngTropic Mail	pokemail_tropic
+Grid Tropical Curry.pngTropical Curry	dish_curry_tropical
+Grid Tumblestone.pngTumblestone	tumblestone
+Grid Tunnel Mail.pngTunnel Mail	pokemail_tunnel
+Grid Twisted Spoon.pngTwisted Spoon	twisted_spoon
+Grid Tyranitarite.pngTyranitarite	tyranitarite
+16pxUI Element	ui_element
+Grid Ultra Ball.pngUltra Ball	ultra_ball	pixelmon:poke_ball=ultra_ball
+Grid Ultra Ball Lid.pngUltra Ball Lid	ultra_ball_lid
+Grid Ultra Chest.pngUltra Chest	ultra_chest
+Grid Ultra Chest.pngUltra Chest	ultrachest
+Grid Ultra Deep Crying Crystal.pngUltra Deep Crying Crystal	ultra_deep_crying_crystal
+Grid Ultra Deep Kelp.pngUltra Deep Kelp	ultra_deep_kelp
+Grid Ultra Deep Sea Clay.pngUltra Deep Sea Clay	ultra_deep_clay
+Grid Ultra Deep Sea Crystal.pngUltra Deep Sea Crystal	deep_sea
+Grid Ultra Deep Sea Crystal.pngUltra Deep Sea Crystal	ultra_deep_crystal
+Grid Ultra Deep Sea Gravel.pngUltra Deep Sea Gravel	ultra_deep_gravel
+Grid Ultra Deep Sea Key.pngUltra Deep Sea Key	ultra_deep_sea_key
+Grid Ultra Deep Sea Pickle.pngUltra Deep Sea Pickle	ultra_deep_sea_pickle
+Grid Ultra Deep Seagrass.pngUltra Deep Seagrass	ultra_deep_seagrass
+Grid Ultra Deep Stone.pngUltra Deep Stone	ultra_deep_stone
+Grid Ultra Desert Cactus.pngUltra Desert Cactus	ultra_desert_cactus
+Grid Ultra Desert Chiseled Sandstone.pngUltra Desert Chiseled Sandstone	ultra_desert_chiseled_sandstone
+Grid Ultra Desert Cut Sandstone.pngUltra Desert Cut Sandstone	ultra_desert_cut_sandstone
+Grid Ultra Desert Cut Sandstone Slab.pngUltra Desert Cut Sandstone Slab	ultra_desert_cut_sandstone_slab
+16pxUltra Desert Cut Stairs	ultra_desert_cut_stairs
+Grid Ultra Desert Gilded Sand.pngUltra Desert Gilded Sand	ultra_desert_gilded_sand
+Grid Ultra Desert Sand.pngUltra Desert Sand	ultra_desert_sand
+Grid Ultra Desert Sandstone.pngUltra Desert Sandstone	ultra_desert_sandstone
+Grid Ultra Desert Sandstone Slab.pngUltra Desert Sandstone Slab	ultra_desert_sandstone_slab
+Grid Ultra Desert Sandstone Stairs.pngUltra Desert Sandstone Stairs	ultra_desert_sandstone_stairs
+Grid Ultra Desert Sandstone Wall.pngUltra Desert Sandstone Wall	ultra_desert_sandstone_wall
+Grid Ultra Desert Smooth Sandstone.pngUltra Desert Smooth Sandstone	ultra_desert_smooth_sandstone
+Grid Ultra Desert Smooth Sandstone Slab.pngUltra Desert Smooth Sandstone Slab	ultra_desert_smooth_sandstone_slab
+Grid Ultra Desert Smooth Sandstone Stairs.pngUltra Desert Smooth Sandstone Stairs	ultra_desert_smooth_sandstone_stairs
+Grid Ultra Elm Boat.pngUltra Elm Boat	ultra_elm_boat
+Grid Ultra Elm Boat with Chest.pngUltra Elm Boat with Chest	ultra_elm_chest_boat
+Grid Ultra Elm Button.pngUltra Elm Button	ultra_elm_button
+Grid Ultra Elm Door.pngUltra Elm Door	ultra_elm_door
+Grid Ultra Elm Fence.pngUltra Elm Fence	ultra_elm_fence
+Grid Ultra Elm Fence Gate.pngUltra Elm Fence Gate	ultra_elm_fence_gate
+Grid Ultra Elm Leaves.pngUltra Elm Leaves	ultra_elm_leaves
+Grid Ultra Elm Log.pngUltra Elm Log	ultra_elm_log
+Grid Ultra Elm Planks.pngUltra Elm Planks	ultra_elm_planks
+Grid Ultra Elm Pressure Plate.pngUltra Elm Pressure Plate	ultra_elm_pressure_plate
+Grid Ultra Elm Sapling.pngUltra Elm Sapling	ultra_elm_sapling
+Grid Ultra Elm Sign.pngUltra Elm Sign	ultra_elm_sign
+Grid Ultra Elm Slab.pngUltra Elm Slab	ultra_elm_slab
+Grid Ultra Elm Stairs.pngUltra Elm Stairs	ultra_elm_stairs
+Grid Ultra Elm Trapdoor.pngUltra Elm Trapdoor	ultra_elm_trapdoor
+Grid Ultra Elm Wood.pngUltra Elm Wood	ultra_elm_wood
+Grid Ultra Forest Fallen Leaves.pngUltra Forest Fallen Leaves	ultra_forest_fallen_leaves
+Grid Ultra Forest Flower.pngUltra Forest Flower	ultra_forest_flower
+Grid Ultra Forest Key.pngUltra Forest Key	ultra_forest_key
+Grid Ultra Ginkgo Boat.pngUltra Ginkgo Boat	ultra_ginkgo_boat
+Grid Ultra Ginkgo Boat with Chest.pngUltra Ginkgo Boat with Chest	ultra_ginkgo_chest_boat
+Grid Ultra Ginkgo Button.pngUltra Ginkgo Button	ultra_ginkgo_button
+Grid Ultra Ginkgo Door.pngUltra Ginkgo Door	ultra_ginkgo_door
+Grid Ultra Ginkgo Fence.pngUltra Ginkgo Fence	ultra_ginkgo_fence
+Grid Ultra Ginkgo Fence Gate.pngUltra Ginkgo Fence Gate	ultra_ginkgo_fence_gate
+16pxUltra Ginkgo Leaves	ultra_ginkgo_leaves
+Grid Ultra Ginkgo Log.pngUltra Ginkgo Log	ultra_ginkgo_log
+Grid Ultra Ginkgo Planks.pngUltra Ginkgo Planks	ultra_ginkgo_planks
+Grid Ultra Ginkgo Pressure Plate.pngUltra Ginkgo Pressure Plate	ultra_ginkgo_pressure_plate
+16pxUltra Ginkgo Sapling	ultra_ginkgo_sapling
+Grid Ultra Ginkgo Sign.pngUltra Ginkgo Sign	ultra_ginkgo_sign
+Grid Ultra Ginkgo Slab.pngUltra Ginkgo Slab	ultra_ginkgo_slab
+Grid Ultra Ginkgo Stairs.pngUltra Ginkgo Stairs	ultra_ginkgo_stairs
+Grid Ultra Ginkgo Trapdoor.pngUltra Ginkgo Trapdoor	ultra_ginkgo_trapdoor
+16pxUltra Ginkgo Wood	ultra_ginkgo_wood
+Grid Ultra Jungle Boat.pngUltra Jungle Boat	ultra_jungle_boat
+Grid Ultra Jungle Boat with Chest.pngUltra Jungle Boat with Chest	ultra_jungle_chest_boat
+Grid Ultra Jungle Button.pngUltra Jungle Button	ultra_jungle_button
+Grid Ultra Jungle Door.pngUltra Jungle Door	ultra_jungle_door
+Grid Ultra Jungle Fence.pngUltra Jungle Fence	ultra_jungle_fence
+Grid Ultra Jungle Fence Gate.pngUltra Jungle Fence Gate	ultra_jungle_fence_gate
+Grid Ultra Jungle Leaves.pngUltra Jungle Leaves	ultra_jungle_leaves
+Grid Ultra Jungle Log.pngUltra Jungle Log	ultra_jungle_log
+Grid Ultra Jungle Planks.pngUltra Jungle Planks	ultra_jungle_planks
+Grid Ultra Jungle Pressure Plate.pngUltra Jungle Pressure Plate	ultra_jungle_pressure_plate
+Grid Ultra Jungle Sapling.pngUltra Jungle Sapling	ultra_jungle_sapling
+Grid Ultra Jungle Sign.pngUltra Jungle Sign	ultra_jungle_sign
+Grid Ultra Jungle Slab.pngUltra Jungle Slab	ultra_jungle_slab
+Grid Ultra Jungle Stairs.pngUltra Jungle Stairs	ultra_jungle_stairs
+Grid Ultra Jungle Trapdoor.pngUltra Jungle Trapdoor	ultra_jungle_trapdoor
+Grid Ultra Jungle Vine.pngUltra Jungle Vine	ultra_jungle_vine
+Grid Ultra Jungle Wood.pngUltra Jungle Wood	ultra_jungle_wood
+Grid Ultra Rare Soda.pngUltra Rare Soda	ultra_rare_soda
+Grid Ultra Ruin Key.pngUltra Ruin Key	ultra_ruin_key
+Grid Ultra Space Cobblestone.pngUltra Space Cobblestone	ultra_space_cobblestone
+Grid Ultra Space Cobblestone Button.pngUltra Space Cobblestone Button	ultra_space_cobblestone_button
+Grid Ultra Space Cobblestone Pressure Plate.pngUltra Space Cobblestone Pressure Plate	ultra_space_cobblestone_pressure_plate
+Grid Ultra Space Cobblestone Slab.pngUltra Space Cobblestone Slab	ultra_space_cobblestone_slab
+Grid Ultra Space Cobblestone Stairs.pngUltra Space Cobblestone Stairs	ultra_space_cobblestone_stairs
+Grid Ultra Space Cobblestone Wall.pngUltra Space Cobblestone Wall	ultra_space_cobblestone_wall
+Grid Ultra Space Stone.pngUltra Space Stone	ultra_space_stone
+Grid Ultra Space Stone Button.pngUltra Space Stone Button	ultra_space_stone_button
+Grid Ultra Space Stone Pressure Plate.pngUltra Space Stone Pressure Plate	ultra_space_stone_pressure_plate
+Grid Ultra Space Stone Slab.pngUltra Space Stone Slab	ultra_space_stone_slab
+Grid Ultra Space Stone Stairs.pngUltra Space Stone Stairs	ultra_space_stone_stairs
+Grid Ultra Space Stone Wall.pngUltra Space Stone Wall	ultra_space_stone_wall
+16pxUltra Space Teleporter	ultra_space_teleporter
+Ultranecrozium Z.pngUltranecrozium Z	ultranecrozium_z
+16pxUnova TM1: Hone Claws	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 1s}
+16pxUnova TM2: Dragon Claw	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 2s}
+16pxUnova TM3: Psyshock	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 3s}
+16pxUnova TM4: Calm Mind	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 4s}
+16pxUnova TM5: Roar	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 5s}
+16pxUnova TM6: Toxic	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 6s}
+16pxUnova TM7: Hail	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 7s}
+16pxUnova TM8: Bulk Up	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 8s}
+16pxUnova TM9: Venoshock	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 9s}
+16pxUnova TM10: Hidden Power	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 10s}
+16pxUnova TM11: Sunny Day	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 11s}
+16pxUnova TM12: Taunt	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 12s}
+16pxUnova TM13: Ice Beam	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 13s}
+16pxUnova TM14: Blizzard	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 14s}
+16pxUnova TM15: Hyper Beam	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 15s}
+16pxUnova TM16: Light Screen	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 16s}
+16pxUnova TM17: Protect	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 17s}
+16pxUnova TM18: Rain Dance	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 18s}
+16pxUnova TM19: Telekinesis	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 19s}
+16pxUnova TM20: Safeguard	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 20s}
+16pxUnova TM21: Frustration	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 21s}
+16pxUnova TM22: Solar Beam	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 22s}
+16pxUnova TM23: Smack Down	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 23s}
+16pxUnova TM24: Thunderbolt	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 24s}
+16pxUnova TM25: Thunder	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 25s}
+16pxUnova TM26: Earthquake	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 26s}
+16pxUnova TM27: Return	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 27s}
+16pxUnova TM28: Dig	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 28s}
+16pxUnova TM29: Psychic	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 29s}
+16pxUnova TM30: Shadow Ball	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 30s}
+16pxUnova TM31: Brick Break	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 31s}
+16pxUnova TM32: Double Team	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 32s}
+16pxUnova TM33: Reflect	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 33s}
+16pxUnova TM34: Sludge Wave	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 34s}
+16pxUnova TM35: Flamethrower	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 35s}
+16pxUnova TM36: Sludge Bomb	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 36s}
+16pxUnova TM37: Sandstorm	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 37s}
+16pxUnova TM38: Fire Blast	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 38s}
+16pxUnova TM39: Rock Tomb	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 39s}
+16pxUnova TM40: Aerial Ace	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 40s}
+16pxUnova TM41: Torment	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 41s}
+16pxUnova TM42: Facade	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 42s}
+16pxUnova TM43: Flame Charge	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 43s}
+16pxUnova TM44: Rest	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 44s}
+16pxUnova TM45: Attract	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 45s}
+16pxUnova TM46: Thief	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 46s}
+16pxUnova TM47: Low Sweep	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 47s}
+16pxUnova TM48: Round	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 48s}
+16pxUnova TM49: Echoed Voice	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 49s}
+16pxUnova TM50: Overheat	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 50s}
+16pxUnova TM51: Ally Switch	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 51s}
+16pxUnova TM52: Focus Blast	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 52s}
+16pxUnova TM53: Energy Ball	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 53s}
+16pxUnova TM54: False Swipe	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 54s}
+16pxUnova TM55: Scald	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 55s}
+16pxUnova TM56: Fling	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 56s}
+16pxUnova TM57: Charge Beam	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 57s}
+16pxUnova TM58: Sky Drop	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 58s}
+16pxUnova TM59: Incinerate	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 59s}
+16pxUnova TM60: Quash	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 60s}
+16pxUnova TM61: Will-O-Wisp	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 61s}
+16pxUnova TM62: Acrobatics	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 62s}
+16pxUnova TM63: Embargo	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 63s}
+16pxUnova TM64: Explosion	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 64s}
+16pxUnova TM65: Shadow Claw	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 65s}
+16pxUnova TM66: Payback	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 66s}
+16pxUnova TM67: Retaliate	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 67s}
+16pxUnova TM68: Giga Impact	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 68s}
+16pxUnova TM69: Rock Polish	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 69s}
+16pxUnova TM70: Flash	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 70s}
+16pxUnova TM71: Stone Edge	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 71s}
+16pxUnova TM72: Volt Switch	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 72s}
+16pxUnova TM73: Thunder Wave	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 73s}
+16pxUnova TM74: Gyro Ball	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 74s}
+16pxUnova TM75: Swords Dance	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 75s}
+16pxUnova TM76: Struggle Bug	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 76s}
+16pxUnova TM77: Psych Up	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 77s}
+16pxUnova TM78: Bulldoze	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 78s}
+16pxUnova TM79: Frost Breath	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 79s}
+16pxUnova TM80: Rock Slide	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 80s}
+16pxUnova TM81: X-Scissor	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 81s}
+16pxUnova TM82: Dragon Tail	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 82s}
+16pxUnova TM83: Work Up	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 83s}
+16pxUnova TM84: Poison Jab	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 84s}
+16pxUnova TM85: Dream Eater	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 85s}
+16pxUnova TM86: Grass Knot	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 86s}
+16pxUnova TM87: Swagger	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 87s}
+16pxUnova TM88: Pluck	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 88s}
+16pxUnova TM89: U-turn	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 89s}
+16pxUnova TM90: Substitute	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 90s}
+16pxUnova TM91: Flash Cannon	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 91s}
+16pxUnova TM92: Trick Room	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 92s}
+16pxUnova TM93: Wild Charge	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 93s}
+16pxUnova TM94: Rock Smash	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 94s}
+16pxUnova TM95: Snarl	tm_gen5	minecraft:custom_data={Gen9Offset:1b, tm: 95s}
+Grid Unown Block '!'.pngUnown Block '!'	unown_block_exclaim
+Grid Unown Block '?'.pngUnown Block '?'	unown_block_question
+Grid Unown Block 'A'.pngUnown Block 'A'	unown_block_a
+Grid Unown Block 'B'.pngUnown Block 'B'	unown_block_b
+Grid Unown Block 'C'.pngUnown Block 'C'	unown_block_c
+Grid Unown Block 'D'.pngUnown Block 'D'	unown_block_d
+Grid Unown Block 'E'.pngUnown Block 'E'	unown_block_e
+Grid Unown Block 'F'.pngUnown Block 'F'	unown_block_f
+Grid Unown Block 'G'.pngUnown Block 'G'	unown_block_g
+Grid Unown Block 'H'.pngUnown Block 'H'	unown_block_h
+Grid Unown Block 'I'.pngUnown Block 'I'	unown_block_i
+Grid Unown Block 'J'.pngUnown Block 'J'	unown_block_j
+Grid Unown Block 'K'.pngUnown Block 'K'	unown_block_k
+Grid Unown Block 'L'.pngUnown Block 'L'	unown_block_l
+Grid Unown Block 'M'.pngUnown Block 'M'	unown_block_m
+Grid Unown Block 'N'.pngUnown Block 'N'	unown_block_n
+Grid Unown Block 'O'.pngUnown Block 'O'	unown_block_o
+Grid Unown Block 'P'.pngUnown Block 'P'	unown_block_p
+Grid Unown Block 'Q'.pngUnown Block 'Q'	unown_block_q
+Grid Unown Block 'R'.pngUnown Block 'R'	unown_block_r
+Grid Unown Block 'S'.pngUnown Block 'S'	unown_block_s
+Grid Unown Block 'T'.pngUnown Block 'T'	unown_block_t
+Grid Unown Block 'U'.pngUnown Block 'U'	unown_block_u
+Grid Unown Block 'V'.pngUnown Block 'V'	unown_block_v
+Grid Unown Block 'W'.pngUnown Block 'W'	unown_block_w
+Grid Unown Block 'X'.pngUnown Block 'X'	unown_block_x
+Grid Unown Block 'Y'.pngUnown Block 'Y'	unown_block_y
+Grid Unown Block 'Z'.pngUnown Block 'Z'	unown_block_z
+16pxUnown Block Blank	unown_block_blank
+Grid Up-Grade New.pngUp-Grade	up_grade
+Grid Utility Umbrella.pngUtility Umbrella	utility_umbrella
+Grid Venusaurite.pngVenusaurite	venusaurite
+Grid Vertical Tombstone.pngVertical Tombstone	vertical_tombstone
+Grid Volcano Badge.pngVolcano Badge	volcano_badge
+Grid Voltage Badge.pngVoltage Badge	voltage_badge
+Grid Wacan Berry.pngWacan Berry	wacan_berry
+16pxWacan Berry Leaves	berry_leaves_wacan
+16pxWacan Berry Log	berry_log_wacan
+16pxWacan Berry Tree	berrytree_wacan
+Grid Wailmer Pail.pngWailmer Pail	wailmer_pail
+Grid Warp Plate.pngWarp Plate	warp_plate
+Grid Washing Machine.pngWashing Machine	washing_machine
+16pxWater Badge	water_badge
+Grid Water Gem.pngWater Gem	water_gem
+Grid Water Memory.pngWater Memory	water_memory
+Grid Water Stone.pngWater Stone	water_stone
+Grid Water Stone Axe.pngWater Stone Axe	water_stone_axe
+Grid Water Stone Boots.pngWater Stone Boots	water_stone_boots
+Grid Water Stone Chestplate.pngWater Stone Chestplate	water_stone_chestplate
+Grid Water Stone Hammer.pngWater Stone Hammer	water_stone_hammer
+Grid Water Stone Helmet.pngWater Stone Helmet	water_stone_helmet
+Grid Water Stone Hoe.pngWater Stone Hoe	water_stone_hoe
+Grid Water Stone Leggings.pngWater Stone Leggings	water_stone_leggings
+Grid Water Stone Ore.pngWater Stone Ore	water_stone_ore
+Grid Water Stone Pickaxe.pngWater Stone Pickaxe	water_stone_pickaxe
+Grid Water Stone Shard.pngWater Stone Shard	water_stone_shard
+Grid Water Stone Shovel.pngWater Stone Shovel	water_stone_shovel
+Grid Water Stone Sword.pngWater Stone Sword	water_stone_sword
+16pxWater's Wishing Piece	waterdude_wishing_piece
+Waterium Z.pngWaterium Z	waterium_z
+Grid Watmel Berry.pngWatmel Berry	watmel_berry
+16pxWatmel Berry Leaves	berry_leaves_watmel
+16pxWatmel Berry Log	berry_log_watmel
+Grid Wave Badge.pngWave Badge	wave_badge
+Grid Wave Incense.pngWave Incense	wave_incense
+Grid Wave Mail.pngWave Mail	pokemail_wave
+Grid Weak Bug Lure.pngWeak Bug Lure	lure_bug_weak
+Grid Weak Dark Lure.pngWeak Dark Lure	lure_dark_weak
+Grid Weak Dragon Lure.pngWeak Dragon Lure	lure_dragon_weak
+Grid Weak Electric Lure.pngWeak Electric Lure	lure_electric_weak
+Grid Weak Fairy Lure.pngWeak Fairy Lure	lure_fairy_weak
+Grid Weak Fighting Lure.pngWeak Fighting Lure	lure_fighting_weak
+Grid Weak Fire Lure.pngWeak Fire Lure	lure_fire_weak
+Grid Weak Flying Lure.pngWeak Flying Lure	lure_flying_weak
+Grid Weak Ghost Lure.pngWeak Ghost Lure	lure_ghost_weak
+Grid Weak Grass Lure.pngWeak Grass Lure	lure_grass_weak
+Grid Weak Ground Lure.pngWeak Ground Lure	lure_ground_weak
+Grid Weak Hidden Ability Lure.pngWeak Hidden Ability Lure	lure_ha_weak
+Grid Weak Ice Lure.pngWeak Ice Lure	lure_ice_weak
+Grid Weak Normal Lure.pngWeak Normal Lure	lure_normal_weak
+Grid Weak Poison Lure.pngWeak Poison Lure	lure_poison_weak
+Grid Weak Psychic Lure.pngWeak Psychic Lure	lure_psychic_weak
+Grid Weak Rock Lure.pngWeak Rock Lure	lure_rock_weak
+Grid Weak Shiny Lure.pngWeak Shiny Lure	lure_shiny_weak
+Grid Weak Steel Lure.pngWeak Steel Lure	lure_steel_weak
+Grid Weak Water Lure.pngWeak Water Lure	lure_water_weak
+Grid Weakness Policy.pngWeakness Policy	weakness_policy
+Grid Wepear Berry.pngWepear Berry	wepear_berry
+16pxWepear Berry Leaves	berry_leaves_wepear
+16pxWepear Berry Log	berry_log_wepear
+Grid Wheel.pngWheel	wheel
+Grid Whipped Dream.pngWhipped Dream	whipped_dream
+Grid Whipped-Cream Curry.pngWhipped-Cream Curry	dish_curry_cream
+Grid White Apricorn.pngWhite Apricorn	white_apricorn
+Grid White Armchair.pngWhite Armchair	white_armchair
+Grid White Badgecase.pngWhite Badgecase	whitebadgecase
+Grid White Cash Register.pngWhite Cash Register	white_cash_register
+Grid White Chair.pngWhite Chair	white_chair
+Grid White Clock.pngWhite Clock	white_clock
+Grid White Couch.pngWhite Couch	white_couch
+Grid White Cushion Chair.pngWhite Cushion Chair	white_cushion_chair
+16pxWhite Day Care	white_day_care
+Grid White Floor Gym Sign.pngWhite Floor Gym Sign	white_floor_gym_sign
+Grid White Flute.pngWhite Flute	white_flute
+Grid White Folding Chair.pngWhite Folding Chair	white_folding_chair
+16pxWhite Hanging Gym Sign	white_hanging_gym_sign
+Grid White Healer.pngWhite Healer	white_healer
+Grid White Herb.pngWhite Herb	white_herb
+16pxWhite Letter Box	white_letter_box
+Grid White Letterbox.pngWhite Letterbox	letterbox_standing_white
+16pxWhite Mail Box	white_mail_box
+Grid White Mailbox.pngWhite Mailbox	mailbox_white
+Grid White Mane Hair.pngWhite Mane Hair	white_mane_hair
+Grid White PC.pngWhite PC	white_pc
+Grid White Poké Bag.pngWhite Poké Bag	white_poke_bag
+Grid White Rug.pngWhite Rug	white_rug
+Grid White Shard.pngWhite Shard	white_shard
+Grid White Trade Machine.pngWhite Trade Machine	white_trade_machine
+Grid White Umbrella.pngWhite Umbrella	white_umbrella
+Grid White Vending Machine.pngWhite Vending Machine	white_vending_machine
+16pxWhite Wall Gym Sign	white_wall_gym_sign
+Grid White Water Float.pngWhite Water Float	white_water_float
+Grid Wide Lens.pngWide Lens	wide_lens
+Grid Wiki Berry.pngWiki Berry	wiki_berry
+16pxWiki Berry Leaves	berry_leaves_wiki
+16pxWiki Berry Log	berry_log_wiki
+Grid Window 1.pngWindow 1	window1
+Grid Window 2.pngWindow 2	window2
+Grid Wing Ball.pngWing Ball	wing_ball	pixelmon:poke_ball=wing_ball
+Grid Wing Ball Lid.pngWing Ball Lid	wing_ball_lid
+Grid Wise Glasses.pngWise Glasses	wise_glasses
+Grid Wishing Piece.pngWishing Piece	wishing_piece
+Grid Wishing Star.pngWishing Star	wishing_star
+Grid Wood Hammer.pngWood Hammer	wood_hammer
+Grid Wood Mail.pngWood Mail	pokemail_wood
+Grid Wooden Base.pngWooden Base	wooden_base
+Grid Wooden Crown.pngWooden Crown	wooden_crown
+Grid Wooden Flooring.pngWooden Flooring	wooden_flooring
+Grid X Accuracy.pngX Accuracy	x_accuracy
+Grid X Attack.pngX Attack	x_attack
+Grid X Defense.pngX Defense	x_defense
+Grid X Sp. Atk.pngX Sp. Atk	x_special_attack
+Grid X Sp. Def.pngX Sp. Def	x_special_defense
+Grid X Speed.pngX Speed	x_speed
+Grid Yache Berry.pngYache Berry	yache_berry
+16pxYache Berry Leaves	berry_leaves_yache
+16pxYache Berry Log	berry_log_yache
+16pxYache Berry Tree	berrytree_yache
+Grid Yago Berry.pngYago Berry	yago_berry
+16pxYago Berry Leaves	berry_leaves_yago
+16pxYago Berry Log	berry_log_yago
+Grid Yellow Apricorn.pngYellow Apricorn	yellow_apricorn
+Grid Yellow Armchair.pngYellow Armchair	yellow_armchair
+Grid Yellow Badgecase.pngYellow Badgecase	yellowbadgecase
+Grid Yellow Berry Boat.pngYellow Berry Boat	yellow_berry_wood_boat
+Grid Yellow Berry Boat with Chest.pngYellow Berry Boat with Chest	yellow_berry_wood_chest_boat
+Grid Yellow Berry Button.pngYellow Berry Button	yellow_berry_wood_button
+Grid Yellow Berry Door.pngYellow Berry Door	yellow_berry_wood_door
+Grid Yellow Berry Fence.pngYellow Berry Fence	yellow_berry_wood_fence
+Grid Yellow Berry Fence Gate.pngYellow Berry Fence Gate	yellow_berry_wood_fence_gate
+Grid Yellow Berry Planks.pngYellow Berry Planks	yellow_berry_wood_planks
+Grid Yellow Berry Pressure Plate.pngYellow Berry Pressure Plate	yellow_berry_wood_pressure_plate
+Grid Yellow Berry Sign.pngYellow Berry Sign	yellow_berry_wood_sign
+Grid Yellow Berry Slab.pngYellow Berry Slab	yellow_berry_wood_slab
+Grid Yellow Berry Stairs.pngYellow Berry Stairs	yellow_berry_wood_stairs
+Grid Yellow Berry Trapdoor.pngYellow Berry Trapdoor	yellow_berry_wood_trapdoor
+Grid Yellow Cash Register.pngYellow Cash Register	yellow_cash_register
+Grid Yellow Chair.pngYellow Chair	yellow_chair
+Grid Yellow Clock.pngYellow Clock	yellow_clock
+Grid Yellow Couch.pngYellow Couch	yellow_couch
+Grid Yellow Cushion Chair.pngYellow Cushion Chair	yellow_cushion_chair
+16pxYellow Day Care	yellow_day_care
+Grid Yellow Floor Gym Sign.pngYellow Floor Gym Sign	yellow_floor_gym_sign
+Grid Yellow Flute.pngYellow Flute	yellow_flute
+Grid Yellow Folding Chair.pngYellow Folding Chair	yellow_folding_chair
+16pxYellow Hanging Gym Sign	yellow_hanging_gym_sign
+Grid Yellow Healer.pngYellow Healer	yellow_healer
+Grid Yellow Juice.pngYellow Juice	yellow_juice
+16pxYellow Letter Box	yellow_letter_box
+Grid Yellow Letterbox.pngYellow Letterbox	letterbox_standing_yellow
+16pxYellow Mail Box	yellow_mail_box
+Grid Yellow Mailbox.pngYellow Mailbox	mailbox_yellow
+Grid Yellow Nectar.pngYellow Nectar	yellow_nectar
+Grid Yellow PC.pngYellow PC	yellow_pc
+Grid Yellow Petal.pngYellow Petal	yellow_petal
+Grid Yellow Poké Bag.pngYellow Poké Bag	yellow_poke_bag
+Grid Yellow Rug.pngYellow Rug	yellow_rug
+Grid Yellow Shard.pngYellow Shard	yellow_shard
+Grid Yellow Trade Machine.pngYellow Trade Machine	yellow_trade_machine
+Grid Yellow Umbrella.pngYellow Umbrella	yellow_umbrella
+Grid Yellow Vending Machine.pngYellow Vending Machine	yellow_vending_machine
+16pxYellow Wall Gym Sign	yellow_wall_gym_sign
+Grid Yellow Water Float.pngYellow Water Float	yellow_water_float
+16pxYosei Badge	yosei_badge
+Grid Z-Power Ring.pngZ-Power Ring	z_power_ring
+Grid Z-Ring.pngZ-Ring	z_ring
+Grid Zap Plate.pngZap Plate	zap_plate
+Grid Zephyr Badge.pngZephyr Badge	zephyr_badge
+Grid Zinc.pngZinc	zinc
+Grid Zoom Lens.pngZoom Lens	zoom_lens
+16pxZygarde Cell	zygarde_cell
+16pxZygarde Core	zygarde_core
+Grid Zygarde Cube.pngZygarde Cube	zygarde_cube
