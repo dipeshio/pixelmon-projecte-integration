@@ -50,16 +50,22 @@ The compiled mod will be at `build/libs/pixele-1.0.0.jar`
 
 ## EMC Value Reference
 
-| Category | Example Items | EMC Value |
-|----------|---------------|-----------|
-| Apricorns | Red, Blue, etc. | 64 |
-| Cooked Apricorns | Cooked Red, etc. | 128 |
-| Evolution Stones | Fire, Water, Thunder | 2,048 |
-| Rare Evolution Stones | Dawn, Dusk, Shiny | 4,096 |
-| Rare Candy | - | 8,192 |
-| Mega Stones | All types | 16,384 |
-| Master Ball | - | 32,768 |
-| Legend Plate | - | 65,536 |
+| Tier | Category | Example Items | EMC Value |
+|------|----------|---------------|-----------|
+| Common | Apricorns | Red, Blue, etc. | 64 |
+| Common | Cooked Apricorns | Cooked Red, etc. | 256 |
+| Uncommon | Poké Balls | Poké, Great, Ultra | 2k - 8k |
+| Rare | Evolution Stones | Fire, Water, Thunder | 16k |
+| Rare | Vitamins | Rare Candy, Protein | 32k |
+| Very Rare | Evolution Items | King's Rock, Metal Coat | 64k |
+| Very Rare | Fossils | Helix, Dome, Old Amber | 64k |
+| Ultra Rare | Mega Stones | All types | 128k |
+| Ultra Rare | Z-Crystals | Type / Pokemon-specific | 64k - 128k |
+| Ultra Rare | Special Balls | Beast, Dream, Safari | 128k - 256k |
+| Legendary | Ability Patch | - | 512k |
+| Legendary | Master Ball | - | 512k |
+| Legendary | GS Ball | - | 1M |
+| Legendary | Legend Plate | - | 1M |
 
 ## License
 
