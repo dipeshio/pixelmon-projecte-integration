@@ -1,15 +1,21 @@
-# ⚡ pixelmon-projecte-bridge
+# pixelmon-projecte-bridge
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+NeoForge/Forge mod that assigns ProjectE EMC values to Pixelmon items so they can be transmuted.
 
-A NeoForge mod that assigns ProjectE EMC values to Pixelmon items so conversion and crafting economies stay consistent.
-
-## Setup
-
+## Build
 ```bash
 ./gradlew build
 ```
+The JAR will appear in build/libs/. Copy it to your Minecraft mods folder alongside Pixelmon and ProjectE.
+
+## Files
+- src/main/java – mod sources
+- docs/items.txt – EMC mapping reference
+- build.gradle, gradlew – build tooling
+
+## Requirements
+- Java 17+
+- NeoForge/Forge with Pixelmon + ProjectE installed
 
 ## License
-
-MIT © 2026 dipeshio
+MIT
