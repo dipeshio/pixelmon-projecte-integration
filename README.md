@@ -1,27 +1,15 @@
-# pixelmon-projecte-bridge
+# ⚡ pixelmon-projecte-bridge
 
-Minecraft Forge mod that integrates Pixelmon with ProjectE, allowing EMC values for Pixelmon items. Built with Gradle for Minecraft Forge.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-## Features
-- EMC values for Pixelmon items
-- Transmutation compatibility
-- Configurable values
+A NeoForge mod that assigns ProjectE EMC values to Pixelmon items so conversion and crafting economies stay consistent.
 
-## Requirements
-- Java 17+
-- Minecraft Forge
-- Pixelmon mod
-- ProjectE mod
+## Setup
 
-## Build
 ```bash
 ./gradlew build
 ```
 
-The compiled JAR will be in `build/libs/`.
-
-## Installation
-Copy the JAR to your Minecraft `mods/` folder alongside Pixelmon and ProjectE.
-
 ## License
-MIT
+
+MIT © 2026 dipeshio
